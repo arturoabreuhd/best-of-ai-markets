@@ -9,7 +9,9 @@
 
 ## Estado del repo
 
-- **PÚBLICO 2026-06-26**: `https://github.com/arturoabreuhd/best-of-ai-markets` (HEAD `67feded`, 680 tools, taxonomía D8). Local: `~/best-of-markets-intelligence`, remote `origin` → ese repo. ⚠️ Falta que Arturo active "Allow GitHub Actions to create and approve PRs" (Settings → Actions → General) o el PR semanal del jueves no se abre (la rama update + draft release sí).
+- **PÚBLICO 2026-06-26**: `https://github.com/arturoabreuhd/best-of-ai-markets` (680 tools, taxonomía D8). Local: `~/best-of-markets-intelligence`, remote `origin` → ese repo.
+- ⚠️⚠️ **BLOQUEANTE — Actions DESHABILITADO en este repo** (dispatch → `HTTP 422: Actions has been disabled for this user`). El refresh semanal NO corre hasta que Arturo lo habilite. Fix: repo Settings → Actions → General → Actions permissions → "Allow all actions and reusable workflows" → Save. (No es a nivel cuenta: ai-watch/altcoin/world-pulse sí corren Actions.)
+- ⚠️ Segundo toggle (tras habilitar Actions): Settings → Actions → General → Workflow permissions → "Allow GitHub Actions to create and approve pull requests" o el PR semanal no se abre (rama update + draft release sí). Re-verificar con `gh workflow run update-best-of-list.yml` después.
 - `projects.yaml`: **680 tools** verificadas en 10 categorías (fuente de verdad).
 - `README.md`: resync en curso (task background) para reflejar las 680. Header/footer/teaser Emergence Picks intactos. Se regenerará otra vez tras el reorg D8.
 - `_discovery/fase2-report.md`: reporte de provenance del barrido (nuevas por categoría + 223 descartes con motivo).
