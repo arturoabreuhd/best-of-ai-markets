@@ -90,6 +90,12 @@ projects:
   - name: crypto-trading-bot
     github_id: Haehnchen/crypto-trading-bot
     category: crypto-trading
+  - name: peregrine
+    github_id: wardbradt/peregrine
+    category: crypto-trading
+  - name: crypto-arbitrage-framework
+    github_id: hzjken/crypto-arbitrage-framework
+    category: crypto-trading
 
   # --- backtesting-quant ---
   - name: QuantConnect Lean
@@ -183,15 +189,6 @@ projects:
     github_id: kukapay/dune-analytics-mcp
     category: onchain-analytics
     labels: ["mcp"]
-  - name: DeFiHackLabs
-    github_id: SunWeb3Sec/DeFiHackLabs
-    category: onchain-analytics
-  - name: peregrine
-    github_id: wardbradt/peregrine
-    category: onchain-analytics
-  - name: crypto-arbitrage-framework
-    github_id: hzjken/crypto-arbitrage-framework
-    category: onchain-analytics
 
   # --- fundamentals-filings ---
   - name: edgartools
@@ -322,3 +319,6 @@ projects:
     github_id: OffcierCia/DeFi-Developer-Road-Map
     category: research-discovery
     labels: ["awesome"]
+  - name: DeFiHackLabs
+    github_id: SunWeb3Sec/DeFiHackLabs
+    category: research-discovery
