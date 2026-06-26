@@ -1,0 +1,7 @@
+# discovery scratch — not part of the published list
+_discovery/sample-projects.yaml
+_discovery/*.sqlite
+_discovery/*.db
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,324 @@
+configuration:
+  min_stars: 20
+  require_github: True
+  max_trending_projects: 10
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  projects_history_folder: "history"
+
+categories:
+  - category: "crypto-trading"
+    title: "Crypto Trading Bots & Frameworks"
+    subtitle: "Open-source bots and frameworks for spot, futures, market-making and HFT on crypto venues."
+  - category: "backtesting-quant"
+    title: "Backtesting & Quant Frameworks"
+    subtitle: "Engines and libraries for strategy research, backtesting and systematic / algorithmic trading."
+  - category: "market-exchange-data"
+    title: "Market & Exchange Data"
+    subtitle: "Unified exchange connectors, tick / order-book data, price feeds and technical-analysis libraries."
+  - category: "defi-tokenomics"
+    title: "DeFi & Tokenomics Analytics"
+    subtitle: "Tooling for token unlocks/vesting, supply distribution, decentralization metrics and DeFi research. (Sparse domain — best-available, not exhaustive.)"
+  - category: "onchain-analytics"
+    title: "On-Chain & Wallet Analytics"
+    subtitle: "Querying and analyzing on-chain activity, wallets, flows and DEX data."
+  - category: "fundamentals-filings"
+    title: "Fundamentals & SEC Filings"
+    subtitle: "Access and parse SEC EDGAR filings (10-K/Q, 8-K, Form 3/4/5, 13F) and company fundamentals."
+  - category: "macro-geopolitics"
+    title: "Macro, Geopolitics & World Intelligence"
+    subtitle: "Macro-economic data, geopolitical-risk indices and OSINT / situational-awareness platforms. (Emerging domain — coverage is thin and honestly flagged.)"
+  - category: "ai-agents-skills"
+    title: "AI Agents, Skills & MCP for Markets"
+    subtitle: "LLM agent frameworks, Claude Code / agent skill collections and MCP servers relevant to markets and finance."
+  - category: "dashboards-data"
+    title: "Dashboards, Terminals & Financial Data"
+    subtitle: "Financial data platforms, research terminals and symbol/reference databases."
+  - category: "research-discovery"
+    title: "Research, Lists & Discovery"
+    subtitle: "Curated awesome-lists, learning resources and meta-tooling for finding more tools."
+
+labels:
+  - label: "mcp"
+    description: "Exposes a Model Context Protocol (MCP) server"
+  - label: "skill"
+    description: "Claude Code / agent skill collection"
+  - label: "awesome"
+    description: "Curated awesome-list or resource collection"
+  - label: "ai-native"
+    description: "LLM / agent-driven by design"
+  - label: "self-hosted"
+    description: "Designed to be self-hosted"
+
+projects:
+  # --- crypto-trading ---
+  - name: Freqtrade
+    github_id: freqtrade/freqtrade
+    category: crypto-trading
+  - name: Hummingbot
+    github_id: hummingbot/hummingbot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Jesse
+    github_id: jesse-ai/jesse
+    category: crypto-trading
+  - name: OctoBot
+    github_id: Drakkar-Software/OctoBot
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Superalgos
+    github_id: Superalgos/Superalgos
+    category: crypto-trading
+  - name: Freqtrade Strategies
+    github_id: freqtrade/freqtrade-strategies
+    category: crypto-trading
+  - name: binance-trading-bot
+    github_id: chrisleekr/binance-trading-bot
+    category: crypto-trading
+  - name: Crypto-Signal
+    github_id: CryptoSignal/Crypto-Signal
+    category: crypto-trading
+  - name: Krypto-trading-bot
+    github_id: ctubio/Krypto-trading-bot
+    category: crypto-trading
+  - name: Tribeca
+    github_id: michaelgrosner/tribeca
+    category: crypto-trading
+  - name: Gekko
+    github_id: askmike/gekko
+    category: crypto-trading
+  - name: crypto-trading-bot
+    github_id: Haehnchen/crypto-trading-bot
+    category: crypto-trading
+
+  # --- backtesting-quant ---
+  - name: QuantConnect Lean
+    github_id: QuantConnect/Lean
+    category: backtesting-quant
+  - name: Qlib
+    github_id: microsoft/qlib
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Backtrader
+    github_id: mementum/backtrader
+    category: backtesting-quant
+  - name: Backtesting.py
+    github_id: kernc/backtesting.py
+    category: backtesting-quant
+  - name: vectorbt
+    github_id: polakowo/vectorbt
+    category: backtesting-quant
+  - name: NautilusTrader
+    github_id: nautechsystems/nautilus_trader
+    category: backtesting-quant
+  - name: hftbacktest
+    github_id: nkaz001/hftbacktest
+    category: backtesting-quant
+  - name: StockSharp
+    github_id: StockSharp/StockSharp
+    category: backtesting-quant
+  - name: RQAlpha
+    github_id: ricequant/rqalpha
+    category: backtesting-quant
+  - name: zvt
+    github_id: zvtvz/zvt
+    category: backtesting-quant
+  - name: QSTrader
+    github_id: mhallsmoore/qstrader
+    category: backtesting-quant
+  - name: finmarketpy
+    github_id: cuemacro/finmarketpy
+    category: backtesting-quant
+
+  # --- market-exchange-data ---
+  - name: CCXT
+    github_id: ccxt/ccxt
+    category: market-exchange-data
+  - name: TA-Lib (Python)
+    github_id: TA-Lib/ta-lib-python
+    category: market-exchange-data
+  - name: tardis-node
+    github_id: tardis-dev/tardis-node
+    category: market-exchange-data
+  - name: tardis-machine
+    github_id: tardis-dev/tardis-machine
+    category: market-exchange-data
+  - name: FinanceDatabase
+    github_id: JerBouma/FinanceDatabase
+    category: market-exchange-data
+  - name: ticker
+    github_id: achannarasappa/ticker
+    category: market-exchange-data
+  - name: trading-indicator
+    github_id: thanhnguyennguyen/trading-indicator
+    category: market-exchange-data
+
+  # --- defi-tokenomics ---
+  - name: Autonolas Tokenomics
+    github_id: valory-xyz/autonolas-tokenomics
+    category: defi-tokenomics
+  - name: token-vesting (6th Man Ventures)
+    github_id: 6th-Man-Ventures/token-vesting
+    category: defi-tokenomics
+  - name: tokenomics-decentralization
+    github_id: Blockchain-Technology-Lab/tokenomics-decentralization
+    category: defi-tokenomics
+  - name: reflexer-digital-twin
+    github_id: reflexer-labs/reflexer-digital-twin
+    category: defi-tokenomics
+  - name: awesome-decentralized-finance
+    github_id: ong/awesome-decentralized-finance
+    category: defi-tokenomics
+    labels: ["awesome"]
+  - name: ultimate-defi-research-base
+    github_id: OffcierCia/ultimate-defi-research-base
+    category: defi-tokenomics
+    labels: ["awesome"]
+
+  # --- onchain-analytics ---
+  - name: OnchainKit
+    github_id: coinbase/onchainkit
+    category: onchain-analytics
+  - name: dune-analytics-mcp
+    github_id: kukapay/dune-analytics-mcp
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: DeFiHackLabs
+    github_id: SunWeb3Sec/DeFiHackLabs
+    category: onchain-analytics
+  - name: peregrine
+    github_id: wardbradt/peregrine
+    category: onchain-analytics
+  - name: crypto-arbitrage-framework
+    github_id: hzjken/crypto-arbitrage-framework
+    category: onchain-analytics
+
+  # --- fundamentals-filings ---
+  - name: edgartools
+    github_id: dgunning/edgartools
+    category: fundamentals-filings
+  - name: sec-edgar
+    github_id: sec-edgar/sec-edgar
+    category: fundamentals-filings
+  - name: sec-edgar-downloader
+    github_id: jadchaar/sec-edgar-downloader
+    category: fundamentals-filings
+  - name: edgar-crawler
+    github_id: lefterisloukas/edgar-crawler
+    category: fundamentals-filings
+  - name: python-edgar
+    github_id: edgarminers/python-edgar
+    category: fundamentals-filings
+  - name: sec-edgar-mcp
+    github_id: stefanoamorelli/sec-edgar-mcp
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: sec-api-python
+    github_id: SEC-API-io/sec-api-python
+    category: fundamentals-filings
+
+  # --- macro-geopolitics ---
+  - name: WorldMonitor
+    github_id: koala73/worldmonitor
+    category: macro-geopolitics
+    labels: ["self-hosted", "ai-native"]
+  - name: geopolrisk-py
+    github_id: akoyamp/geopolrisk-py
+    category: macro-geopolitics
+  - name: DSGE.jl
+    github_id: FRBNY-DSGE/DSGE.jl
+    category: macro-geopolitics
+  - name: OpenSourcedMacroModels
+    github_id: dkgaraujo/OpenSourcedMacroModels
+    category: macro-geopolitics
+    labels: ["awesome"]
+
+  # --- ai-agents-skills ---
+  - name: TradingAgents
+    github_id: TauricResearch/TradingAgents
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Eliza
+    github_id: elizaOS/eliza
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: awesome-mcp-servers
+    github_id: punkpeye/awesome-mcp-servers
+    category: ai-agents-skills
+    labels: ["awesome", "mcp"]
+  - name: awesome-claude-skills (Composio)
+    github_id: ComposioHQ/awesome-claude-skills
+    category: ai-agents-skills
+    labels: ["awesome", "skill"]
+  - name: awesome-agent-skills (VoltAgent)
+    github_id: VoltAgent/awesome-agent-skills
+    category: ai-agents-skills
+    labels: ["awesome", "skill"]
+  - name: claude-skills (alirezarezvani)
+    github_id: alirezarezvani/claude-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Vibe-Trading
+    github_id: HKUDS/Vibe-Trading
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: LLMQuant Skills
+    github_id: LLMQuant/skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: surf-skills
+    github_id: asksurf-ai/surf-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: ValueCell
+    github_id: ValueCell-ai/valuecell
+    category: ai-agents-skills
+    labels: ["ai-native"]
+
+  # --- dashboards-data ---
+  - name: OpenBB
+    github_id: OpenBB-finance/OpenBB
+    category: dashboards-data
+    labels: ["ai-native"]
+  - name: Fincept Terminal
+    github_id: Fincept-Corporation/FinceptTerminal
+    category: dashboards-data
+  - name: TuShare
+    github_id: waditu/tushare
+    category: dashboards-data
+  - name: OpenStock
+    github_id: Open-Dev-Society/OpenStock
+    category: dashboards-data
+  - name: Stock-Prediction-Models
+    github_id: huseinzol05/Stock-Prediction-Models
+    category: dashboards-data
+    labels: ["ai-native"]
+
+  # --- research-discovery ---
+  - name: awesome-quant
+    github_id: wilsonfreitas/awesome-quant
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-systematic-trading (paperswithbacktest)
+    github_id: paperswithbacktest/awesome-systematic-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-systematic-trading (wangzhe3224)
+    github_id: wangzhe3224/awesome-systematic-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: financial-machine-learning
+    github_id: firmai/financial-machine-learning
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-ai-in-finance
+    github_id: georgezouq/awesome-ai-in-finance
+    category: research-discovery
+    labels: ["awesome", "ai-native"]
+  - name: machine-learning-for-trading
+    github_id: stefan-jansen/machine-learning-for-trading
+    category: research-discovery
+  - name: DeFi-Developer-Road-Map
+    github_id: OffcierCia/DeFi-Developer-Road-Map
+    category: research-discovery
+    labels: ["awesome"]
