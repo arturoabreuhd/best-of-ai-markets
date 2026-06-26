@@ -241,16 +241,16 @@ projects:
     labels: ["ai-native"]
   - name: awesome-mcp-servers
     github_id: punkpeye/awesome-mcp-servers
-    category: ai-agents-skills
-    labels: ["awesome", "mcp"]
+    category: research-discovery
+    labels: ["awesome"]
   - name: awesome-claude-skills (Composio)
     github_id: ComposioHQ/awesome-claude-skills
-    category: ai-agents-skills
-    labels: ["awesome", "skill"]
+    category: research-discovery
+    labels: ["awesome"]
   - name: awesome-agent-skills (VoltAgent)
     github_id: VoltAgent/awesome-agent-skills
-    category: ai-agents-skills
-    labels: ["awesome", "skill"]
+    category: research-discovery
+    labels: ["awesome"]
   - name: claude-skills (alirezarezvani)
     github_id: alirezarezvani/claude-skills
     category: ai-agents-skills
@@ -265,7 +265,7 @@ projects:
     labels: ["skill"]
   - name: surf-skills
     github_id: asksurf-ai/surf-skills
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["skill"]
   - name: ValueCell
     github_id: ValueCell-ai/valuecell
@@ -1701,11 +1701,11 @@ projects:
   - name: Daily Stock Analysis
     github_id: ZhuLinsen/daily_stock_analysis
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: TradingAgents-CN
     github_id: hsliuping/TradingAgents-CN
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: FinGPT
     github_id: AI4Finance-Foundation/FinGPT
     category: ai-agents-skills
@@ -1721,30 +1721,30 @@ projects:
   - name: OpenAlice
     github_id: TraderAlice/OpenAlice
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: TradingView MCP (tradesdontlie)
     github_id: tradesdontlie/tradingview-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: AutoHedge
     github_id: The-Swarm-Corporation/AutoHedge
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: TradingView MCP
     github_id: atilaahmettaner/tradingview-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: ai-berkshire
     github_id: xbtlin/ai-berkshire
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: Awesome Finance Skills
     github_id: RKiding/Awesome-finance-skills
-    category: ai-agents-skills
-    labels: ["awesome", "skill", "ai-native"]
+    category: research-discovery
+    labels: ["awesome"]
   - name: Financial Datasets MCP
     github_id: financial-datasets/mcp-server
-    category: ai-agents-skills
+    category: fundamentals-filings
     labels: ["mcp"]
   - name: ATLAS (atlas-gic)
     github_id: chrisworsey55/atlas-gic
@@ -1753,14 +1753,14 @@ projects:
   - name: AI Market Maker (AIMM)
     github_id: olaxbt/ai-market-maker
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: OpenNews MCP
     github_id: 6551Team/opennews-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: research-discovery
+    labels: ["mcp"]
   - name: Solana Agent Kit
     github_id: sendaifun/solana-agent-kit
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["ai-native"]
   - name: TradingAgents-astock
     github_id: simonlin1212/TradingAgents-astock
@@ -1769,174 +1769,173 @@ projects:
   - name: LangAlpha
     github_id: ginlix-ai/LangAlpha
     category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native"]
+    labels: ["ai-native"]
   - name: TradeMemory Protocol
     github_id: mnemox-ai/tradememory-protocol
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["mcp"]
   - name: listen
     github_id: piotrostr/listen
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["ai-native"]
   - name: Alpaca MCP Server
     github_id: alpacahq/alpaca-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: MAHORAGA
     github_id: ygwyg/MAHORAGA
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: Swapper Toolkit
     github_id: swapperfinance/swapper-toolkit
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["ai-native"]
   - name: Open nof1.ai
     github_id: 195440/nof1.ai
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: crypto-trading
+    labels: ["ai-native"]
   - name: Prism Insight
     github_id: dragon1086/prism-insight
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: TradingAgents-AShare
     github_id: KylinMountain/TradingAgents-AShare
     category: ai-agents-skills
-    labels: ["skill", "ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: MaverickMCP
     github_id: wshobson/maverick-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: MetaTrader MCP Server
     github_id: ariadng/metatrader-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Polymarket MCP Server
     github_id: caiovicentino/polymarket-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: AI Trading Agent (Hyperliquid)
     github_id: Gajesh2007/ai-trading-agent
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: crypto-trading
+    labels: ["ai-native"]
   - name: Wyckoff Trading Agent
     github_id: YoungCan-Wang/WyckoffTradingAgent
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: 0xGasless AgentKit
     github_id: 0xgasless/agentkit
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: defi-tokenomics
+    labels: ["ai-native"]
   - name: OpenMobius Skill
     github_id: MobiusQuant/OpenMobius-skill
     category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    labels: ["skill"]
   - name: LLM Agent Trader
     github_id: jason8745/llm-agent-trader
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: OpenThomas
     github_id: realworkagent/openthomas
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: GMGN Skills
     github_id: GMGNAI/gmgn-skills
-    category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    category: crypto-trading
+    labels: ["skill"]
   - name: Polymarket Paper Trader
     github_id: agent-next/polymarket-paper-trader
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: OKX Agent Trade Kit
     github_id: okx/agent-trade-kit
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["ai-native"]
   - name: AI-Kline
     github_id: QuantMLResearch/AI-Kline
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: FinRL-DeepSeek
     github_id: benstaf/FinRL_DeepSeek
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: backtesting-quant
+    labels: ["ai-native"]
   - name: TradingAgents-MCPmode
     github_id: guangxiangdebizi/TradingAgents-MCPmode
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native", "mcp"]
   - name: LLM-TradeBot
     github_id: EthanAlgoX/LLM-TradeBot
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: Stock Scanner MCP
     github_id: wbsu2003/stock-scanner-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Financial Chat
     github_id: wshobson/financial-chat
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: AlpacaTradingAgent
     github_id: huygiatrng/AlpacaTradingAgent
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: Vibe Investing
     github_id: gameworkerkim/vibe-investing
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: QMT-MCP
     github_id: guangxiangdebizi/QMT-MCP
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Superior Skills
     github_id: Superior-Trade/superior-skills
-    category: ai-agents-skills
-    labels: ["skill", "mcp", "ai-native"]
+    category: crypto-trading
+    labels: ["skill"]
   - name: Armor Crypto MCP
     github_id: armorwallet/armor-crypto-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    category: crypto-trading
+    labels: ["mcp"]
   - name: a-share-skill
     github_id: shouldnotappearcalm/a-share-skill
-    category: ai-agents-skills
-    labels: ["skill", "mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["skill"]
   - name: AI Trading Agent (hkirat)
     github_id: hkirat/ai-trading-agent
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: x2strategy
     github_id: ALAGENT-HKU/x2strategy
-    category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    category: backtesting-quant
+    labels: ["skill"]
   - name: MCP MetaTrader 5 Server
     github_id: Qoyyuum/mcp-metatrader5-server
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: AgentQuant
     github_id: OnePunchMonk/AgentQuant
-    category: ai-agents-skills
+    category: backtesting-quant
     labels: ["ai-native"]
   - name: stock_datasource
     github_id: Yourdaylight/stock_datasource
-    category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native", "self-hosted"]
+    category: market-exchange-data
   - name: OKX Agent Skills
     github_id: okx/agent-skills
-    category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native"]
+    category: market-exchange-data
+    labels: ["skill"]
   - name: finance_skills
     github_id: JoelLewis/finance_skills
     category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    labels: ["skill"]
   - name: inAlpha
     github_id: mirror29/inalpha
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: backtesting-quant
+    labels: ["ai-native"]
   - name: Octagon MCP Server
     github_id: OctagonAI/octagon-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: fundamentals-filings
+    labels: ["mcp"]
   - name: crypto-indicators-mcp
     github_id: kukapay/crypto-indicators-mcp
-    category: ai-agents-skills
+    category: onchain-analytics
     labels: ["mcp"]
   - name: AIBrokers
     github_id: AI-Brokers/AIBrokers
@@ -1944,40 +1943,40 @@ projects:
     labels: ["ai-native"]
   - name: freqtrade-mcp
     github_id: kukapay/freqtrade-mcp
-    category: ai-agents-skills
+    category: crypto-trading
     labels: ["mcp"]
   - name: "S&P 500 MCP Server"
     github_id: zhensherlock/sp500-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: fundamentals-filings
+    labels: ["mcp"]
   - name: trading-bot
     github_id: renee-jia/trading-bot
-    category: ai-agents-skills
+    category: backtesting-quant
     labels: ["ai-native"]
   - name: Agentic Stock Research System
     github_id: rooneyrulz/agentic-stock-research-system
     category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    labels: ["ai-native"]
   - name: stock-agent
     github_id: 1517005260/stock-agent
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: okx-agent-trade-kit
     github_id: dex-original/okx-agent-trade-kit
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["ai-native"]
   - name: TradingView Chart MCP
     github_id: ertugrul59/tradingview-chart-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Senpi Skills
     github_id: Senpi-ai/senpi-skills
-    category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    category: crypto-trading
+    labels: ["skill"]
   - name: MEXC Future Agent
     github_id: Signal-Execution-Labs/mexc-future-agent
-    category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    category: crypto-trading
+    labels: ["ai-native"]
   - name: TradingAgents-Studio
     github_id: wjhccc/TradingAgents-Studio
     category: ai-agents-skills
@@ -1985,46 +1984,46 @@ projects:
   - name: Shuriken Skills
     github_id: ShurikenTrade/shuriken-skills
     category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    labels: ["skill"]
   - name: CCXT MCP
     github_id: lazy-dinosaur/ccxt-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Solana Finance Claude Plugin
     github_id: quicknode/solana-finance-claude-plugin
-    category: ai-agents-skills
+    category: onchain-analytics
     labels: ["skill"]
   - name: Trading Skills
     github_id: roman-rr/trading-skills
     category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    labels: ["skill"]
   - name: AI Hedge Fund
     github_id: chase-mew/ai-hedge-fund
     category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    labels: ["ai-native"]
   - name: QuantConnect MCP Server
     github_id: QuantConnect/mcp-server
-    category: ai-agents-skills
+    category: backtesting-quant
     labels: ["mcp"]
   - name: CC Equity Research
     github_id: prof-little-bear/cc-equity-research
-    category: ai-agents-skills
-    labels: ["skill", "mcp", "ai-native"]
+    category: fundamentals-filings
+    labels: ["skill"]
   - name: Trading MCP
     github_id: netanelavr/trading-mcp
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: OpenProphet
     github_id: JakeNesler/OpenProphet
     category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    labels: ["ai-native", "mcp"]
   - name: CryptoPanic MCP Server
     github_id: kukapay/cryptopanic-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: research-discovery
+    labels: ["mcp"]
   - name: Tushare Finance Skill for Claude Code
     github_id: StanleyChanH/Tushare-Finance-Skill-for-Claude-Code
-    category: ai-agents-skills
+    category: fundamentals-filings
     labels: ["skill"]
   - name: Claude Trading Skills
     github_id: agiprolabs/claude-trading-skills
@@ -2036,8 +2035,8 @@ projects:
     labels: ["ai-native"]
   - name: Agenti
     github_id: nirholas/agenti
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: onchain-analytics
+    labels: ["ai-native"]
   - name: Trading Pal
     github_id: United-Visions/Trading_Pal-main
     category: ai-agents-skills
@@ -2045,46 +2044,46 @@ projects:
   - name: Finance Trading AI Agents MCP
     github_id: aitrados/finance-trading-ai-agents-mcp
     category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    labels: ["ai-native", "mcp"]
   - name: Stock SDK MCP
     github_id: chengzuopeng/stock-sdk-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "skill"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: ClarityFinance
     github_id: cooragent/ClarityFinance
     category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    labels: ["ai-native"]
   - name: Korean DART MCP
     github_id: chrisryugj/korean-dart-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: fundamentals-filings
+    labels: ["mcp"]
   - name: OpenFinClaw CLI
     github_id: mirror29/openfinclaw-cli
-    category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native"]
+    category: backtesting-quant
+    labels: ["ai-native"]
   - name: Trade It MCP
     github_id: trade-it-inc/trade-it-mcp
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: CryptoAgent
     github_id: The-Swarm-Corporation/CryptoAgent
-    category: ai-agents-skills
+    category: research-discovery
     labels: ["ai-native"]
   - name: MoneyAtlas Claude Skill Agent
     github_id: ElmatadorZ/MoneyAtlas-ClaudeSkill-Agent
-    category: ai-agents-skills
+    category: macro-geopolitics
     labels: ["skill"]
   - name: FMP MCP Server
     github_id: cdtait/fmp-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: fundamentals-filings
+    labels: ["mcp"]
   - name: Crypto Sentiment MCP
     github_id: kukapay/crypto-sentiment-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: research-discovery
+    labels: ["mcp"]
   - name: TradingView MCP Server
     github_id: lev-corrupted/TradingViewMCPServer
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: Excel Analyst Pro Skill
     github_id: jeremylongshore/excel-analyst-pro-skill-md
@@ -2092,31 +2091,31 @@ projects:
     labels: ["skill"]
   - name: tradingview-mcp-server
     github_id: fiale-plus/tradingview-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: MCP Crypto Price
     github_id: truss44/mcp-crypto-price
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: Universal Crypto MCP
     github_id: nirholas/universal-crypto-mcp
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["mcp"]
   - name: ai-crypto-claude
     github_id: zubair-trabzada/ai-crypto-claude
-    category: ai-agents-skills
-    labels: ["skill", "ai-native"]
+    category: onchain-analytics
+    labels: ["ai-native"]
   - name: MCP OptionsFlow
     github_id: twolven/mcp-optionsflow
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: UCAI (Universal Contract AI Interface)
     github_id: nirholas/UCAI
-    category: ai-agents-skills
+    category: onchain-analytics
     labels: ["mcp"]
   - name: Hyperliquid MCP Server
     github_id: caiovicentino/hyperliquid-mcp-server
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: OpenTrade
     github_id: brandononchain/opentrade
@@ -2124,84 +2123,84 @@ projects:
     labels: ["ai-native"]
   - name: alpaca-mcp
     github_id: laukikk/alpaca-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: BNB Chain MCP
     github_id: nirholas/bnbchain-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: onchain-analytics
+    labels: ["mcp"]
   - name: Binance MCP
     github_id: nirholas/Binance-MCP
-    category: ai-agents-skills
+    category: market-exchange-data
     labels: ["mcp"]
   - name: DeFi Agents
     github_id: nirholas/defi-agents
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: defi-tokenomics
+    labels: ["ai-native"]
   - name: SAM Framework
     github_id: prfagit/sam-framework
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: onchain-analytics
+    labels: ["ai-native"]
   - name: Robinhood MCP Server
     github_id: rohitsingh-iitd/robinhood-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: mt5-trading-mcp
     github_id: sumedhkumar/mt5-trading-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: MCP Yahoo Finance
     github_id: maxscheijen/mcp-yahoo-finance
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: AI Trading Agent (Trader Dev MCP)
     github_id: DaviddTech/ai-trading-agent
     category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native"]
+    labels: ["ai-native", "mcp"]
   - name: alpaca-mcp-server
     github_id: tedlikeskix/alpaca-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: TON Blockchain MCP
     github_id: devonmojito/ton-blockchain-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: onchain-analytics
+    labels: ["mcp"]
   - name: EODHD Claude Skills
     github_id: EodHistoricalData/eodhd-claude-skills
-    category: ai-agents-skills
-    labels: ["mcp", "skill", "ai-native"]
+    category: fundamentals-filings
+    labels: ["skill"]
   - name: CasualMarket
     github_id: sacahan/CasualMarket
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Lore
     github_id: LoreResearch/Lore
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["ai-native"]
   - name: Nodit MCP Server
     github_id: noditlabs/nodit-mcp-server
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    category: onchain-analytics
+    labels: ["mcp"]
   - name: Binance.US MCP
     github_id: nirholas/Binance-US-MCP
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: FlowLLM Finance MCP
     github_id: FlowLLM-AI/finance-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: research-discovery
+    labels: ["mcp"]
   - name: varrd
     github_id: augiemazza/varrd
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native"]
+    category: backtesting-quant
+    labels: ["mcp"]
   - name: Momentum MCP
     github_id: mphinance/momentum-mcp
-    category: ai-agents-skills
-    labels: ["mcp", "ai-native", "self-hosted"]
+    category: market-exchange-data
+    labels: ["mcp"]
   - name: Claude Code Trading Terminal
     github_id: degentic-tools/claude-code-trading-terminal
-    category: ai-agents-skills
-    labels: ["ai-native", "self-hosted"]
+    category: crypto-trading
+    labels: ["ai-native"]
 
   # --- dashboards-data (Fase 2 discovery) ---
   - name: Lightweight Charts
@@ -2433,19 +2432,19 @@ projects:
     labels: ["skill"]
   - name: Options Trading Advisor (staskh)
     github_id: staskh/trading_skills
-    category: ai-agents-skills
-    labels: ["skill", "mcp"]
+    category: market-exchange-data
+    labels: ["skill"]
   - name: Uniswap AI
     github_id: Uniswap/uniswap-ai
-    category: ai-agents-skills
-    labels: ["skill"]
+    category: defi-tokenomics
+    labels: ["ai-native"]
   - name: CBT Framework
     github_id: Trade-With-Claude/cbt-framework
     category: backtesting-quant
     labels: ["ai-native"]
   - name: Uniswap Trader MCP
     github_id: kukapay/uniswap-trader-mcp
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["mcp"]
   - name: DefiLlama Adapters
     github_id: DefiLlama/DefiLlama-Adapters
@@ -2470,7 +2469,7 @@ projects:
     labels: ["skill"]
   - name: Jupiter MCP
     github_id: kukapay/jupiter-mcp
-    category: ai-agents-skills
+    category: defi-tokenomics
     labels: ["mcp"]
 
   # --- Fase 2c: perps SDKs (Grok cross-check, verificado vivo jun-2026) ---
@@ -2538,7 +2537,7 @@ projects:
   # --- Fase 2e: sub-repos de orgs flagship (Grok cross-check, verificado vivo jun-2026) ---
   - name: Nautilus Agents
     github_id: nautechsystems/nautilus_agents
-    category: ai-agents-skills
+    category: backtesting-quant
     labels: ["ai-native"]
   - name: FreqUI
     github_id: freqtrade/frequi

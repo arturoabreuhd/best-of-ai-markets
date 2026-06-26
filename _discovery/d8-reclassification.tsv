@@ -1,0 +1,149 @@
+github_id	new_category	labels	action	rationale
+TauricResearch/TradingAgents	ai-agents-skills	ai-native	STAY	Multi-agent LLM equities trading framework; agent system is the product, no equities-domain category.
+elizaOS/eliza	ai-agents-skills	ai-native	STAY	Generic domain-less agent framework/runtime.
+punkpeye/awesome-mcp-servers	research-discovery	awesome	MOVE	Curated awesome-list of MCP servers.
+ComposioHQ/awesome-claude-skills	research-discovery	awesome	MOVE	Curated awesome-list of Claude skills.
+VoltAgent/awesome-agent-skills	research-discovery	awesome	MOVE	Curated awesome-list of agent skills.
+alirezarezvani/claude-skills	ai-agents-skills	skill	STAY	Generic domain-less Claude skill collection.
+HKUDS/Vibe-Trading	ai-agents-skills	ai-native	STAY	Personal trading agent, asset-agnostic; agent is the product.
+LLMQuant/skills	ai-agents-skills	skill	STAY	Reusable quant skill collection (meta skill-pack), not tied to one data source.
+asksurf-ai/surf-skills	market-exchange-data	skill	MOVE	Unified crypto data skill (prices/on-chain/social, 83+ endpoints) - broad market-data access.
+ValueCell-ai/valuecell	ai-agents-skills	ai-native	STAY	Multi-agent investment platform; agent system is the product.
+virattt/ai-hedge-fund	ai-agents-skills	ai-native	STAY	Multi-agent hedge-fund framework (equities); canonical agent system.
+ZhuLinsen/daily_stock_analysis	ai-agents-skills	ai-native	STAY	AI stock analysis agent (equities), no equities category.
+hsliuping/TradingAgents-CN	ai-agents-skills	ai-native	STAY	TradingAgents fork; agent system is the product.
+AI4Finance-Foundation/FinGPT	ai-agents-skills	ai-native	STAY	Financial LLM framework, domain-broad.
+HKUDS/AI-Trader	ai-agents-skills	ai-native	STAY	LLM trading agent framework.
+AI4Finance-Foundation/FinRobot	ai-agents-skills	ai-native	STAY	Multi-agent financial AI framework.
+TraderAlice/OpenAlice	ai-agents-skills	ai-native	STAY	Multi-asset trading agent (equities/crypto/forex/macro); agent is the product.
+tradesdontlie/tradingview-mcp	market-exchange-data	mcp	MOVE	TradingView market-data MCP.
+The-Swarm-Corporation/AutoHedge	ai-agents-skills	ai-native	STAY	Multi-agent hedge-fund framework.
+atilaahmettaner/tradingview-mcp	market-exchange-data	mcp	MOVE	TradingView market-data MCP.
+xbtlin/ai-berkshire	ai-agents-skills	ai-native	STAY	AI value-investing agent (equities).
+RKiding/Awesome-finance-skills	research-discovery	awesome	MOVE	Curated awesome-list of finance skills.
+financial-datasets/mcp-server	fundamentals-filings	mcp	MOVE	Financial Datasets fundamentals MCP.
+chrisworsey55/atlas-gic	ai-agents-skills	ai-native	STAY	Self-improving AI trading agents framework.
+olaxbt/ai-market-maker	ai-agents-skills	ai-native	STAY	Agentic AI hedge-fund OS; agent framework is the product.
+6551Team/opennews-mcp	research-discovery	mcp	MOVE	News aggregation + signals MCP.
+sendaifun/solana-agent-kit	defi-tokenomics	ai-native	MOVE	Solana agent toolkit for swaps/staking/lending (DeFi actions).
+simonlin1212/TradingAgents-astock	ai-agents-skills	ai-native	STAY	TradingAgents A-stock fork.
+ginlix-ai/LangAlpha	ai-agents-skills	ai-native	STAY	Alpha research agent (equities).
+mnemox-ai/tradememory-protocol	ai-agents-skills	mcp	STAY	Agent memory/audit-trail infra for trading agents, domain-less.
+piotrostr/listen	defi-tokenomics	ai-native	MOVE	DeFAI Solana swap/DeFi framework.
+alpacahq/alpaca-mcp-server	market-exchange-data	mcp	MOVE	Alpaca broker MCP.
+ygwyg/MAHORAGA	ai-agents-skills	ai-native	STAY	Autonomous sentiment-driven trading agent, asset ambiguous; agent is the product.
+swapperfinance/swapper-toolkit	defi-tokenomics	ai-native	MOVE	DeFi toolkit for agents (deposit/trade/wallets).
+195440/nof1.ai	crypto-trading	ai-native	MOVE	Open replica of nof1 autonomous crypto perps trading agent.
+dragon1086/prism-insight	ai-agents-skills	ai-native	STAY	AI stock analysis & trading system (equities).
+KylinMountain/TradingAgents-AShare	ai-agents-skills	ai-native	STAY	TradingAgents A-share fork.
+wshobson/maverick-mcp	market-exchange-data	mcp	MOVE	Personal stock analysis/data MCP.
+ariadng/metatrader-mcp-server	market-exchange-data	mcp	MOVE	MetaTrader broker MCP.
+caiovicentino/polymarket-mcp-server	market-exchange-data	mcp	MOVE	Polymarket prediction-market data MCP.
+Gajesh2007/ai-trading-agent	crypto-trading	ai-native	MOVE	AI trading agent for Hyperliquid (crypto perps).
+YoungCan-Wang/WyckoffTradingAgent	ai-agents-skills	ai-native	STAY	Wyckoff-method trading agent, asset-agnostic.
+0xgasless/agentkit	defi-tokenomics	ai-native	MOVE	Agent kit for gasless on-chain swaps/transfers (EVM DeFi).
+MobiusQuant/OpenMobius-skill	ai-agents-skills	skill	STAY	ICT/SMC trading-knowledge skill, methodology not data-tied.
+jason8745/llm-agent-trader	ai-agents-skills	ai-native	STAY	LLM trading agent, asset ambiguous.
+realworkagent/openthomas	ai-agents-skills	ai-native	STAY	Bayesian trading agent for prediction markets; agent is the product, no prediction-market category.
+GMGNAI/gmgn-skills	crypto-trading	skill	MOVE	Skills for GMGN crypto/memecoin trading platform.
+agent-next/polymarket-paper-trader	ai-agents-skills	ai-native	STAY	Prediction-market paper-trading agent; agent is the product.
+okx/agent-trade-kit	market-exchange-data	ai-native	MOVE	OKX exchange agent trading kit.
+QuantMLResearch/AI-Kline	ai-agents-skills	ai-native	STAY	AI candlestick (K-line) analysis agent, equities.
+benstaf/FinRL_DeepSeek	backtesting-quant	ai-native	MOVE	FinRL reinforcement-learning quant trading framework.
+guangxiangdebizi/TradingAgents-MCPmode	ai-agents-skills	ai-native,mcp	STAY	TradingAgents MCP-mode variant.
+EthanAlgoX/LLM-TradeBot	ai-agents-skills	ai-native	STAY	LLM trade bot, asset ambiguous.
+wbsu2003/stock-scanner-mcp	market-exchange-data	mcp	MOVE	Stock scanner/market-data MCP.
+wshobson/financial-chat	ai-agents-skills	ai-native	STAY	Generic conversational finance agent.
+huygiatrng/AlpacaTradingAgent	ai-agents-skills	ai-native	STAY	Autonomous trading agent via Alpaca (equities); agent is the product.
+gameworkerkim/vibe-investing	ai-agents-skills	ai-native	STAY	Investing agent, asset-agnostic.
+guangxiangdebizi/QMT-MCP	market-exchange-data	mcp	MOVE	QMT quant trading terminal MCP (broker connector).
+Superior-Trade/superior-skills	crypto-trading	skill	MOVE	Agent skills to build/deploy strategies on Hyperliquid (crypto).
+armorwallet/armor-crypto-mcp	crypto-trading	mcp	MOVE	Crypto wallet MCP with swaps/DCA/limit-order trading.
+shouldnotappearcalm/a-share-skill	market-exchange-data	skill	MOVE	A-share (Chinese stock) data skill.
+hkirat/ai-trading-agent	ai-agents-skills	ai-native	STAY	AI trading agent, asset ambiguous.
+ALAGENT-HKU/x2strategy	backtesting-quant	skill	MOVE	Skill extracting strategy specs from quant research papers.
+Qoyyuum/mcp-metatrader5-server	market-exchange-data	mcp	MOVE	MetaTrader 5 broker MCP.
+OnePunchMonk/AgentQuant	backtesting-quant	ai-native	MOVE	Agentic quant research/backtesting framework.
+Yourdaylight/stock_datasource	market-exchange-data	-	MOVE	Stock market data source.
+okx/agent-skills	market-exchange-data	skill	MOVE	OKX exchange agent skills.
+JoelLewis/finance_skills	ai-agents-skills	skill	STAY	Generic finance skill collection, not data-tied.
+mirror29/inalpha	backtesting-quant	ai-native	MOVE	Quant agent framework (factor selection, strategy generation, sandbox).
+OctagonAI/octagon-mcp-server	fundamentals-filings	mcp	MOVE	Octagon market-intelligence/fundamentals MCP.
+kukapay/crypto-indicators-mcp	onchain-analytics	mcp	MOVE	Crypto technical-indicators MCP.
+AI-Brokers/AIBrokers	ai-agents-skills	ai-native	STAY	Agentic autonomous-trading framework.
+kukapay/freqtrade-mcp	crypto-trading	mcp	MOVE	MCP for Freqtrade crypto trading bot.
+zhensherlock/sp500-mcp-server	fundamentals-filings	mcp	MOVE	S&P 500 fundamentals MCP.
+renee-jia/trading-bot	backtesting-quant	ai-native	MOVE	Multi-factor stock scoring + backtesting + Alpaca execution (quant).
+rooneyrulz/agentic-stock-research-system	ai-agents-skills	ai-native	STAY	Agentic stock research system (equities); agent is the product.
+1517005260/stock-agent	ai-agents-skills	ai-native	STAY	Stock agent (equities).
+dex-original/okx-agent-trade-kit	market-exchange-data	ai-native	MOVE	OKX exchange agent trading kit (fork).
+ertugrul59/tradingview-chart-mcp	market-exchange-data	mcp	MOVE	TradingView chart-data MCP.
+Senpi-ai/senpi-skills	crypto-trading	skill	MOVE	Agent skills for autonomous crypto trading on Hyperliquid.
+Signal-Execution-Labs/mexc-future-agent	crypto-trading	ai-native	MOVE	Trading agent for MEXC crypto futures.
+wjhccc/TradingAgents-Studio	ai-agents-skills	ai-native	STAY	TradingAgents studio/framework.
+ShurikenTrade/shuriken-skills	ai-agents-skills	skill	STAY	Integration skills for Shuriken platform; domain unclear. UNSURE
+lazy-dinosaur/ccxt-mcp	market-exchange-data	mcp	MOVE	CCXT multi-exchange MCP.
+quicknode/solana-finance-claude-plugin	onchain-analytics	skill	MOVE	Solana on-chain finance data plugin (QuickNode).
+roman-rr/trading-skills	ai-agents-skills	skill	STAY	Generic trading skills collection.
+chase-mew/ai-hedge-fund	ai-agents-skills	ai-native	STAY	AI hedge-fund agent framework (fork).
+QuantConnect/mcp-server	backtesting-quant	mcp	MOVE	QuantConnect quant/backtesting platform MCP.
+prof-little-bear/cc-equity-research	fundamentals-filings	skill	MOVE	Equity research skill over company fundamentals.
+netanelavr/trading-mcp	market-exchange-data	mcp	MOVE	Generic trading-execution MCP.
+JakeNesler/OpenProphet	ai-agents-skills	ai-native,mcp	STAY	Autonomous trading agent with dashboard/MCP backend; agent is the product.
+kukapay/cryptopanic-mcp-server	research-discovery	mcp	MOVE	CryptoPanic crypto-news MCP.
+StanleyChanH/Tushare-Finance-Skill-for-Claude-Code	fundamentals-filings	skill	MOVE	Tushare Chinese financial-data skill.
+agiprolabs/claude-trading-skills	ai-agents-skills	skill	STAY	Generic Claude trading skills collection.
+TradingGoose/TradingGoose.github.io	ai-agents-skills	ai-native	STAY	Multi-agent trading framework site; agent system is the product.
+nirholas/agenti	onchain-analytics	ai-native	MOVE	Crypto wallet/payments (USDC/x402) infra for agents - on-chain account interaction.
+United-Visions/Trading_Pal-main	ai-agents-skills	ai-native	STAY	Multi-broker conversational trading agent; agent is the product.
+aitrados/finance-trading-ai-agents-mcp	ai-agents-skills	ai-native,mcp	STAY	Generic finance trading-agents MCP framework.
+chengzuopeng/stock-sdk-mcp	market-exchange-data	mcp	MOVE	Stock data SDK MCP.
+cooragent/ClarityFinance	ai-agents-skills	ai-native	STAY	Financial-analysis agent framework (Claude-skill architecture).
+chrisryugj/korean-dart-mcp	fundamentals-filings	mcp	MOVE	Korean DART filings MCP.
+mirror29/openfinclaw-cli	backtesting-quant	ai-native	MOVE	All-in-one quant-trading agent (research/strategy/backtest/paper-trade).
+trade-it-inc/trade-it-mcp	market-exchange-data	mcp	MOVE	Trading-execution MCP.
+The-Swarm-Corporation/CryptoAgent	research-discovery	ai-native	MOVE	Agent that fetches/analyzes/summarizes real-time crypto data.
+ElmatadorZ/MoneyAtlas-ClaudeSkill-Agent	macro-geopolitics	skill	MOVE	Skill for markets + macroeconomics + geopolitics.
+cdtait/fmp-mcp-server	fundamentals-filings	mcp	MOVE	FMP fundamentals MCP.
+kukapay/crypto-sentiment-mcp	research-discovery	mcp	MOVE	Crypto sentiment aggregator MCP.
+lev-corrupted/TradingViewMCPServer	market-exchange-data	mcp	MOVE	TradingView market-data MCP.
+jeremylongshore/excel-analyst-pro-skill-md	ai-agents-skills	skill	STAY	Generic Excel/spreadsheet analysis skill, domain-less.
+fiale-plus/tradingview-mcp-server	market-exchange-data	mcp	MOVE	TradingView market-data MCP.
+truss44/mcp-crypto-price	market-exchange-data	mcp	MOVE	Crypto price-feed MCP.
+nirholas/universal-crypto-mcp	defi-tokenomics	mcp	MOVE	Universal MCP for swaps/bridges/staking/lending across chains.
+zubair-trabzada/ai-crypto-claude	onchain-analytics	ai-native	MOVE	Crypto token research engine (on-chain/tokenomics/DeFi/sentiment analysis).
+twolven/mcp-optionsflow	market-exchange-data	mcp	MOVE	Options-flow market-data MCP.
+nirholas/UCAI	onchain-analytics	mcp	MOVE	Generic ABI-to-MCP smart-contract interaction generator.
+caiovicentino/hyperliquid-mcp-server	market-exchange-data	mcp	MOVE	Hyperliquid exchange MCP.
+brandononchain/opentrade	ai-agents-skills	ai-native	STAY	TradingView AI agent (50 tools, 15 models); agent is the product.
+laukikk/alpaca-mcp	market-exchange-data	mcp	MOVE	Alpaca broker MCP.
+nirholas/bnbchain-mcp	onchain-analytics	mcp	MOVE	BNB Chain on-chain data MCP.
+nirholas/Binance-MCP	market-exchange-data	mcp	MOVE	Binance exchange MCP.
+nirholas/defi-agents	defi-tokenomics	ai-native	MOVE	DeFi agents toolkit.
+prfagit/sam-framework	onchain-analytics	ai-native	MOVE	Solana agent middleware framework (wallets, on-chain workflows).
+rohitsingh-iitd/robinhood-mcp-server	market-exchange-data	mcp	MOVE	Robinhood broker MCP.
+sumedhkumar/mt5-trading-mcp	market-exchange-data	mcp	MOVE	MetaTrader 5 broker MCP.
+maxscheijen/mcp-yahoo-finance	market-exchange-data	mcp	MOVE	Yahoo Finance market-data MCP.
+DaviddTech/ai-trading-agent	ai-agents-skills	ai-native,mcp	STAY	AI trading agent (Trader Dev MCP), asset ambiguous.
+tedlikeskix/alpaca-mcp-server	market-exchange-data	mcp	MOVE	Alpaca broker MCP.
+devonmojito/ton-blockchain-mcp	onchain-analytics	mcp	MOVE	TON blockchain data MCP.
+EodHistoricalData/eodhd-claude-skills	fundamentals-filings	skill	MOVE	EODHD financial-data skills.
+sacahan/CasualMarket	market-exchange-data	mcp	MOVE	Taiwan stock trading MCP (real-time quotes/financials).
+LoreResearch/Lore	defi-tokenomics	ai-native	MOVE	DeFi protocol research agent for Solana (scores protocols).
+noditlabs/nodit-mcp-server	onchain-analytics	mcp	MOVE	Nodit on-chain data MCP.
+nirholas/Binance-US-MCP	market-exchange-data	mcp	MOVE	Binance.US exchange MCP.
+FlowLLM-AI/finance-mcp	research-discovery	mcp	MOVE	Financial deep-research agent MCP (web search/scraping/extraction).
+augiemazza/varrd	backtesting-quant	mcp	MOVE	Trading research platform: event studies/backtesting/validation MCP.
+mphinance/momentum-mcp	market-exchange-data	mcp	MOVE	Stock screening/OHLCV/technical-analysis MCP.
+degentic-tools/claude-code-trading-terminal	crypto-trading	ai-native	MOVE	Agent-native trading terminal executing trades across wallets (crypto).
+tradermonty/claude-trading-skills	ai-agents-skills	skill	STAY	Generic Claude trading skills collection.
+staskh/trading_skills	market-exchange-data	skill	MOVE	Options trading advisor skill (options market).
+Uniswap/uniswap-ai	defi-tokenomics	ai-native	MOVE	Uniswap (DEX) AI tooling.
+kukapay/uniswap-trader-mcp	defi-tokenomics	mcp	MOVE	Uniswap DEX trader MCP.
+kukapay/kukapay-mcp-servers	ai-agents-skills	mcp	STAY	Suite/collection of many crypto MCP servers (multi-domain meta-tool).
+kukapay/crypto-skills	ai-agents-skills	skill	STAY	Broad crypto skills collection (meta skill-pack).
+kukapay/jupiter-mcp	defi-tokenomics	mcp	MOVE	Jupiter (Solana DEX aggregator) MCP.
+OpenBB-finance/agents-for-openbb	ai-agents-skills	ai-native	STAY	Agent framework for OpenBB; agents are the product.
+OpenBB-finance/openbb-ai	ai-agents-skills	ai-native	STAY	AI SDK for building agents on OpenBB.
+nautechsystems/nautilus_agents	backtesting-quant	ai-native	MOVE	Agent protocol for NautilusTrader (quant platform).
+hummingbot/condor	ai-agents-skills	ai-native	STAY	Generic harness for building/managing AI trading agents.

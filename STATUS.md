@@ -4,7 +4,7 @@
 
 **Fase 1 COMPLETA** — Scaffold + motor + seed verificado.
 **Fase 2 COMPLETA** — Discovery: 75 → **680 tools** verificadas (barrido agéntico +570 → 645, luego research-driven Grok cross-check + org-by-org → 680).
-**REORG pre-launch PENDIENTE (D8)** — Mover ~80-100 entradas de `ai-agents-skills` a su categoría de dominio (`mcp`/`skill` como label). Aprobado por Arturo, hacer ANTES de publicar. Solo yaml, reversible.
+**REORG pre-launch D8 COMPLETO** — 90 MOVE · 58 STAY. `ai-agents-skills` 148→58; las demás categorías absorbieron los connectors/MCPs/skills a su dominio + label de forma. Solo yaml. Falta regen README vía `!` antes de publicar.
 **Fase 3 PENDIENTE (handoff abajo)** — Cierre de marca: repo remoto público + push, lista de popularidad + Emergence Picks.
 
 ## Estado del repo
@@ -16,6 +16,8 @@
 - Workflow semanal listo (no corre hasta haber remoto).
 
 ## Evolution Log
+
+- **2026-06-26 — Reorg D8 (dominio×forma).** Disuelto el cajón de sastre `ai-agents-skills` (148): clasificación delegada a subagente (ventana limpia, rationale por entrada → `_discovery/d8-reclassification.tsv`), auditada, aplicada con script determinista. **90 MOVE · 58 STAY.** ai-agents-skills 148→58 (solo quedan frameworks/runtimes de agentes genéricos y skill-packs multi-dominio). Connectors/MCPs/SDKs/skill-packs atados a una fuente concreta fueron a su dominio + label de forma: market-exchange-data 117→151, backtesting-quant 113→121, crypto-trading 87→95, onchain-analytics 53→61, research-discovery 44→52, fundamentals-filings 38→45, defi-tokenomics 19→28, macro-geopolitics 38. Las 148 no tenían labels; 147 ahora llevan label de forma. Validado: 680 proyectos, 0 categorías/labels inválidos. Motivación: findability — un MCP on-chain enterrado en "ai-agents-skills" no aparecía al buscar "on-chain". README pendiente de regen (`!` o CI). Ver D8 EJECUTADO.
 
 - **2026-06-26 — Fase 2e (sub-repos flagship).** Grok cross-check org-por-org: confirmó que todos los flagships ya estaban (Lean, nautilus_trader, freqtrade, hummingbot, jesse, vnpy, qlib, gs-quant, OpenBB, ccxt, FinGPT/FinRL, dtale, ArcticDB, StockSharp, blankly). **6 sub-repos nuevos añadidos:** nautilus_agents (ai-agents), FreqUI (dashboards), hummingbot/quants-lab (backtesting), hummingbot/condor (ai-agents), hummingbot/gateway (market-exchange), owid/owid-grapher (macro-geopolitics, 1.5k★ — engine de Our World in Data). Excluidos: QuantConnect/Research (push may-2024, pasa cutoff 18mo), langchain-ai/langgraph (35k★ — framework de agentes genérico, no finanzas). **674 → 680.** README desincronizado (680 yaml vs 645 generado) — pendiente resync (CI jueves o `!`).
 
