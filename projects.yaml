@@ -2425,3 +2425,50 @@ projects:
     github_id: kuangtu/awesome-stock-exchange-info
     category: research-discovery
     labels: ["awesome"]
+
+  # --- Fase 2b: research-driven (Grok cross-check, verificado) ---
+  - name: Claude Trading Skills (tradermonty)
+    github_id: tradermonty/claude-trading-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Options Trading Advisor (staskh)
+    github_id: staskh/trading_skills
+    category: ai-agents-skills
+    labels: ["skill", "mcp"]
+  - name: Uniswap AI
+    github_id: Uniswap/uniswap-ai
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: CBT Framework
+    github_id: Trade-With-Claude/cbt-framework
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Uniswap Trader MCP
+    github_id: kukapay/uniswap-trader-mcp
+    category: ai-agents-skills
+    labels: ["mcp"]
+  - name: DefiLlama Adapters
+    github_id: DefiLlama/DefiLlama-Adapters
+    category: defi-tokenomics
+  - name: DefiLlama App
+    github_id: DefiLlama/defillama-app
+    category: dashboards-data
+  - name: DefiLlama SDK
+    github_id: DefiLlama/defillama-sdk
+    category: market-exchange-data
+  - name: Kukapay MCP Servers
+    github_id: kukapay/kukapay-mcp-servers
+    category: ai-agents-skills
+    labels: ["mcp"]
+  - name: awesome-alpha-arena
+    github_id: kukapay/awesome-alpha-arena
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Crypto Skills (kukapay)
+    github_id: kukapay/crypto-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Jupiter MCP
+    github_id: kukapay/jupiter-mcp
+    category: ai-agents-skills
+    labels: ["mcp"]
