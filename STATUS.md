@@ -5,11 +5,11 @@
 **Fase 1 COMPLETA** — Scaffold + motor + seed verificado.
 **Fase 2 COMPLETA** — Discovery: 75 → **680 tools** verificadas (barrido agéntico +570 → 645, luego research-driven Grok cross-check + org-by-org → 680).
 **REORG pre-launch D8 COMPLETO** — 90 MOVE · 58 STAY. `ai-agents-skills` 148→58; las demás categorías absorbieron los connectors/MCPs/skills a su dominio + label de forma. Solo yaml. Falta regen README vía `!` antes de publicar.
-**Fase 3 PENDIENTE (handoff abajo)** — Cierre de marca: repo remoto público + push, lista de popularidad + Emergence Picks.
+**Fase 3 EN CURSO** — Repo público + push HECHO (2026-06-26). Falta: toggle PRs de Actions (Arturo), lista de popularidad (OSS Insight) + Emergence Picks (moat hand-curado).
 
 ## Estado del repo
 
-- Local: `~/best-of-markets-intelligence`, git inicializado. **NO** hay remoto aún (esperando OK de Arturo para crear repo público — acción irreversible).
+- **PÚBLICO 2026-06-26**: `https://github.com/arturoabreuhd/best-of-ai-markets` (HEAD `67feded`, 680 tools, taxonomía D8). Local: `~/best-of-markets-intelligence`, remote `origin` → ese repo. ⚠️ Falta que Arturo active "Allow GitHub Actions to create and approve PRs" (Settings → Actions → General) o el PR semanal del jueves no se abre (la rama update + draft release sí).
 - `projects.yaml`: **680 tools** verificadas en 10 categorías (fuente de verdad).
 - `README.md`: resync en curso (task background) para reflejar las 680. Header/footer/teaser Emergence Picks intactos. Se regenerará otra vez tras el reorg D8.
 - `_discovery/fase2-report.md`: reporte de provenance del barrido (nuevas por categoría + 223 descartes con motivo).
