@@ -1,1 +1,575 @@
-Nothing changed from last update.
+## ➕ Added Projects
+
+_Projects that were recently added to this best-of list._
+
+- <b><a href="https://github.com/ranaroussi/yfinance">yfinance</a></b> (🥇37 ·  ⭐ 24K · ➕) - Download market data from Yahoo! Finances API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/lballabio/QuantLib">QuantLib</a></b> (🥇34 ·  ⭐ 7.3K · ➕) - The QuantLib C++ library. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tradingview/lightweight-charts">Lightweight Charts</a></b> (🥇33 ·  ⭐ 16K · ➕) - Performant financial charts built with HTML5 canvas. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ZhuLinsen/daily_stock_analysis">Daily Stock Analysis</a></b> (🥇31 ·  ⭐ 50K · 🐣) - LLM LLM-powered multi-market stock analysis system.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vnpy/vnpy">vn.py</a></b> (🥇30 ·  ⭐ 42K · ➕) - Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/akfamily/akshare">AKShare</a></b> (🥇30 ·  ⭐ 21K · ➕) - AKShare is an elegant and simple financial data interface library.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/JKorf/Binance.Net">Binance.Net</a></b> (🥇29 ·  ⭐ 1.2K · ➕) - A C# .netstandard client library for the Binance REST and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ghostfolio/ghostfolio">Ghostfolio</a></b> (🥇28 ·  ⭐ 8.8K · ➕) - Open Source Wealth Management Software. Angular +.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/c9s/bbgo">BBGO</a></b> (🥇28 ·  ⭐ 1.7K · ➕) - The modern cryptocurrency trading bot framework written in Go. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/virattt/ai-hedge-fund">ai-hedge-fund</a></b> (🥇27 ·  ⭐ 61K · ➕) - An AI Hedge Fund Team. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/AI4Finance-Foundation/FinRL">FinRL</a></b> (🥇27 ·  ⭐ 16K · ➕) - FinRL: Financial Reinforcement Learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/BigBodyCobain/Shadowbroker">Shadowbroker</a></b> (🥇27 ·  ⭐ 9.4K · 🐣) - Open-source intelligence for the global theater... <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/ranaroussi/quantstats">QuantStats</a></b> (🥇27 ·  ⭐ 7.3K · ➕) - Portfolio analytics for quants, written in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/sammchardy/python-binance">python-binance</a></b> (🥇27 ·  ⭐ 7.2K · ➕) - Binance Exchange API python implementation for automated.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/PyPortfolio/PyPortfolioOpt">PyPortfolioOpt</a></b> (🥇27 ·  ⭐ 5.8K · ➕) - Financial portfolio optimization in python, including.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/graphprotocol/graph-node">Graph Node</a></b> (🥇27 ·  ⭐ 3.1K · ➕) - Graph Node indexes data from blockchains such as.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/romanz/electrs">electrs</a></b> (🥇27 ·  ⭐ 1.4K · ➕) - An efficient re-implementation of Electrum Server in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rpcpool/yellowstone-grpc">Yellowstone gRPC</a></b> (🥇27 ·  ⭐ 980 · ➕) - Tritons Dragons Mouth Yellowstone gRPC service for.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/yutiansut/QUANTAXIS">QUANTAXIS</a></b> (🥇26 ·  ⭐ 11K · ➕) - QUANTAXIS // /////. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/facioquo/stock-indicators-dotnet">Stock Indicators for .NET</a></b> (🥇26 ·  ⭐ 1.2K · ➕) - Stock Indicators for .NET is a C# NuGet package that.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/xbbg-org/xbbg">xbbg</a></b> (🥇26 ·  ⭐ 840 · ➕) - Intuitive Data Workflows. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/gadicc/yahoo-finance2">yahoo-finance2</a></b> (🥇26 ·  ⭐ 750 · ➕) - Unofficial API for Yahoo Finance with CLI, MCP and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/econ-ark/HARK">Econ-ARK HARK</a></b> (🥇26 ·  ⭐ 390 · ➕) - Heterogenous Agents Resources & toolKit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/AI4Finance-Foundation/FinGPT">FinGPT</a></b> (🥇25 ·  ⭐ 21K · ➕) - FinGPT: Open-Source Financial Large Language Models! Revolutionize.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/brokermr810/QuantDinger">QuantDinger</a></b> (🥈25 ·  ⭐ 8.8K · 🐣) - AI quantitative trading platform for crypto, stocks,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/mempool/mempool">Mempool (mempool.space)</a></b> (🥇25 ·  ⭐ 2.8K · ➕) - Explore the full Bitcoin ecosystem with.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/enarjord/passivbot">Passivbot</a></b> (🥇25 ·  ⭐ 2K · ➕) - Trading bot running on Bybit, Bitget, OKX, GateIO,.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/sendaifun/solana-agent-kit">Solana Agent Kit</a></b> (🥇25 ·  ⭐ 1.7K · ➕) - connect any ai agents to solana protocols. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/TA-Lib/ta-lib">TA-Lib</a></b> (🥈25 ·  ⭐ 1.6K · ➕) - TA-Lib (Core C Library). <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/alpacahq/alpaca-py">alpaca-py</a></b> (🥇25 ·  ⭐ 1.4K · ➕) - The Official Python SDK for Alpaca API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/freqtrade/technical">Freqtrade technical</a></b> (🥈25 ·  ⭐ 1K · ➕) - Various indicators developed or collected for the.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/propeller-heads/tycho">Tycho</a></b> (🥇25 ·  ⭐ 170 · ➕) - Low latency indexer service for blockchain data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/JerBouma/FinanceToolkit">FinanceToolkit</a></b> (🥇24 ·  ⭐ 5K · ➕) - Transparent and Efficient Financial Analysis. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/fasiondog/hikyuu">Hikyuu Quant Framework</a></b> (🥈24 ·  ⭐ 3.3K · ➕) - Hikyuu Quant Framework C++/Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ta4j/ta4j">ta4j</a></b> (🥈24 ·  ⭐ 2.4K · ➕) - A Java library for technical analysis. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/man-group/ArcticDB">ArcticDB</a></b> (🥇24 ·  ⭐ 2.4K · ➕) - ArcticDB is a high performance, serverless DataFrame.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/QuantEcon/QuantEcon.py">QuantEcon.py</a></b> (🥈24 ·  ⭐ 2.4K · ➕) - A community based Python library for quantitative economics. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/skfolio/skfolio">skfolio</a></b> (🥈24 ·  ⭐ 2K · ➕) - Python library for portfolio optimization built on top of scikit-learn. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/coding-kitties/investing-algorithm-framework">Investing Algorithm Framework</a></b> (🥇24 ·  ⭐ 1.3K · ➕) - Framework for quantitative trading. Complete.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/goldmansachs/gs-quant">gs-quant</a></b> (🥈23 ·  ⭐ 11K · ➕) - Python toolkit for quantitative finance. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/bukosabino/ta">Technical Analysis Library (ta)</a></b> (🥈23 ·  ⭐ 5.1K · ➕) - Technical Analysis Library using Pandas and Numpy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/thrasher-corp/gocryptotrader">GoCryptoTrader</a></b> (🥈23 ·  ⭐ 3.4K · ➕) - A cryptocurrency trading bot and framework supporting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pmxt-dev/pmxt">PMXT</a></b> (🥈23 ·  ⭐ 1.9K · 🐣) - CCXT for prediction markets. PMXT is a unified API for trading on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Lumiwealth/lumibot">Lumibot</a></b> (🥈23 ·  ⭐ 1.7K · ➕) - Backtestable AI trading agents and Python algorithmic.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/lit26/finvizfinance">finvizfinance</a></b> (🥈23 ·  ⭐ 1.5K · ➕) - Finviz analysis python library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/uniswap-python/uniswap-python">uniswap-python</a></b> (🥇23 ·  ⭐ 1K · 💀) - The unofficial Python client for the Uniswap exchange. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/superfluid-org/protocol-monorepo">Superfluid Protocol Monorepo</a></b> (🥇23 ·  ⭐ 900 · ➕) - Superfluid Protocol Monorepo: the specification,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/opensanctions/opensanctions">OpenSanctions</a></b> (🥇23 ·  ⭐ 760 · ➕) - An open database of international sanctions data, persons.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/binance/binance-connector-js">Binance Connector JS</a></b> (🥈23 ·  ⭐ 740 · ➕) - A simple connector to Binance Public API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/enviodev/hyperindex">Envio HyperIndex</a></b> (🥈23 ·  ⭐ 530 · ➕) - Ultra-Fast Multichain Indexer. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/NoFxAiOS/nofx">nofx</a></b> (🥈22 ·  ⭐ 12K · ➕) - Your AI trading terminal assistant for US stocks, commodities,.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/waditu/czsc">czsc</a></b> (🥈22 ·  ⭐ 5.4K · ➕) - Quant. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/RomelTorres/alpha_vantage">alpha_vantage</a></b> (🥈22 ·  ⭐ 4.8K · ➕) - A python wrapper for Alpha Vantage API for financial data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dcajasn/Riskfolio-Lib">Riskfolio-Lib</a></b> (🥈22 ·  ⭐ 4.3K · ➕) - Portfolio Optimization in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/bmoscon/cryptofeed">cryptofeed</a></b> (🥈22 ·  ⭐ 2.9K · ➕) - Cryptocurrency Exchange Websocket Data Feed Handler. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/marketcalls/openalgo">OpenAlgo</a></b> (🥈22 ·  ⭐ 2.1K · ➕) - Open Source Algo Trading Platform for Everyone. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/thinh-vu/vnstock">vnstock</a></b> (🥈22 ·  ⭐ 1.3K · ➕) - A beginner-friendly yet powerful Python toolkit for.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/subsquid/squid-sdk">Subsquid (SQD) Squid SDK</a></b> (🥈22 ·  ⭐ 1.3K · ➕) - TypeScript ETL toolkit for indexing Ethereum, Solana,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/cinar/indicator">Indicator (Go)</a></b> (🥈22 ·  ⭐ 1.2K · ➕) - Indicator Go delivers a rich set of technical.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/dpguthrie/yahooquery">yahooquery</a></b> (🥈22 ·  ⭐ 910 · 💀) - Python wrapper for an unofficial Yahoo Finance API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/xgboosted/pandas-ta-classic">Pandas TA Classic</a></b> (🥈22 ·  ⭐ 370 · ➕) - Technical Analysis Indicators - Pandas TA Classic is an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/eddmpython/dartlab">DartLab</a></b> (🥇22 ·  ⭐ 180 · 🐣) - Korean DART + SEC EDGAR filings as structured Python.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/shinnytech/tqsdk-python">TQSDK Python</a></b> (🥈21 ·  ⭐ 4.8K · ➕) - , , //. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/blockchain-etl/ethereum-etl">Ethereum ETL</a></b> (🥈21 ·  ⭐ 3.1K · ➕) - Python scripts for ETL (extract, transform and load) jobs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/FinMind/FinMind">FinMind</a></b> (🥈21 ·  ⭐ 2.7K · ➕) - Open Data, more than 50 financial data. 50 ().. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/refraction-ray/xalpha">xalpha</a></b> (🥈21 ·  ⭐ 2.6K · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mortada/fredapi">fredapi</a></b> (🥈21 ·  ⭐ 1.6K · ➕) - Python API for FRED (Federal Reserve Economic Data) and ALFRED.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/joshstevens19/rindexer">rindexer</a></b> (🥈21 ·  ⭐ 700 · ➕) - A no-code or framework to build blazing fast EVM indexers -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pranjal-joshi/Screeni-py">Screeni-py</a></b> (🥈21 ·  ⭐ 690 · ➕) - A Python-based stock screener to find stocks with potential.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nktkas/hyperliquid">Hyperliquid TypeScript SDK</a></b> (🥈21 ·  ⭐ 410 · ➕) - Hyperliquid API SDK for all major JS runtimes,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/richkuo/go-trader">go-trader</a></b> (🥈21 ·  ⭐ 320 · 🐣) - Crypto trading bot backtesting, paper trading, live trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dipdup-io/dipdup">DipDup</a></b> (🥈21 ·  ⭐ 280 · ➕) - Modular framework for creating selective indexers and featureful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/streamflow-finance/js-sdk">Streamflow JS SDK</a></b> (🥈21 ·  ⭐ 160 · ➕) - Web3 Distribution Layer. For Token vesting and.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/opensanctions/yente">yente (OpenSanctions API)</a></b> (🥈21 ·  ⭐ 150 · ➕) - API for OpenSanctions with support for entity search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/hsliuping/TradingAgents-CN">TradingAgents-CN</a></b> (🥇20 ·  ⭐ 29K · ➕) - LLM - TradingAgents. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/UFund-Me/Qbot">Qbot</a></b> (🥈20 ·  ⭐ 18K · ➕) - [updating ...] AI () AI-powered Quantitative Investment Research.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/TraderAlice/OpenAlice">OpenAlice</a></b> (🥇20 ·  ⭐ 5.5K · 🐣) - Your one-person Wall Street. An AI trading agent.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/Mathieu2301/TradingView-API">TradingView-API</a></b> (🥈20 ·  ⭐ 4K · ➕) - Get real-time stocks from TradingView. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/blankly-finance/blankly">Blankly</a></b> (🥈20 ·  ⭐ 2.5K · 💀) - Easily build, backtest and deploy your algo in just a few.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+- <b><a href="https://github.com/barter-rs/barter-rs">Barter</a></b> (🥈20 ·  ⭐ 2.2K · ➕) - Open-source Rust framework for building event-driven live-trading &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/whittlem/pycryptobot">PyCryptoBot</a></b> (🥈20 ·  ⭐ 2.1K · 💀) - Python Crypto Bot (PyCryptoBot). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/rodrigo-brito/ninjabot">Ninjabot</a></b> (🥈20 ·  ⭐ 1.6K · ➕) - A fast trading bot platform for cryptocurrency in Go (Binance). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ginlix-ai/LangAlpha">LangAlpha</a></b> (🥇20 ·  ⭐ 1.4K · 🐣) - Claude Code for investment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/binance/binance-futures-connector-python">Binance Futures Connector Python</a></b> (🥈20 ·  ⭐ 1.2K · 💤) - Simple python connector to Binance Futures API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/its-maestro-baby/maestro">Maestro</a></b> (🥈20 ·  ⭐ 1.2K · 🐣) - The Bloomberg Terminal for CLI Agents, its Maestro Baby!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/shner-elmo/TradingView-Screener">TradingView-Screener</a></b> (🥈20 ·  ⭐ 1K · ➕) - A package that lets you create TradingView screeners.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bennycode/trading-signals">trading-signals</a></b> (🥈20 ·  ⭐ 960 · ➕) - Technical indicators to run technical analysis with.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/crypto-chassis/ccapi">ccapi</a></b> (🥈20 ·  ⭐ 720 · ➕) - A header-only C++ library for interacting with crypto exchanges... <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alpacahq/alpaca-backtrader-api">alpaca-backtrader-api</a></b> (🥈20 ·  ⭐ 700 · 💀) - Alpaca Trading API integrated with backtrader. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/dragon1086/prism-insight">Prism Insight</a></b> (🥇20 ·  ⭐ 660 · ➕) - AI-based stock analysis and trading system. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/api-bricks/api-bricks-sdk">API Bricks SDK (CoinAPI/FinFeedAPI)</a></b> (🥈20 ·  ⭐ 530 · ➕) - SDKs for CoinAPI & FinFeedAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/daniel3303/Equibles">Equibles</a></b> (🥈20 ·  ⭐ 160 · 🐣) - An open-source, self-hosted mini Bloomberg Terminal.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/HKUDS/AI-Trader">AI-Trader (HKUDS)</a></b> (🥈19 ·  ⭐ 20K · ➕) - AI-Trader: 100% Fully-Automated Agent-Native Trading. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/myhhub/stock">myhhub stock</a></b> (🥈19 ·  ⭐ 13K · ➕) - stock.,,,,,,,,PC. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/AI4Finance-Foundation/FinRobot">FinRobot</a></b> (🥈19 ·  ⭐ 7.4K · ➕) - FinRobot: An Open-Source AI Agent Platform for Financial.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Micro-sheep/efinance">efinance</a></b> (🥈19 ·  ⭐ 3.8K · ➕) - efinance Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/xbtlin/ai-berkshire">ai-berkshire</a></b> (🥈19 ·  ⭐ 2.7K · 🐣) - AI Claude Code + Agent| AI-era Berkshire: a value.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/brndnmtthws/thetagang">ThetaGang</a></b> (🥈19 ·  ⭐ 2.6K · ➕) - ThetaGang is an IBKR bot for collecting money. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/jmfernandes/robin_stocks">robin_stocks</a></b> (🥈19 ·  ⭐ 2.1K · ➕) - This is a library to use with Robinhood Financial App. It.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nntaoli-project/goex">goex</a></b> (🥈19 ·  ⭐ 2K · ➕) - Cryptocurrency Exchange REST API SDK Wrapper Implemented With the golang,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ScottfreeLLC/AlphaPy">AlphaPy</a></b> (🥈19 ·  ⭐ 1.7K · 💤) - Python AutoML for Trading Systems and Sports Betting. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/tarkah/tickrs">tickrs</a></b> (🥈19 ·  ⭐ 1.6K · ➕) - Realtime ticker data in your terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/zhangxiangliang/stock-api">stock-api</a></b> (🥈19 ·  ⭐ 1.5K · ➕) - A Node.jsCLI MCP. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mnemox-ai/tradememory-protocol">TradeMemory Protocol</a></b> (🥈19 ·  ⭐ 1.4K · 🐣) - Decision audit trail + persistent memory for AI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/cvxgrp/cvxportfolio">Cvxportfolio</a></b> (🥈19 ·  ⭐ 1.2K · ➕) - Portfolio optimization and back-testing. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/AlexWan/OsEngine">OsEngine</a></b> (🥈19 ·  ⭐ 1K · ➕) - Open Source algo trading platform. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sdcoffey/techan">techan</a></b> (🥈19 ·  ⭐ 900 · ➕) - Technical Analysis Library for Golang. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/cassandre-tech/cassandre-trading-bot">Cassandre Trading Bot</a></b> (🥈19 ·  ⭐ 660 · 💀) - Create your Java crypto trading bot in minutes. Our.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/0xfnzero/sol-trade-sdk">sol-trade-sdk</a></b> (🥈19 ·  ⭐ 310 · ➕) - Rust SDK for low-latency Solana DEX trading bots with PumpFun,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mbk-dev/okama">okama</a></b> (🥈19 ·  ⭐ 260 · ➕) - Investment portfolio and stocks analyzing tools for Python with free.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pineforge-4pass/pineforge-engine">PineForge Engine</a></b> (🥈19 ·  ⭐ 160 · 🐣) - Deterministic PineScript v6 backtest runtime... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/je-suis-tm/quant-trading">quant-trading</a></b> (🥈18 ·  ⭐ 10K · 💀) - Python quantitative trading strategies including VIX.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/charliedream1/ai_quant_trade">ai_quant_trade</a></b> (🥈18 ·  ⭐ 5.8K · ➕) - AIC++. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/google/tf-quant-finance">TF Quant Finance</a></b> (🥈18 ·  ⭐ 5.4K · ➕) - High-performance TensorFlow library for quantitative.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/binance/binance-connector-python">Binance Connector Python</a></b> (🥈18 ·  ⭐ 2.9K · ➕) - Simple connector to Binance Public API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Open-Trader/opentrader">OpenTrader</a></b> (🥈18 ·  ⭐ 2.7K · 💤) - Open-source crypto trading bot | DCA & GRID strategies.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/cuemacro/findatapy">findatapy</a></b> (🥈18 ·  ⭐ 2.1K · ➕) - Python library to download market data via Bloomberg, Eikon,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/paradigmxyz/cryo">cryo</a></b> (🥈18 ·  ⭐ 1.6K · 💀) - cryo is the easiest way to extract blockchain data to parquet, csv,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/chengzuopeng/stock-sdk">stock-sdk</a></b> (🥈18 ·  ⭐ 1.3K · 🐣) - Python JavaScript SDK. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/Leo4815162342/dukascopy-node">dukascopy-node</a></b> (🥈18 ·  ⭐ 790 · ➕) - Download historical and real-time price tick data for Crypto,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/kylejusticemagnuson/pyti">pyti</a></b> (🥈18 ·  ⭐ 670 · ➕) - Python library of various financial technical indicators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/banbox/banbot">Banbot</a></b> (🥈18 ·  ⭐ 560 · ➕) - a high-performance, easy-to-use, multi-symbol, multi-strategy,.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/alexanderwanyoike/the0">the0</a></b> (🥈18 ·  ⭐ 260 · ➕) - Open Source Algorithmic Trading Engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/apibara/dna">Apibara DNA</a></b> (🥈18 ·  ⭐ 220 · ➕) - Apibara is the fastest platform to build production-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ethpandaops/xatu">Xatu</a></b> (🥈18 ·  ⭐ 94 · ➕) - Ethereum network monitoring with collection clients and a.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/bbfamily/abu">abu (阿布量化)</a></b> (🥉17 ·  ⭐ 18K · ➕) - () python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/wondertrader/wondertrader">WonderTrader</a></b> (🥉17 ·  ⭐ 6.2K · 💀) - WonderTrader. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/simonlin1212/a-stock-data">a-stock-data</a></b> (🥈17 ·  ⭐ 5.6K · 🐣) - A 7 28 13 /(+)/// | China A-Share full-stack data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/1nchaos/adata">AData</a></b> (🥈17 ·  ⭐ 4.8K · ➕) - A A Ai()3000......k. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/TradeMaster-NTU/TradeMaster">TradeMaster</a></b> (🥉17 ·  ⭐ 2.8K · 💤) - TradeMaster is an open-source platform for quantitative.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/simonlin1212/TradingAgents-astock">TradingAgents-astock</a></b> (🥈17 ·  ⭐ 1.4K · 🐣) - AAgent A(//)7ATradingAgentsAA-share multi-agent.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/saniales/golang-crypto-trading-bot">golang-crypto-trading-bot</a></b> (🥈17 ·  ⭐ 1.2K · 💤) - A golang implementation of a console-based trading.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/quarkfin/qf-lib">QF-Lib</a></b> (🥉17 ·  ⭐ 940 · ➕) - Modular Python library that provides an advanced event driven.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/defeat-beta/defeatbeta-api">defeatbeta-api</a></b> (🥈17 ·  ⭐ 680 · ➕) - An open-source alternative to Yahoo Finances market data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/YoungCan-Wang/WyckoffTradingAgent">Wyckoff Trading Agent</a></b> (🥈17 ·  ⭐ 520 · 🐣) - Open-source Wyckoff trading agent and AI stock.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/roq-trading/roq-api">roq-api</a></b> (🥈17 ·  ⭐ 510 · ➕) - C++ interfaces used to communicate with Roqs market gateways. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/greedo/python-xbrl">python-xbrl</a></b> (🥈17 ·  ⭐ 230 · 💀) - xbrl parser written in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/donewiththedollar/directionalscalper">directionalscalper</a></b> (🥈17 ·  ⭐ 220 · ➕) - CCXT based algorithmic trading framework for Bybit.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/baking-bad/tzkt">TzKT</a></b> (🥈17 ·  ⭐ 190 · ➕) - Awesome Tezos blockchain indexer and API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/toncenter/ton-indexer">TON Indexer</a></b> (🥈17 ·  ⭐ 110 · ➕) - TON Indexer system to store and serve blockchain data using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alor-broker/Astras-Trading-UI">Astras Trading UI</a></b> (🥈17 ·  ⭐ 87 · ➕) - Astras. The Angulars trading terminal from Alor.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/stellar/stellar-etl">Stellar ETL</a></b> (🥈17 ·  ⭐ 39 · ➕) - Stellar ETL will enable real-time analytics on the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/edtechre/pybroker">PyBroker</a></b> (🥉16 ·  ⭐ 3.4K · ➕) - Algorithmic Trading in Python with Machine Learning. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/atilaahmettaner/tradingview-mcp">TradingView MCP</a></b> (🥈16 ·  ⭐ 3.2K · ➕) - TradingView MCP server real-time market data,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mop-tracker/mop">mop</a></b> (🥈16 ·  ⭐ 2.2K · ➕) - Stock market tracker for hackers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Vespa314/chan.py">chan.py</a></b> (🥉16 ·  ⭐ 1.9K · ➕) - python/K. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/olaxbt/ai-market-maker">AI Market Maker (AIMM)</a></b> (🥈16 ·  ⭐ 1.9K · ➕) - Agentic AI Hedge Fund OS (AIMM). <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/asavinov/intelligent-trading-bot">Intelligent Trading Bot</a></b> (🥈16 ·  ⭐ 1.7K · ➕) - Intelligent Trading Bot: Automatically generating.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/wondertrader/wtpy">wtpy</a></b> (🥉16 ·  ⭐ 1.5K · 💀) - wtpywondertraderpython. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/visualHFT/VisualHFT">VisualHFT</a></b> (🥈16 ·  ⭐ 1.2K · ➕) - VisualHFT is a WPF/C# desktop GUI that shows market.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/tradecatlabs/tradecat-public">TradeCat</a></b> (🥈16 ·  ⭐ 960 · 🐣) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/markcheno/go-talib">go-talib</a></b> (🥉16 ·  ⭐ 930 · ➕) - A pure Go port of TA-Lib (http://ta-lib.org). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/quickfixgo/quickfix">QuickFIX/Go</a></b> (🥈16 ·  ⭐ 890 · ➕) - The Go FIX Protocol Library. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/KylinMountain/TradingAgents-AShare">TradingAgents-AShare</a></b> (🥈16 ·  ⭐ 610 · 🐣) - A TradingAgents 15 AI Agent OpenClaw / Claude Code.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nardew/talipp">talipp</a></b> (🥈16 ·  ⭐ 530 · 💤) - talipp - incremental technical analysis library for python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/blockchain-etl/bitcoin-etl">Bitcoin ETL</a></b> (🥈16 ·  ⭐ 460 · 💀) - ETL scripts for Bitcoin, Litecoin, Dash, Zcash, Doge,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alex9smith/gdelt-doc-api">gdelt-doc-api</a></b> (🥈16 ·  ⭐ 220 · 💀) - A Python client for the GDELT 2.0 Doc API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/daxm/fmpsdk">fmpsdk</a></b> (🥈16 ·  ⭐ 210 · 💤) - SDK for Financial Modeling Preps (FMP) API. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/OliverSherouse/wbdata">wbdata</a></b> (🥈16 ·  ⭐ 210 · 💤) - A python library for accessing world bank data. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
+- <b><a href="https://github.com/fasenderos/nodejs-order-book">nodejs-order-book</a></b> (🥉16 ·  ⭐ 200 · 💤) - Ultra-fast Limit Order Book for Node.js written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/WLM1ke/poptimizer">poptimizer</a></b> (🥉16 ·  ⭐ 160 · ➕) -  <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
+- <b><a href="https://github.com/manusimidt/py-xbrl">py-xbrl</a></b> (🥈16 ·  ⭐ 150 · ➕) - Python-based parser for parsing XBRL and iXBRL files. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/thorek1/MacroModelling.jl">MacroModelling.jl</a></b> (🥈16 ·  ⭐ 140 · ➕) - Macros and functions to work with DSGE models. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server">Financial Modeling Prep MCP Server</a></b> (🥈16 ·  ⭐ 140 · ➕) - A Model Context Protocol (MCP) implementation for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/portfolioplus/pytickersymbols">pytickersymbols</a></b> (🥈16 ·  ⭐ 140 · ➕) - Fundamental stock data and yahoo/google ticker symbols for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/decred/dcrdata">dcrdata</a></b> (🥈16 ·  ⭐ 130 · 💤) - Decred block explorer, with packages and apps for data collection.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/opensanctions/followthemoney">FollowTheMoney</a></b> (🥈16 ·  ⭐ 74 · ➕) - Data model and processing tools for investigative entity.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/PFund-Software-Ltd/pfund">PFund</a></b> (🥈16 ·  ⭐ 66 · ➕) - An All-in-One Algo-Trading Framework: Backtest - Train - Trade -.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/thuquant/awesome-quant">awesome-quant (China)</a></b> (🥈15 ·  ⭐ 5.4K · ➕) - Quant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB">High-Frequency-Trading-Model-with-IB</a></b> (🥉15 ·  ⭐ 2.9K · 💀) - A high-frequency trading model using Interactive.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/imbue-bit/AlphaGPT">AlphaGPT</a></b> (🥉15 ·  ⭐ 2.5K · 🐣) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/deepentropy/tvscreener">tvscreener</a></b> (🥉15 ·  ⭐ 1.1K · ➕) - TradingView Screener API - Stock, Crypto, Forex, Bond,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/51bitquant/howtrader">Howtrader</a></b> (🥈15 ·  ⭐ 930 · ➕) - Howtrader: A crypto quant framework for developing,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/gbeced/basana">Basana</a></b> (🥉15 ·  ⭐ 840 · ➕) - A Python async and event driven framework for algorithmic.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/guangxiangdebizi/FinanceMCP">FinanceMCP</a></b> (🥉15 ·  ⭐ 610 · ➕) - mcp, Tushare API Binance API Claude. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ArturSepp/QuantInvestStrats">QuantInvestStrats (QIS)</a></b> (🥉15 ·  ⭐ 580 · ➕) - Quantitative Investment Strategies (QIS) package.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/binance/binance-connector-java">Binance Connector Java</a></b> (🥉15 ·  ⭐ 570 · ➕) - Simple Java connector to Binance Spot API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Sinotrade/Shioaji">Shioaji</a></b> (🥉15 ·  ⭐ 470 · ➕) - Shioaji all new cross platform api for trading ( API ). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/blockchain-etl/ethereum-etl-airflow">Ethereum ETL Airflow</a></b> (🥉15 ·  ⭐ 440 · 💤) - Airflow DAGs for exporting, loading, and parsing the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/GMGNAI/gmgn-skills">GMGN Skills</a></b> (🥈15 ·  ⭐ 350 · 🐣) - GMGN OpenAPI skills for AI Agent query tokens, wallets,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/massive-com/client-go">Massive client-go</a></b> (🥉15 ·  ⭐ 190 · ➕) - The official Go client library for the Massive REST and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Sinotrade/shioaji-pro-app">Shioaji Pro</a></b> (🥉15 ·  ⭐ 170 · ➕) - Shioaji Pro professional trading terminal for Taiwan.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/narumiruna/yfinance-mcp">yfinance-mcp</a></b> (🥉15 ·  ⭐ 160 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jjlabsio/korea-stock-mcp">korea-stock-mcp</a></b> (🥉15 ·  ⭐ 150 · ➕) - MCP Server for Korean stock analysis. MCP . <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/CardanoSolutions/kupo">Kupo</a></b> (🥉15 ·  ⭐ 140 · ➕) - Fast, lightweight & configurable chain-index for Cardano. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/CADLabs/radCAD">radCAD</a></b> (🥈15 ·  ⭐ 120 · ➕) - A Python framework for designing, testing, and validating.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/fystack/multichain-indexer">Multichain Indexer</a></b> (🥉15 ·  ⭐ 100 · ➕) - Highly effiicient, resilient transaction indexers for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/RJDennis/SolveDSGE.jl">SolveDSGE.jl</a></b> (🥈15 ·  ⭐ 93 · ➕) - A Julia package to solve, simulate, and analyze nonlinear DSGE.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/quantmind/quantflow">QuantFlow</a></b> (🥉15 ·  ⭐ 46 · ➕) - Quantitative finance and derivative pricing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/truss44/mcp-crypto-price">MCP Crypto Price</a></b> (🥈15 ·  ⭐ 39 · ➕) - A Model Context Protocol (MCP) server that provides.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/PSLmodels/OG-USA">OG-USA</a></b> (🥈15 ·  ⭐ 28 · ➕) - Overlapping-generations macroeconomic model for evaluating fiscal.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
+- <b><a href="https://github.com/botcrypto-io/awesome-crypto-trading-bots">awesome-crypto-trading-bots</a></b> (🥈14 ·  ⭐ 2.4K · ➕) - Awesome crypto trading bots. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
+- <b><a href="https://github.com/binance/binance-public-data">Binance Public Data</a></b> (🥉14 ·  ⭐ 2.4K · 💀) - Details on how to get Binance public data. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ivopetiz/algotrading">algotrading</a></b> (🥈14 ·  ⭐ 1.6K · 💀) - Algorithmic trading framework for cryptocurrencies. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/santoshlite/EigenLedger">EigenLedger</a></b> (🥉14 ·  ⭐ 1.1K · 💤) - An Open Source Portfolio Backtesting Engine for Everyone |. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/TreborNamor/TradingView-Machine-Learning-GUI">HyperView</a></b> (🥉14 ·  ⭐ 970 · ➕) - HyperView is a terminal-first TradingView strategy lab for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alpacahq/alpaca-mcp-server">Alpaca MCP Server</a></b> (🥈14 ·  ⭐ 840 · ➕) - Alpacas official MCP Server lets you trade stocks,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Adamant-im/adamant-tradebot">ADAMANT Trade & Market-Making Bot</a></b> (🥈14 ·  ⭐ 800 · ➕) - Free self-hosted market-making bot for crypto.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/SorellaLabs/brontes">Brontes</a></b> (🥉14 ·  ⭐ 660 · 💤) - A blazingly fast general purpose blockchain analytics engine.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/wshobson/maverick-mcp">MaverickMCP</a></b> (🥈14 ·  ⭐ 600 · ➕) - MaverickMCP - Personal Stock Analysis MCP Server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/outsmartchad/outsmart-cli">outsmart-cli</a></b> (🥈14 ·  ⭐ 580 · ➕) - Agent-first CLI for trading on Solana 18 DEX.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jrmeier/fast-trade">fast-trade</a></b> (🥉14 ·  ⭐ 570 · ➕) - low code backtesting library utilizing pandas and technical.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/ryanfrigo/kalshi-ai-trading-bot">Kalshi AI Trading Bot</a></b> (🥈14 ·  ⭐ 490 · ➕) - A toolkit for building AI-automated trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alsk1992/CloddsBot">CloddsBot</a></b> (🥈14 ·  ⭐ 440 · 🐣) - Open Source AI trading agent that operates autonomously.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/NVIDIA-AI-Blueprints/cuFOLIO">cuFOLIO</a></b> (🥉14 ·  ⭐ 420 · ➕) - cuFOLIO is a GPU-accelerated portfolio optimization toolkit for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/javifalces/HFTFramework">HFTFramework</a></b> (🥈14 ·  ⭐ 300 · ➕) - HFTFramework utilized for research on A reinforcement.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/moss-site/moss-trade-bot-skills">Moss Trade Bot</a></b> (🥈14 ·  ⭐ 290 · 🐣) - LLM-powered trading agents that turn plain natural.. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/alphanome-ai/sec-parser">sec-parser</a></b> (🥈14 ·  ⭐ 290 · ➕) - Parse SEC EDGAR HTML documents into a tree of elements that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/OctopusTakopi/binance_l3_est">binance_l3_est</a></b> (🥉14 ·  ⭐ 230 · ➕) - Uses L2 datas change in time to estimate a L3 order book.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/floor-licker/polyfill-rs">polyfill-rs</a></b> (🥉14 ·  ⭐ 210 · ➕) - The Fastest Polymarket Rust Client. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Yourdaylight/stock_datasource">stock_datasource</a></b> (🥈14 ·  ⭐ 160 · ➕) - tushareAIAgentskillAgenthttpmcpskillopenclaw. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ethereum-optimism/op-analytics">OP Analytics</a></b> (🥉14 ·  ⭐ 160 · ➕) - Onchain Data, Utilities, References, and other.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/moonstream-to/api">Moonstream API</a></b> (🥉14 ·  ⭐ 150 · 💀) - Building blocks for your blockchain economy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/lakshmiDRIP/DROP">DROP</a></b> (🥉14 ·  ⭐ 140 · ➕) - Fixed Income Analytics, Portfolio Construction Analytics, Transaction.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/jordantete/grid_trading_bot">Grid Trading Bot</a></b> (🥈14 ·  ⭐ 140 · ➕) - Open-source cryptocurrency trading bot designed to perform.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mirror29/inalpha">inAlpha</a></b> (🥈14 ·  ⭐ 140 · 🐣) - Open-source professional quant agent framework... <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/twjackysu/TWSEMCPServer">TWSE MCP Server</a></b> (🥉14 ·  ⭐ 120 · ➕) - OpenAPI MCP Server TPEx OpenAPI, TAIFEX OpenAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/maread99/market_prices">market_prices</a></b> (🥉14 ·  ⭐ 100 · ➕) - Get meaningful OHLCV datasets. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Senpi-ai/senpi-skills">Senpi Skills</a></b> (🥈14 ·  ⭐ 96 · 🐣) - Agent Skills for autonomous crypto trading on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/thirdweb-dev/insight">thirdweb Insight</a></b> (🥉14 ·  ⭐ 71 · ➕) - Open source indexer to store Events, Transactions and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/matthelmer/edinet-tools">edinet-tools</a></b> (🥈14 ·  ⭐ 46 · ➕) - Python library for Japanese corporate disclosure data. 42 EDINET.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Hitheshkaranth/OpenTerminalUI">OpenTerminalUI</a></b> (🥉14 ·  ⭐ 43 · 🐣) - OpenTerminalUI a trading terminal UI for market data,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jessegrabowski/gEconpy">gEconpy</a></b> (🥈14 ·  ⭐ 40 · ➕) - A collection of tools for working with DSGE models in python,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/tradesdontlie/tradingview-mcp">TradingView MCP (tradesdontlie)</a></b> (🥈13 ·  ⭐ 4K · 🐣) - AI-assisted TradingView chart analysis connect Claude.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/openctp/openctp">openctp</a></b> (🥉13 ·  ⭐ 2.8K · ➕) - .. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/warproxxx/poly-maker">poly-maker</a></b> (🥉13 ·  ⭐ 1.4K · ➕) - An automated market making bot for Polymarket that provides.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/piotrostr/listen">listen</a></b> (🥈13 ·  ⭐ 1.1K · 💤) - DeFAI Swiss Army Knife. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/evan-kolberg/prediction-market-backtesting">Prediction Market Backtesting</a></b> (🥉13 ·  ⭐ 990 · 🐣) - An extension for Nautilus Trader. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/oransel/node-talib">node-talib</a></b> (🥉13 ·  ⭐ 980 · ➕) - A technical analysis library for node.js. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+- <b><a href="https://github.com/Heerozh/spectre">spectre</a></b> (🥉13 ·  ⭐ 810 · 💀) - GPU-accelerated Factors analysis library and Backtester. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/195440/nof1.ai">Open nof1.ai</a></b> (🥈13 ·  ⭐ 680 · ➕) - Open nof1.ai | Autonomous AI Trading Agent (AI). <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/TheFourGreatErrors/alpha-rptr">alpha-rptr</a></b> (🥉13 ·  ⭐ 680 · ➕) - A trading bot for automated algorithmic trading on Binance.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/saidsurucu/borsa-mcp">borsa-mcp</a></b> (🥉13 ·  ⭐ 600 · ➕) - MCP Server for Turkish & American Stock Exchange and Fund Data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/convexfi/riskparity.py">riskparity.py</a></b> (🥉13 ·  ⭐ 320 · 💀) - Fast and scalable construction of risk parity portfolios. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/SEC-API-io/sec-api-node">sec-api-node</a></b> (🥈13 ·  ⭐ 300 · ➕) - Node.js SDK for SEC & EDGAR data API access and bulk.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fortitudo-tech/fortitudo.tech">fortitudo.tech</a></b> (🥉13 ·  ⭐ 300 · ➕) - Entropy Pooling views and stress testing combined with.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading">best-of-algorithmic-trading</a></b> (🥈13 ·  ⭐ 260 · 🐣) - algorithmic trading curated list quant finance.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code>
+- <b><a href="https://github.com/vincentarelbundock/WDI">WDI</a></b> (🥈13 ·  ⭐ 250 · ➕) - R package to download World Bank data. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/gameworkerkim/vibe-investing">Vibe Investing</a></b> (🥈13 ·  ⭐ 230 · 🐣) - AI-powered Vibe Investing for NASDAQ, S&P500 &.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/zwldarren/akshare-one-mcp">akshare-one-mcp</a></b> (🥉13 ·  ⭐ 200 · ➕) - MCP server that provides access to Chinese stock.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Qoyyuum/mcp-metatrader5-server">MCP MetaTrader 5 Server</a></b> (🥈13 ·  ⭐ 170 · ➕) - A Model Context Protocol (MCP) server for interacting.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tardis-dev/tardis-python">tardis-python</a></b> (🥉13 ·  ⭐ 140 · ➕) - Python client for tardis.dev - historical tick-level.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
+- <b><a href="https://github.com/coingecko/coingecko-cli">CoinGecko CLI</a></b> (🥉13 ·  ⭐ 120 · 🐣) - CoinGecko CLI - Real Time & Historical Crypto Data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bancaditalia/BeforeIT.jl">BeforeIT.jl</a></b> (🥈13 ·  ⭐ 120 · ➕) - High-Performance Agent-Based Macroeconomics Made Easy. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/kanedata/ixbrl-parse">ixbrl-parse</a></b> (🥈13 ·  ⭐ 71 · ➕) - A python library for getting useful data out of ixbrl files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/sstoeckl/crypto2">crypto2</a></b> (🥉13 ·  ⭐ 65 · ➕) - Cryptocurrency Market Data. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/chaindexing/chaindexing-rs">Chaindexing</a></b> (🥉13 ·  ⭐ 57 · ➕) - Index any EVM chain and query in SQL. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/MatthiWare/FinancialModelingPrep.NET">FinancialModelingPrep.NET</a></b> (🥈13 ·  ⭐ 44 · ➕) - C# API Client For financialmodelingprep.com Made In.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Logarithm-Labs/fractal-defi">Fractal DeFi</a></b> (🥈13 ·  ⭐ 41 · ➕) - Open-source Python research library for DeFi strategies... <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/Vorckea/yfinance-service">yfinance-service</a></b> (🥉13 ·  ⭐ 26 · ➕) - A lightweight FastAPI microservice proxy for Yahoo.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/MehdiZare/fmp-data">fmp-data</a></b> (🥈13 ·  ⭐ 25 · ➕) - FMP Data: A Modern Python Client for Financial Modeling Prep API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/The-Swarm-Corporation/AutoHedge">AutoHedge</a></b> (🥈12 ·  ⭐ 3.6K · ➕) - Build your autonomous hedge fund in minutes. AutoHedge.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/financial-datasets/mcp-server">Financial Datasets MCP</a></b> (🥈12 ·  ⭐ 2.2K · 💤) - An MCP server for interacting with the Financial.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/austin-starks/NextTrade">NextTrade</a></b> (🥉12 ·  ⭐ 1.8K · 💀) - A system that performs algorithmic trading. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/koreainvestment/open-trading-api">Korea Investment Open Trading API</a></b> (🥉12 ·  ⭐ 1.5K · ➕) - Korea Investment & Securities Open API Github. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/DemonDamon/FinnewsHunter">FinnewsHunter</a></b> (🥈12 ·  ⭐ 1.5K · ➕) - FinnewsHunter: Multi-agent financial intelligence.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/51bitquant/binance_grid_trader">Binance Grid Trader</a></b> (🥉12 ·  ⭐ 960 · ➕) - Binance_grid_trader is a grid strategy bot trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/simonlin1212/global-stock-data">global-stock-data</a></b> (🥉12 ·  ⭐ 940 · 🐣) - (AI Skill) 7 17 5 | US & HK Stock Full-Stack Data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/twelvedata/twelvedata-python">twelvedata-python</a></b> (🥉12 ·  ⭐ 750 · ➕) - Twelve Data Python Client - Financial data API & WebSocket. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rburkholder/trade-frame">trade-frame</a></b> (🥉12 ·  ⭐ 660 · ➕) - C++ 17 based library (with sample applications) for.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/alltick/alltick-realtime-forex-crypto-stock-tick-finance-websocket-api">AllTick API</a></b> (🥉12 ·  ⭐ 580 · ➕) - Real-time financial market data API, real-time forex.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ariadng/metatrader-mcp-server">MetaTrader MCP Server</a></b> (🥈12 ·  ⭐ 580 · ➕) - Model Context Protocol (MCP) to enable AI LLMs to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/caiovicentino/polymarket-mcp-server">Polymarket MCP Server</a></b> (🥈12 ·  ⭐ 570 · ➕) - AI-Powered MCP Server for Polymarket - Enable Claude.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/aarora4/Awesome-Prediction-Market-Tools">Awesome Prediction Market Tools</a></b> (🥈12 ·  ⭐ 540 · ➕) - A curated list of Prediction Market Tools - AI.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fbertram/TuringTrader">TuringTrader</a></b> (🥉12 ·  ⭐ 520 · 💀) - The Open-Source Backtesting Engine/ Trading Simulator.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/discountry/ritmex-bot">ritmex-bot</a></b> (🥉12 ·  ⭐ 450 · ➕) - Perp DEX trading bot. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/aahl/mcp-aktools">mcp-aktools</a></b> (🥉12 ·  ⭐ 380 · ➕) - MCP. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Ashutosh0x/rust-finance">rust-finance</a></b> (🥉12 ·  ⭐ 360 · 🐣) - A high-performance, ultra low-latency trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/agent-next/polymarket-paper-trader">Polymarket Paper Trader</a></b> (🥈12 ·  ⭐ 350 · 🐣) - Paper trading simulator for Polymarket built for AI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bmoscon/orderbook">orderbook</a></b> (🥉12 ·  ⭐ 320 · 💤) - A fast L2/L3 orderbook data structure, in C, for Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/dawsbot/eth-labels">eth-labels</a></b> (🥉12 ·  ⭐ 280 · ➕) - A public dataset of crypto addresses labeled. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/huygiatrng/AlpacaTradingAgent">AlpacaTradingAgent</a></b> (🥈12 ·  ⭐ 230 · ➕) - AlpacaTradingAgent: Multi-Agents LLM Financial.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/armorwallet/armor-crypto-mcp">Armor Crypto MCP</a></b> (🥈12 ·  ⭐ 180 · 💀) - The MCP server for interacting with Blockchain,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/mwouts/world_bank_data">World Bank Data (Python)</a></b> (🥉12 ·  ⭐ 140 · 💀) - The World Bank Data in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tonindexer/anton">Anton</a></b> (🥉12 ·  ⭐ 130 · 💤) - Indexing for TON blockchain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/hmG3/TA-Lib.NETCore">TA-Lib.NETCore</a></b> (🥉12 ·  ⭐ 120 · 💀) - A modern port to .NET (C#) of Technical Analysis.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+- <b><a href="https://github.com/nirholas/pump-fun-sdk">pump-fun-sdk</a></b> (🥈12 ·  ⭐ 100 · 🐣) - Token creation launching, bonding curve trading, AMM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/lauramyol13/crypto-signal-agent">crypto-signal-agent</a></b> (🥉12 ·  ⭐ 97 · ➕) - AI trading agent using ML algorithms and feature.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/hotbridgeLab/future-trading-ai-agent">future-trading-ai-agent</a></b> (🥉12 ·  ⭐ 94 · 🐣) - Agent for USDT-margined perpetual futures on Binance,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/btopn/OpenInsider-MCP">OpenInsider MCP</a></b> (🥉12 ·  ⭐ 93 · 🐣) - MCP server that exposes live insider trading data to any.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/wjhccc/TradingAgents-Studio">TradingAgents-Studio</a></b> (🥈12 ·  ⭐ 92 · 🐣) - LLM Agent , BUY/SELL. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/JeffFerguson/gepsio">Gepsio</a></b> (🥉12 ·  ⭐ 77 · 💀) - Gepsio is a document object model for XBRL documents based on .NET. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/serkor1/cryptoQuotes">cryptoQuotes</a></b> (🥉12 ·  ⭐ 48 · ➕) - cryptoQuotes is an R package for retrieving historical and.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
+- <b><a href="https://github.com/coding-kitties/PyIndicators">PyIndicators</a></b> (🥉12 ·  ⭐ 41 · ➕) - PyIndicators is a powerful and user-friendly Python library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/fiale-plus/tradingview-mcp-server">tradingview-mcp-server</a></b> (🥈12 ·  ⭐ 41 · ➕) - Unofficial MCP and CLI for TradingView API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/growthepie/gtp-backend">growthepie Backend</a></b> (🥉12 ·  ⭐ 30 · ➕) - The backend powering growthepie, the open analytics.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/MerlinR/Hexital">Hexital</a></b> (🥉12 ·  ⭐ 27 · 💤) - Hexital - Incremental Technical Analysis Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/maxscheijen/mcp-yahoo-finance">MCP Yahoo Finance</a></b> (🥈12 ·  ⭐ 27 · ➕) - A Model Context Protocol (MCP) server for Yahoo.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/palewire/fed-dot-plot-scraper">fed-dot-plot-scraper</a></b> (🥉12 ·  ⭐ 26 · ➕) - Extracting the dot plot economic projections posted.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/noditlabs/nodit-mcp-server">Nodit MCP Server</a></b> (🥈12 ·  ⭐ 23 · ➕) - A Model Context Protocol (MCP) server for AI agents.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading">Awesome Quant Machine Learning Trading</a></b> (🥈11 ·  ⭐ 3.8K · 💀) - Quant/Algorithm trading resources with an emphasis on.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/mpquant/Ashare">Ashare</a></b> (🥉11 ·  ⭐ 3.6K · ➕) - -A,-,pythonAPI,,K,,,STOCKDataFrame,. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/mpquant/MyTT">MyTT</a></b> (🥉11 ·  ⭐ 2.8K · ➕) - .. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/wquguru/nof0">NOF0</a></b> (🥉11 ·  ⭐ 2.8K · ➕) - NOF0 - AI. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/0xemmkty/QuantMuse">QuantMuse</a></b> (🥉11 ·  ⭐ 2.7K · 💤) - A comprehensive quantitative trading system with AI-powered.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/whchien/ai-trader">ai-trader</a></b> (🥉11 ·  ⭐ 830 · ➕) - Backtrader-powered backtesting framework for algorithmic.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/terryso/nof1-tracker">nof1-tracker</a></b> (🥉11 ·  ⭐ 760 · 💤) - A command-line tool for tracking nof1.ai AI Agent trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nelso0/barbotine-arbitrage-bot">Barbotine Arbitrage Bot</a></b> (🥉11 ·  ⭐ 640 · ➕) - CCXT-based cross-exchange arbitrage bot operating on.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leoncuhk/awesome-quant-ai">awesome-quant-ai</a></b> (🥈11 ·  ⭐ 400 · ➕) - A curated list of awesome resources for quantitative.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/realworkagent/openthomas">OpenThomas</a></b> (🥈11 ·  ⭐ 360 · ➕) - Open-source Bayesian trading AI agent for prediction.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/godzilla-foundation/godzilla-community">Godzilla</a></b> (🥉11 ·  ⭐ 350 · 💀) - Crypto HFT with open source software. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/moov-io/awesome-fintech">Awesome Fintech (moov-io)</a></b> (🥈11 ·  ⭐ 330 · ➕) - A curated collection of open source fintech libraries.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fmzquant/backtest_python">FMZ backtest_python</a></b> (🥉11 ·  ⭐ 280 · ➕) - FMZ backtest engine python package. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Tomortec/CryptoTradingAgents">CryptoTradingAgents</a></b> (🥉11 ·  ⭐ 270 · 💤) - Multi-Agents AI LLM Crypto Financial Trading Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/electkismet/eltdx">eltdx</a></b> (🥉11 ·  ⭐ 190 · 🐣) - A Python MCPK MCPAgent. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/vybenetwork/solana-ohlc-candlestick-data-api">Vybe Solana OHLC Candlestick Data API</a></b> (🥉11 ·  ⭐ 180 · 🐣) - Solana OHLC Candlestick Data API: This repository.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sieblyio/orderbooks">orderbooks</a></b> (🥉11 ·  ⭐ 160 · 💤) - Simple utility classes to handle orderbook snapshot &.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/holypolyfoundation/bs-p">bs-p</a></b> (🥉11 ·  ⭐ 150 · 🐣) - Ultra-low latency AVX-512 Polymarket market-making kernel (Logit Jump-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/joosthoeks/jhTAlib">jhTAlib</a></b> (🥉11 ·  ⭐ 150 · 💤) - Technical Analysis Library Time-Series. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/HemeraProtocol/hemera-indexer">Hemera Indexer</a></b> (🥉11 ·  ⭐ 140 · 💀) - Decentralized, account-centric programmable indexing.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/diogomatoschaves/MyCryptoBot">MyCryptoBot</a></b> (🥉11 ·  ⭐ 140 · ➕) - Open source crypto trading platform to automate.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/stefanoamorelli/fred-mcp-server">FRED MCP Server</a></b> (🥉11 ·  ⭐ 100 · ➕) - Open-source FRED MCP Server (Federal Reserve Economic.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/openpond/opentool">OpenTool</a></b> (🥉11 ·  ⭐ 98 · ➕) - Automated Agents that trade crypto 24/7 for you. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Signal-Execution-Labs/mexc-future-agent">MEXC Future Agent</a></b> (🥈11 ·  ⭐ 93 · ➕) - MEXC crypto trading tools for Claude Code and OpenAI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jolly-roger-eth/ethereum-indexer">ethereum-indexer</a></b> (🥉11 ·  ⭐ 83 · ➕) - A modular indexer system for ethereum and other.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/quicknode/solana-finance-claude-plugin">Solana Finance Claude Plugin</a></b> (🥈11 ·  ⭐ 80 · ➕) - The Solana and Anchor Claude skill. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/QuantConnect/mcp-server">QuantConnect MCP Server</a></b> (🥈11 ·  ⭐ 78 · ➕) - Official Python MCP server for local interactions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/calumrussell/rotala">Rotala</a></b> (🥉11 ·  ⭐ 75 · 💀) - Backtesting engine written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/quantfreedom/QuantFreedom">QuantFreedom</a></b> (🥉11 ·  ⭐ 70 · 💤) - Professional Backtesting Engine for crypto, stocks and forex. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/cunarist/solie">Solie</a></b> (🥉11 ·  ⭐ 59 · ➕) - GUI trading bot designed for targeting the futures markets of.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/mirror29/openfinclaw-cli">OpenFinClaw CLI</a></b> (🥈11 ·  ⭐ 56 · 🐣) - One-stop quant-trading AI agent research strategy.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/oboshto/mexc-futures-sdk">mexc-futures-sdk</a></b> (🥉11 ·  ⭐ 51 · ➕) - TypeScript SDK for MEXC Futures API using browser session.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/razorhash/pyfmpcloud">pyfmpcloud</a></b> (🥉11 ·  ⭐ 50 · ➕) - A python wrapper for the Financial Model Prep API for analysis of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/aleph-im/aleph-indexer-framework">Aleph Indexer Framework</a></b> (🥉11 ·  ⭐ 45 · ➕) - TypeScript framework for deploying distributed.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nirholas/defi-agents">DeFi Agents</a></b> (🥈11 ·  ⭐ 31 · 🐣) - DeFi agent definitions JSON API + MCP - Production-ready.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/EodHistoricalData/eodhd-claude-skills">EODHD Claude Skills</a></b> (🥈11 ·  ⭐ 26 · 🐣) - Claude Code plugin for EODHD financial data 150k+.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/augiemazza/varrd">varrd</a></b> (🥈11 ·  ⭐ 21 · 🐣) - AI-powered trading research platform. Test any idea on stocks,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/6551Team/opennews-mcp">OpenNews MCP</a></b> (🥉10 ·  ⭐ 1.7K · 🐣) - News Aggregation AI Ratings Trading Signals Real-time.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ICT-FinD-Lab/alphagen">alphagen</a></b> (🥉10 ·  ⭐ 1.1K · ➕) - Generating sets of formulaic alpha (predictive) stock.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/itgoyo/awesome-crypto">Awesome Crypto (0xNav)</a></b> (🥉10 ·  ⭐ 890 · ➕) - OKXBinanceGate.ioNFTDeFiWeb3.0 www.0xnav.com. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/dennisyang1986/opensqt_market_maker">OpenSQT Market Maker</a></b> (🥉10 ·  ⭐ 850 · 🐣) - OpenSQT Go WebSocket BinanceBitgetGate.io. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ent0n29/polybot">polybot</a></b> (🥉10 ·  ⭐ 820 · 🐣) - Reverse-engineering of every polymarket strategy and high-frequency.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/51bitquant/ai-hedge-fund-crypto">AI Hedge Fund for Crypto</a></b> (🥉10 ·  ⭐ 600 · 💤) - AI-Hedge-Fund for Crypto AI-powered hedge fund for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/denisnazarov/awesome-crypto-trackers">Awesome Crypto Trackers</a></b> (🥉10 ·  ⭐ 480 · 💀) - A curated list of crypto project trackers and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/leftmove/wallstreetlocal">wallstreetlocal</a></b> (🥉10 ·  ⭐ 470 · 💀) - Free and open-source stock tracking website for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/0xgasless/agentkit">0xGasless AgentKit</a></b> (🥉10 ·  ⭐ 420 · 💤) - AgentKit is a toolkit that gives AI agents access to.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/benstaf/FinRL_DeepSeek">FinRL-DeepSeek</a></b> (🥉10 ·  ⭐ 330 · 💀) - Code for the paper FinRL-DeepSeek: LLM-Infused Risk-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/deshwalmahesh/NSE-Stock-Scanner">NSE Stock Scanner</a></b> (🥉10 ·  ⭐ 320 · 💀) - National Stock Exchange (NSE), India based Stock.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ryantcullen/stock-bot">stock-bot</a></b> (🥉10 ·  ⭐ 310 · ➕) - An open-source Python backtesting engine for designing.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/EthanAlgoX/LLM-TradeBot">LLM-TradeBot</a></b> (🥉10 ·  ⭐ 290 · 🐣) - A multi-agent AI trading system using LLMs to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/quantrocket-llc/moonshot">Moonshot</a></b> (🥉10 ·  ⭐ 270 · 💀) - Vectorized backtester and trading engine for QuantRocket. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Superior-Trade/superior-skills">Superior Skills</a></b> (🥉10 ·  ⭐ 210 · 🐣) - Open agent skills and tool schemas for Superior Trade.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/shouldnotappearcalm/a-share-skill">a-share-skill</a></b> (🥉10 ·  ⭐ 180 · 🐣) - A Skill K. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ALAGENT-HKU/x2strategy">x2strategy</a></b> (🥉10 ·  ⭐ 170 · 🐣) - Extract structured strategy specifications from.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/OctagonAI/octagon-mcp-server">Octagon MCP Server</a></b> (🥉10 ·  ⭐ 140 · ➕) - An MCP server for public & prediction markets.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/codez0mb1e/BinanceBot">BinanceBot</a></b> (🥉10 ·  ⭐ 130 · ➕) - Market Maker Bot for Binance. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bigmacman1129/solana-sniper-trading-mev-bot">solana-sniper-trading-mev-bot</a></b> (🥉10 ·  ⭐ 110 · 🐣) - Solana trading bot for sniping new tokens on Raydium.. <code><a href="https://tldrlegal.com/search?q=MS-PL">❗️MS-PL</a></code>
+- <b><a href="https://github.com/taylorwilsdon/quantconnect-mcp">quantconnect-mcp</a></b> (🥉10 ·  ⭐ 110 · 💤) - QuantConnect Algorithmic Trading Platform.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ertugrul59/tradingview-chart-mcp">TradingView Chart MCP</a></b> (🥉10 ·  ⭐ 97 · ➕) - MCP server that captures TradingView chart images via.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/JorgeCandeias/Trader">Trader</a></b> (🥉10 ·  ⭐ 94 · 💀) - Trader is an algorithmic trading framework and host built on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tradinglabpremium/solana-twitter-token-trading-agent">solana-twitter-token-trading-agent</a></b> (🥉10 ·  ⭐ 93 · ➕) - token trading agent on solana via twitter post.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/eabz/evm-indexer">evm-indexer</a></b> (🥉10 ·  ⭐ 88 · 💤) - A scalable SQL indexer for EVM compatible blockchains. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/shuizhengqi1/futu-stock-mcp-server">Futu Stock MCP Server</a></b> (🥉10 ·  ⭐ 75 · ➕) - mcp server for futuniuniu stock. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/chainstacklabs/hyperliquid-trading-bot">Hyperliquid Trading Bot</a></b> (🥉10 ·  ⭐ 72 · ➕) - Trading bot for Hyperliquid DEX. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/StanleyChanH/Tushare-Finance-Skill-for-Claude-Code">Tushare Finance Skill for Claude Code</a></b> (🥉10 ·  ⭐ 71 · 🐣) - Claude Code Tushare Pro 220+ A. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bigmacman1129/solana-sniper-copy-trading-bot">solana-sniper-copy-trading-bot</a></b> (🥉10 ·  ⭐ 68 · 🐣) - Ultra-fast Solana trading bot (Node.js & Rust) for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/hanlulong/openecon-data">OpenEcon Data</a></b> (🥉10 ·  ⭐ 56 · ➕) - Give your AI agent accurate economic data. 330K.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/emceeKim/korea-finance-mcp">Korea Finance MCP</a></b> (🥉10 ·  ⭐ 52 · 🐣) - Koreas first legally-safe (Capital Markets Act.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/AnalyticAce/binance-mcp-server">Binance MCP Server</a></b> (🥉10 ·  ⭐ 48 · ➕) - Unofficial tools and server implementation for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/steelcake/cherry">Cherry</a></b> (🥉10 ·  ⭐ 40 · 💤) - Python library for building blockchain data pipelines. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/eslazarev/pricehub">PriceHub</a></b> (🥉10 ·  ⭐ 39 · ➕) - PriceHub: Unified Python Package for Collecting OHLC Prices from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nirholas/bnbchain-mcp">BNB Chain MCP</a></b> (🥉10 ·  ⭐ 31 · 🐣) - Developer tools for AI crypto agents Build apps with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/brandonhimpfen/awesome-finance">Awesome Finance</a></b> (🥉10 ·  ⭐ 31 · 🐣) - A curated list of tools, platforms, datasets,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/RKiding/Awesome-finance-skills">Awesome Finance Skills</a></b> (🥉9 ·  ⭐ 2.6K · 🐣) - A collection of Awesome Finance Agent Skills for free.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/chrisworsey55/atlas-gic">ATLAS (atlas-gic)</a></b> (🥉9 ·  ⭐ 2K · 🐣) - ATLAS by General Intelligence Capital Self-improving.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/demcp/awesome-web3-mcp-servers">Awesome Web3 MCP Servers</a></b> (🥉9 ·  ⭐ 610 · 💀) - DeMCP is the first Decentralized MCP network,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/TickDB/tickdb-unified-realtime-marketdata-api">TickDB</a></b> (🥉9 ·  ⭐ 470 · 🐣) - TickDB: AI-native real time stock API and market data API.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/himanshu2406/Algo.Py">Algo.Py</a></b> (🥉9 ·  ⭐ 360 · 💀) - The Next-Gen Algorithmic Trading Framework (Early Beta). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/7kfpun/awesome-fintech">Awesome Fintech (7kfpun)</a></b> (🥉9 ·  ⭐ 360 · ➕) - A curated list of amazingly awesome financial.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
+- <b><a href="https://github.com/guangxiangdebizi/TradingAgents-MCPmode">TradingAgents-MCPmode</a></b> (🥉9 ·  ⭐ 320 · 💤) - TradingAgents-MCPmode Model Context Protocol (MCP). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Alex2Yang97/yahoo-finance-mcp">yahoo-finance-mcp</a></b> (🥉9 ·  ⭐ 320 · ➕) - This is a Model Context Protocol (MCP) server that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/henrytirla/Solana-Trading-Bot">Solana-Trading-Bot</a></b> (🥉9 ·  ⭐ 290 · 💀) - Buy and Sell SPL tokens on the Raydium DEX and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/gregyjames/ZenithTA">ZenithTA</a></b> (🥉9 ·  ⭐ 220 · 💀) - A high performance python technical analysis library written in Rust.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/neodotsol/solana-trading-bot-pumpfun">solana-trading-bot-pumpfun</a></b> (🥉9 ·  ⭐ 210 · 🐣) - Solana trading bot that implements multi wallet.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/OnePunchMonk/AgentQuant">AgentQuant</a></b> (🥉9 ·  ⭐ 160 · ➕) - Autonomous quantitative trading research platform.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/AI-Brokers/AIBrokers">AIBrokers</a></b> (🥉9 ·  ⭐ 120 · 💀) - The first real-world AI hedge fund framework in crypto, fully.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vincentkoc/dexscraper">DexScraper</a></b> (🥉9 ·  ⭐ 110 · ➕) - Real-time DexScreener scraper python SDK for multi-chain.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/Pierre-Bouquet/pibou-filings">pibou-filings</a></b> (🥉9 ·  ⭐ 100 · ➕) - A Python library to download, parse, and analyze SEC.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/zhensherlock/sp500-mcp-server">S&P 500 MCP Server</a></b> (🥉9 ·  ⭐ 100 · 🐣) - An MCP server and Next.js web app for querying S&P.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/lazy-dinosaur/ccxt-mcp">CCXT MCP</a></b> (🥉9 ·  ⭐ 89 · ➕) - CCXT MCP Server bridges the gap between AI models and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/agiprolabs/claude-trading-skills">Claude Trading Skills</a></b> (🥉9 ·  ⭐ 70 · 🐣) - 67 trading, DeFi, and quantitative finance Agent.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/TradingGoose/TradingGoose.github.io">TradingGoose</a></b> (🥉9 ·  ⭐ 70 · ➕) - A Multi-Agents LLM Financial Trading Framework for.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/stefanoamorelli/nasdaq-data-link-mcp">Nasdaq Data Link MCP</a></b> (🥉9 ·  ⭐ 59 · 💤) - A Nasdaq Data Link MCP (Model Context Protocol) Server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vicnaum/shinode">shinode</a></b> (🥉9 ·  ⭐ 59 · 🐣) - Lightweight Ethereum history node syncs headers, receipts &.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Oakshen/crypto-trading-bot">crypto-trading-bot (Oakshen)</a></b> (🥉9 ·  ⭐ 48 · ➕) - Go Agent( nof1 )Go-based cryptocurrency quantitative.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/twCarllin/10k-analysis">10-K Analysis</a></b> (🥉9 ·  ⭐ 46 · 🐣) - Multi-agent pipeline for automated SEC 10-K / 10-Q.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/massive-com/xbrl-parser">xbrl-parser (Go)</a></b> (🥉9 ·  ⭐ 39 · 💤) - A Go library to parse xbrl documents into their facts,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nirholas/universal-crypto-mcp">Universal Crypto MCP</a></b> (🥉9 ·  ⭐ 37 · 🐣) - Universal MCP server for AI agents to interact with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/iamjameskeane/realpolitik">Realpolitik</a></b> (🥉9 ·  ⭐ 35 · 🐣) - Real-time geopolitical event monitoring dashboard with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/colinsweany/quant-trade">quant-trade</a></b> (🥉9 ·  ⭐ 34 · 🐣) - Your personal multi-asset quant research team,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nirholas/Binance-MCP">Binance MCP</a></b> (🥉9 ·  ⭐ 31 · 🐣) - A Model Context Protocol (MCP) server for Binance.com.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Aetheris-Labs/Aegis">Aegis</a></b> (🥉9 ·  ⭐ 25 · 🐣) - Autonomous Solana trading agent with in-enclave key custody and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/novasamatech/subquery-history">Nova Wallet SubQuery History</a></b> (🥉9 ·  ⭐ 22 · ➕) - SubQuery API for saturating Nova Wallet as a data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/FlowLLM-AI/finance-mcp">FlowLLM Finance MCP</a></b> (🥉9 ·  ⭐ 22 · 🐣) - LLM-powered MCP server for building financial deep-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/brandonhimpfen/awesome-defi">awesome-defi</a></b> (🥉9 ·  ⭐ 22 · ➕) - A curated list of awesome resources, tools,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/feremabraz/bloomberg-terminal">Bloomberg Terminal (AI)</a></b> (🥉8 ·  ⭐ 1.4K · ➕) - Bloomberg-like terminal with AI. It uses Redis with.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/0voice/Awesome-QuantDev-Learn">Awesome-QuantDev-Learn</a></b> (🥉8 ·  ⭐ 920 · 💤) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/eli-labz/Third-Eye">Third-Eye</a></b> (🥉8 ·  ⭐ 880 · ➕) - A production-grade OSINT platform that provides.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ygwyg/MAHORAGA">MAHORAGA</a></b> (🥉8 ·  ⭐ 830 · 🐣) - autonomous trading agent powered by social sentiment.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/tradingview/awesome-tradingview">awesome-tradingview (Official)</a></b> (🥉8 ·  ⭐ 730 · ➕) - A curated list of awesome things related to.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/shi-rudo/awesome-stock-trading">Awesome Stock Trading</a></b> (🥉8 ·  ⭐ 520 · ➕) - Curated list of resources for traders, such as tools,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/elsejj/mcp-cn-a-stock">mcp-cn-a-stock</a></b> (🥉8 ·  ⭐ 450 · ➕) - A MCP(Model Content Protocol). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/MobiusQuant/OpenMobius-skill">OpenMobius Skill</a></b> (🥉8 ·  ⭐ 400 · 🐣) - ICT/SMC trading-knowledge skill for AI coding agents.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/cn-vhql/FactorHub">FactorHub</a></b> (🥉8 ·  ⭐ 370 · ➕) - FactorHub is an open-source modern quantitative factor.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/okx/agent-trade-kit">OKX Agent Trade Kit</a></b> (🥉8 ·  ⭐ 340 · 🐣) - OKX trading MCP server connect AI agents to spot,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/second-state/fintool">fintool</a></b> (🥉8 ·  ⭐ 300 · 🐣) - A suite of Rust CLI tools for agentic trading and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/lo2cin4/lo2cin4bt">lo2cin4bt</a></b> (🥉8 ·  ⭐ 260 · ➕) - The best backtest engine for non-coders and quant.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nirholas/cryptocurrency.cv">cryptocurrency.cv</a></b> (🥉8 ·  ⭐ 250 · 🐣) - Free crypto news API - real-time aggregator for.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/wshobson/financial-chat">Financial Chat</a></b> (🥉8 ·  ⭐ 240 · 💤) - A financial chat application powered by LangChain,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fewwwww/awesome-web3-skills">Awesome Web3 Skills</a></b> (🥉8 ·  ⭐ 210 · 🐣) - A curated list of awesome skills for agents in Web3.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/DegenSugarBoo/OpenBook">OpenBook</a></b> (🥉8 ·  ⭐ 170 · 🐣) - Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jimtin/algorithmic_trading_bot">algorithmic_trading_bot</a></b> (🥉8 ·  ⭐ 150 · 💀) - Python Trading Bot for Algorithmic Trading... <code>❗Unlicensed</code>
+- <b><a href="https://github.com/zerotech-studio/zack">Zack</a></b> (🥉8 ·  ⭐ 150 · 💤) - Backtesting engine in Zig. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/JesseVent/crypto">crypto (R CoinMarketCap)</a></b> (🥉8 ·  ⭐ 150 · 💤) - An R package that provides functions to retrieve.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/indexsupply/golden-axe">Golden Axe</a></b> (🥉8 ·  ⭐ 120 · ➕) - evm indexer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alions7000/SEC-EDGAR-text">SEC-EDGAR-text</a></b> (🥉8 ·  ⭐ 110 · ➕) - Text information from US companies SEC EDGAR electronic.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/Thomvanoorschot/zigma">zigma</a></b> (🥉8 ·  ⭐ 100 · 💤) - Zigma is an algorithmic trading framework built with the Zig.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dex-original/okx-agent-trade-kit">okx-agent-trade-kit</a></b> (🥉8 ·  ⭐ 98 · 🐣) - okx trading bot okx agent mcp cli cryptocurrency okx.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/QuantGeekDev/coincap-mcp">coincap-mcp</a></b> (🥉8 ·  ⭐ 92 · 💀) - A coincap mcp server to access crypto data from coincap API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ShurikenTrade/shuriken-skills">Shuriken Skills</a></b> (🥉8 ·  ⭐ 91 · 🐣) - Agent-consumable integration skills for the Shuriken.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Jackhuang166/ai-memecoin-trading-bot">AI Memecoin Trading Bot</a></b> (🥉8 ·  ⭐ 80 · 💤) - AI-powered meme coin trading bot for Solana and Base.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/calvernaz/alphavantage">Alpha Vantage MCP</a></b> (🥉8 ·  ⭐ 74 · ➕) - A MCP server for the stock market data API,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/nMaroulis/sibyl">Sibyl</a></b> (🥉8 ·  ⭐ 72 · ➕) - AI-Powered Crypto Insights & Trading Dashboard using AI.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/nirholas/agenti">Agenti</a></b> (🥉8 ·  ⭐ 69 · ➕) - Give any AI agent a crypto wallet. Agents deserve.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/bitauth/chaingraph">Chaingraph</a></b> (🥉8 ·  ⭐ 59 · 💤) - A multi-node blockchain indexer and GraphQL API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/coffellas-cto/solana-trading-bot">solana-trading-bot (coffellas-cto)</a></b> (🥉8 ·  ⭐ 58 · 💤) - solana trading bot using rust all-in-one sdk. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/chrisryugj/korean-dart-mcp">Korean DART MCP</a></b> (🥉8 ·  ⭐ 57 · 🐣) - OpenDART MCP | 83 API 15 MCP . XBRL + ( ) + HWP/PDF |.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/vincent212/CME-Market-Data-Handler">CME Market Data Handler</a></b> (🥉8 ·  ⭐ 55 · ➕) - A minimalist, low-latency, HFT CME MDP3.0 C++ market.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/faryhuo/backtrader">backtrader (AI algo platform)</a></b> (🥉8 ·  ⭐ 49 · 🐣) - A next-generation AI-powered algorithmic trading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Drakkar-Software/OctoBot-Script">OctoBot-Script</a></b> (🥉8 ·  ⭐ 43 · ➕) - Quant trading framework by OctoBot. Write, backtest &.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/lev-corrupted/TradingViewMCPServer">TradingView MCP Server</a></b> (🥉8 ·  ⭐ 41 · 💤) - Professional multi-asset trading & Pine Script.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/taz4et/bitcoin-etl">bitcoin-etl</a></b> (🥉8 ·  ⭐ 36 · 💤) - A Python toolkit for extracting and transforming Bitcoin blockchain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rustic-ml/OxiDiviner">OxiDiviner</a></b> (🥉8 ·  ⭐ 31 · 💤) - OxiDiviner: A production-ready, open-source Rust library.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/DaviddTech/ai-trading-agent">AI Trading Agent (Trader Dev MCP)</a></b> (🥉8 ·  ⭐ 27 · 🐣) - Build your own AI hedge fund with Claude, Codex,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/devonmojito/ton-blockchain-mcp">TON Blockchain MCP</a></b> (🥉8 ·  ⭐ 26 · 💀) - A Model Context Protocol (MCP) server written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/RAYDENFLY/quantumterminal">QuantumTerminal</a></b> (🥉8 ·  ⭐ 25 · 🐣) - A professional cryptocurrency trading dashboard inspired.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/sacahan/CasualMarket">CasualMarket</a></b> (🥉8 ·  ⭐ 24 · ➕) - Model Context Protocol (MCP) Server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/LoreResearch/Lore">Lore</a></b> (🥉8 ·  ⭐ 24 · 🐣) - DeFi protocol research agent for Solana. Scores protocols on security,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ninyawee/thaifin">thaifin</a></b> (🥉8 ·  ⭐ 22 · ➕) - A Python library for access thai stock fundamental data up to 10+.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/shpak-vlad/PayDrip">PayDrip</a></b> (🥉8 ·  ⭐ 21 · ➕) - Micropayment and vesting pipeline on Base that streams funds as discrete.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tynmarket/litexbrl">litexbrl</a></b> (🥉8 ·  ⭐ 21 · ➕) - XBRL parser for Ruby. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bancaditalia/ABCredit.jl">ABCredit.jl</a></b> (🥉8 ·  ⭐ 21 · 💤) - A fast and simple to use Julia implementation of the.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/aleph-im/aleph-indexer-library">Aleph Indexer Library</a></b> (🥉8 ·  ⭐ 20 · ➕) - Solana indexer examples. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/andyevers/sec-edgar-api">sec-edgar-api</a></b> (🥉8 ·  ⭐ 20 · ➕) - Fetch and parse SEC earnings reports and other filings. Useful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/swapperfinance/swapper-toolkit">Swapper Toolkit</a></b> (🥉7 ·  ⭐ 810 · 🐣) - DeFi toolkit for AI agents and coding assistants deposit.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jason8745/llm-agent-trader">LLM Agent Trader</a></b> (🥉7 ·  ⭐ 370 · ➕) - AI-powered stock trading backtesting system with LLM-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/datasets/edgar">SEC EDGAR Dataset</a></b> (🥉7 ·  ⭐ 350 · ➕) - Securities and Exchange Commission (SEC) EDGAR.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/QuantMLResearch/AI-Kline">AI-Kline</a></b> (🥉7 ·  ⭐ 330 · 💤) - Python-based stock analysis tool that combines.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/LLMQuant/awesome-trading-agents">awesome-trading-agents</a></b> (🥉7 ·  ⭐ 320 · 🐣) - Curated list of LLM-driven trading agents, MCP.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
+- <b><a href="https://github.com/wbsu2003/stock-scanner-mcp">Stock Scanner MCP</a></b> (🥉7 ·  ⭐ 240 · 💤) - FastAPI-MCP MCP AI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/faizancodes/Automated-Fundamental-Analysis">Automated Fundamental Analysis</a></b> (🥉7 ·  ⭐ 230 · 💀) - Python program that rates stocks out of 100 based on.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/YZYLAB/solana-trade-bot">solana-trade-bot</a></b> (🥉7 ·  ⭐ 160 · 💤) - Solana Trading Bot example for Raydium (CPMM/V4),.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/huweihua123/stock-mcp">stock-mcp</a></b> (🥉7 ·  ⭐ 160 · ➕) - MCP - A// MCP AI Agent. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/JoelLewis/finance_skills">finance_skills</a></b> (🥉7 ·  ⭐ 140 · 🐣) - Claude Code skill plugins for financial services 81.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jialuechen/trademind">TradeMind</a></b> (🥉7 ·  ⭐ 130 · 💤) - Hybrid Event-driven and Vectorized Strategy Backtesting Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ryansmccoy/py-sec-edgar">py-sec-edgar</a></b> (🥉7 ·  ⭐ 130 · ➕) - Python application used to download, parse, and extract.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kukapay/freqtrade-mcp">freqtrade-mcp</a></b> (🥉7 ·  ⭐ 120 · ➕) - An MCP server that integrates with the Freqtrade.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/zgu-usgaap-fr/GAAP-Implementation-Toolkit">GAAP Implementation Toolkit</a></b> (🥉7 ·  ⭐ 110 · 🐣) - Track how U.S. public companies implement complex.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/chain-ml/alphaswarm">AlphaSwarm</a></b> (🥉7 ·  ⭐ 96 · 💀) - AlphaSwarm is a starter kit for building LLM-powered AI agents.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/roman-rr/trading-skills">Trading Skills</a></b> (🥉7 ·  ⭐ 79 · 🐣) - 17 triggers 44 algorithms 3 AI experts live crypto.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jensnesten/rust_bt">rust_bt</a></b> (🥉7 ·  ⭐ 77 · ➕) - High performance, low-latency backtesting engine for testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/prof-little-bear/cc-equity-research">CC Equity Research</a></b> (🥉7 ·  ⭐ 74 · 🐣) - Turn Claude Code into an equity-research agent: 24.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/netanelavr/trading-mcp">Trading MCP</a></b> (🥉7 ·  ⭐ 74 · 💤) - The MCP server that will help you trade smarter (or at least.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/JakeNesler/OpenProphet">OpenProphet</a></b> (🥉7 ·  ⭐ 74 · 🐣) - Autonomous AI trading agent with web dashboard, MCP.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/dragon1086/kospi-kosdaq-stock-server">KOSPI/KOSDAQ Stock MCP Server</a></b> (🥉7 ·  ⭐ 73 · ➕) - An MCP server that provides KOSPI/KOSDAQ stock data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/footprintanalytics/awesome-web3">Awesome Web3 (Footprint Analytics)</a></b> (🥉7 ·  ⭐ 73 · 💀) - A curated list of awesome web3, articles, analysis.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/United-Visions/Trading_Pal-main">Trading Pal</a></b> (🥉7 ·  ⭐ 68 · 💀) - Trading Pal is a natural langrage trading assistant,.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/Nayshins/mcp-server-ccxt">mcp-server-ccxt</a></b> (🥉7 ·  ⭐ 61 · 💀) - Cryptocurrency Market Data MCP Server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Indemos/Terminal">Indemos Terminal</a></b> (🥉7 ·  ⭐ 59 · ➕) - All-in-one. Trading terminal with generic gateway.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Adity-star/mcp-yfinance-server">yfinance MCP Server</a></b> (🥉7 ·  ⭐ 55 · ➕) - Real-time stock API with Python, MCP server example,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/trade-it-inc/trade-it-mcp">Trade It MCP</a></b> (🥉7 ·  ⭐ 54 · ➕) - Guide to connect to Trade Its MCP server and trade.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
+- <b><a href="https://github.com/kukapay/crypto-sentiment-mcp">Crypto Sentiment MCP</a></b> (🥉7 ·  ⭐ 48 · 💀) - An MCP server that delivers cryptocurrency sentiment.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/hodgesmr/agent-fecfile">agent-fecfile</a></b> (🥉7 ·  ⭐ 38 · 🐣) - A Claude Code plugin + Agent Skill + MCP Server for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/TheNewMikeMusic/tbt-paper-terminal">TBT Paper Terminal</a></b> (🥉7 ·  ⭐ 37 · 🐣) - High-performance paper trading terminal UI (React +.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Syntax-Error-1337/radar">RADAR</a></b> (🥉7 ·  ⭐ 35 · 🐣) - RADAR is a real time geospatial intelligence platform that aggregates.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/itskovacs/stonks">Stonks</a></b> (🥉7 ·  ⭐ 35 · 🐣) - Minimalist personal portfolio tracker, self-hosted. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/alexey-alanreys/jinn-core">Jinn</a></b> (🥉7 ·  ⭐ 30 · ➕) - Official implementation of the Jinn algorithmic trading.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/marketcalls/OpenTerminal">OpenTerminal</a></b> (🥉7 ·  ⭐ 30 · 💤) - OpenSource - Trading Terminal for Indian Traders. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/adiled/ohlc-resample">ohlc-resample</a></b> (🥉7 ·  ⭐ 27 · 💤) - Resample (inter-convert) market trades, ticks or OHLCV.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code>
+- <b><a href="https://github.com/tedlikeskix/alpaca-mcp-server">alpaca-mcp-server</a></b> (🥉7 ·  ⭐ 27 · 💀) - Model Context Protocol (MCP) server for Alpaca.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/londonstrategicedge/lse-data">LSE Data</a></b> (🥉7 ·  ⭐ 26 · 🐣) - Live and historical market data for: Stocks, FX, crypto, commodities,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/chromale/awesome-investing-tools">Awesome Investing Tools</a></b> (🥉7 ·  ⭐ 24 · 💤) - List of awesome investing tools and apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/LHanLi/FreeBack">FreeBack</a></b> (🥉7 ·  ⭐ 23 · 💤) - high performance backtestfactor investing, portfiolio.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/nirholas/crypto-data-aggregator">Crypto Data Aggregator</a></b> (🥉7 ·  ⭐ 23 · 🐣) - Real-time cryptocurrency market data aggregator... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/AFAN-LIFE/macropage">macropage</a></b> (🥉7 ·  ⭐ 22 · ➕) - China Macroeconomic Dashboard. <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">❗️CC-BY-4.0</a></code>
+- <b><a href="https://github.com/0xcjun/talib-rs">talib-rs</a></b> (🥉7 ·  ⭐ 20 · 🐣) - Pure Rust Technical Analysis Library Drop-in Replacement for TA-Lib. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/Gajesh2007/ai-trading-agent">AI Trading Agent (Hyperliquid)</a></b> (🥉6 ·  ⭐ 520 · 💤) - AI Trading Agent on Hyperliquid. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/guangxiangdebizi/QMT-MCP">QMT-MCP</a></b> (🥉6 ·  ⭐ 220 · 💤) - QMT-MCP. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nntaoli/awesome-cryptocurrency">Awesome Cryptocurrency</a></b> (🥉6 ·  ⭐ 170 · 💀) - (Collect a list of resources related to.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/okx/agent-skills">OKX Agent Skills</a></b> (🥉6 ·  ⭐ 140 · 🐣) - Plug-and-play AI agent skills for OKX letting any LLM.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/badkk/awesome-crypto-mcp-servers">awesome-crypto-mcp-servers</a></b> (🥉6 ·  ⭐ 140 · 💀) - A collection of crypto MCP servers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/panyisheng095-ux/VisionQuant-Pro">VisionQuant-Pro</a></b> (🥉6 ·  ⭐ 140 · 🐣) - AI | Vision-Based Quantitative Trading System with Deep.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/kukapay/crypto-indicators-mcp">crypto-indicators-mcp</a></b> (🥉6 ·  ⭐ 130 · ➕) - An MCP server providing a range of cryptocurrency.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/HiThink-Tech/Financial-API">HiThink Financial API</a></b> (🥉6 ·  ⭐ 100 · ➕) - APIAREST/MCPAI AgentTonghuashun Financial Data API.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jialuechen/deepfolio">deepfolio</a></b> (🥉6 ·  ⭐ 100 · 💤) - Quadratic Programming based Python Package for Portfolio.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/1517005260/stock-agent">stock-agent</a></b> (🥉6 ·  ⭐ 100 · 💤) - LLM. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/rancy777/quantdash-ai-stock">QuantDash AI Stock</a></b> (🥉6 ·  ⭐ 87 · 🐣) - AAIMCP Server. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/chase-mew/ai-hedge-fund">AI Hedge Fund</a></b> (🥉6 ·  ⭐ 79 · 💀) - A Hedge Fund of AI Agents that work together to.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/abresler/gdeltr2">gdeltr2</a></b> (🥉6 ·  ⭐ 76 · ➕) - modern gdelt wrapper for r. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Jera-Value/awesome-investing-tools-and-software-directory">Awesome Investing Tools & Software Directory</a></b> (🥉6 ·  ⭐ 74 · ➕) - A collection of 180+ investing tools. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/chengzuopeng/stock-sdk-mcp">Stock SDK MCP</a></b> (🥉6 ·  ⭐ 62 · 🐣) - MCP + Skills OpenClawCursorClaude.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/cooragent/ClarityFinance">ClarityFinance</a></b> (🥉6 ·  ⭐ 59 · 🐣) - Clarity is a financial analysis agent framework built.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Elijas/sec-downloader">sec-downloader</a></b> (🥉6 ·  ⭐ 58 · 💀) - Find and download SEC filings. Built on top of sec-edgar-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/mingjerli/IMFData">IMFData</a></b> (🥉6 ·  ⭐ 50 · 💤) - An R package for IMF data api. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/The-Swarm-Corporation/CryptoAgent">CryptoAgent</a></b> (🥉6 ·  ⭐ 50 · 💀) - CryptoAgent is a professional, enterprise-grade solution.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ElmatadorZ/MoneyAtlas-ClaudeSkill-Agent">MoneyAtlas Claude Skill Agent</a></b> (🥉6 ·  ⭐ 50 · 🐣) - Money Atlas Skill.md (Claude Skill) For AI Agent A.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/cdtait/fmp-mcp-server">FMP MCP Server</a></b> (🥉6 ·  ⭐ 50 · 💤) - Financial Modeling Prep MCP Server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/buuzzy/tushare_MCP">Tushare MCP</a></b> (🥉6 ·  ⭐ 48 · ➕) - a finance MCP tool. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dProLabs/dpro-hyperliquid">dPro Hyperliquid</a></b> (🥉6 ·  ⭐ 42 · 🐣) - dPro + Hyperliquid operational toolkit for spot,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jeremylongshore/excel-analyst-pro-skill-md">Excel Analyst Pro Skill</a></b> (🥉6 ·  ⭐ 41 · ➕) - Professional financial modeling toolkit for Claude.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/coinpaprika/dexpaprika-mcp">DexPaprika MCP</a></b> (🥉6 ·  ⭐ 40 · ➕) - DexPaprika MCP server for real-time crypto token.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/stefanoamorelli/sec-edgar-toolkit">sec-edgar-toolkit</a></b> (🥉6 ·  ⭐ 35 · ➕) - Open-source toolkit for accessing SEC EDGAR financial.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/ActiveInferenceInstitute/ActiveBlockference">ActiveBlockference</a></b> (🥉6 ·  ⭐ 34 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nirholas/UCAI">UCAI (Universal Contract AI Interface)</a></b> (🥉6 ·  ⭐ 34 · 🐣) - Universal Contract AI Interface (UCAI) ABI to MCP |.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/royyannick/awesome-blockchain-mcps">Awesome Blockchain MCPs</a></b> (🥉6 ·  ⭐ 34 · ➕) - A curated list of Blockchain & Crypto Model Context.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/brandononchain/opentrade">OpenTrade</a></b> (🥉6 ·  ⭐ 32 · 🐣) - The most powerful open-source TradingView AI agent. 50.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/laukikk/alpaca-mcp">alpaca-mcp</a></b> (🥉6 ·  ⭐ 32 · 💤) - MCP for the Alpaca trading API to manage stock and crypto.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/gibz104/Rethix">Rethix</a></b> (🥉6 ·  ⭐ 31 · 💤) - Ethereum indexer using Reth Execution Extensions (ExEx). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/prfagit/sam-framework">SAM Framework</a></b> (🥉6 ·  ⭐ 30 · ➕) - Solana Agent Middleware: a Python framework for AI.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kukapay/hyperliquid-info-mcp">Hyperliquid Info MCP</a></b> (🥉6 ·  ⭐ 29 · 💀) - An MCP server that provides real-time data and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/membaby/tikr-statements-scraper">TIKR Statements Scraper</a></b> (🥉6 ·  ⭐ 29 · 💤) - TIKR Financial Statements Scraper. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/kismp123/BugChainIndexer">BugChainIndexer</a></b> (🥉6 ·  ⭐ 28 · ➕) - High-performance blockchain indexer for 12 EVM networks... <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pattty847/Sentinel-Lite">Sentinel-Lite</a></b> (🥉6 ·  ⭐ 28 · ➕) - Crypto Trading Terminal & Monitoring Solution w/ SEC.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/vibeyclaw/awesome-sec-filings">awesome-sec-filings</a></b> (🥉6 ·  ⭐ 27 · 🐣) - A curated list of tools, data sources, libraries, and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/HelloThereMatey/Bootleg_Macro">Bootleg Macro</a></b> (🥉6 ·  ⭐ 24 · ➕) - A simple tool-kit written in python for sourcing and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fmzquant/backtest_javascript">FMZ backtest_javascript</a></b> (🥉6 ·  ⭐ 23 · ➕) - FMZ backtest engine javascript package. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nirholas/Binance-US-MCP">Binance.US MCP</a></b> (🥉6 ·  ⭐ 23 · 🐣) - A Model Context Protocol (MCP) server for Binance.US.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/BaseMax/AwesomeCryptocurrency">AwesomeCryptocurrency</a></b> (🥉6 ·  ⭐ 23 · ➕) - Awesome/Repo List of the cryptocurrencies in the.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/ktwu01/crypto-dashboard">crypto-dashboard</a></b> (🥉6 ·  ⭐ 20 · ➕) - AI-Powered Crypto Analysis Dashboard!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/hkirat/ai-trading-agent">AI Trading Agent (hkirat)</a></b> (🥉5 ·  ⭐ 170 · 💤) - Trade using LLMs. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/BlockRunAI/awesome-finance-mcp">awesome-finance-mcp</a></b> (🥉5 ·  ⭐ 150 · 🐣) - A curated list of MCP servers for AI finance agents. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/rooneyrulz/agentic-stock-research-system">Agentic Stock Research System</a></b> (🥉5 ·  ⭐ 100 · ➕) - A sophisticated multi-agent AI system for analyzing.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/mrgoonie/vnstock-agent">vnstock-agent</a></b> (🥉5 ·  ⭐ 97 · 🐣) - MCP server and CLI for Vietnamese stock market data.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/moondevonyt/Hyperliquid-Data-Layer-API">Hyperliquid Data Layer API</a></b> (🥉5 ·  ⭐ 95 · 🐣) - The data layer for hyperliquid so we can onboard.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/praptisharma28/Solana-Real-time-Transaction-Indexer">Solana Real-time Transaction Indexer</a></b> (🥉5 ·  ⭐ 90 · 💤) - A modular and extensible blockchain indexer for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ErikThiart/ai-stock-dashboard">AI Stock Dashboard</a></b> (🥉5 ·  ⭐ 88 · 💀) - Professional AI-powered stock market dashboard with.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/xlev-v/Hyperliquid-Trading-Bot">Hyperliquid-Trading-Bot</a></b> (🥉5 ·  ⭐ 80 · 🐣) - Automated trading bot for Hyperliquid with three.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/txbabaxyz/polyterminal">PolyTerminal</a></b> (🥉5 ·  ⭐ 79 · 🐣) - Trading terminal for Polymarket 15-minute crypto prediction.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/sodofi/awesome-onchain-agents">awesome-onchain-agents</a></b> (🥉5 ·  ⭐ 75 · 🐣) - A curated list of awesome onchain agent projects,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kukapay/cryptopanic-mcp-server">CryptoPanic MCP Server</a></b> (🥉5 ·  ⭐ 71 · ➕) - Provide latest cryptocurrency news to AI agents. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/aitrados/finance-trading-ai-agents-mcp">Finance Trading AI Agents MCP</a></b> (🥉5 ·  ⭐ 63 · 💤) - A comprehensive, free MCP server designed.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/edkdev/defi-trading-mcp">DeFi Trading MCP</a></b> (🥉5 ·  ⭐ 51 · ➕) - DeFi Trading Agent MCP Server - Transform your AI.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/romainsimon/awesome-investing">Awesome Investing</a></b> (🥉5 ·  ⭐ 50 · ➕) - List of awesome resources for investing in stocks. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/anshumax/world_bank_mcp_server">World Bank MCP Server</a></b> (🥉5 ·  ⭐ 49 · 💤) - An implementation of the Model Context Protocol for.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/LLMQuant/data-mcp">LLMQuant Data MCP</a></b> (🥉5 ·  ⭐ 48 · 🐣) - The knowledge harness for AInative finance MCP server.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/AgentX-ai/yahoo-finance-server">Yahoo Finance MCP Server</a></b> (🥉5 ·  ⭐ 48 · ➕) - A Model Context Protocol (MCP) server that lets your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/o-az/awesome-evm-indexer">Awesome EVM Indexer</a></b> (🥉5 ·  ⭐ 44 · 💤) - Awesome list of EVM indexing tools and libraries. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/viczommers/CentralBank-LLM">CentralBank-LLM</a></b> (🥉5 ·  ⭐ 43 · 💀) - The first Open-Souce RAG-LLM tool to analyse.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code>
+- <b><a href="https://github.com/zubair-trabzada/ai-crypto-claude">ai-crypto-claude</a></b> (🥉5 ·  ⭐ 36 · 🐣) - AI crypto research engine for Claude Code. Analyze.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/iandreafc/gdeltnews">gdeltnews</a></b> (🥉5 ·  ⭐ 35 · ➕) - Code for reconstructing full-text news articles from the GDELT.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/HelloThereMatey/tedata">tedata</a></b> (🥉5 ·  ⭐ 34 · ➕) - Scraper for Trading Economics. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/twolven/mcp-optionsflow">MCP OptionsFlow</a></b> (🥉5 ·  ⭐ 34 · 💀) - An MCP server providing advanced options analysis.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/caiovicentino/hyperliquid-mcp-server">Hyperliquid MCP Server</a></b> (🥉5 ·  ⭐ 32 · 💤) - MCP Server para Hyperliquid DEX - Trade com Claude.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/kuangtu/awesome-stock-exchange-info">Awesome Stock Exchange Info</a></b> (🥉5 ·  ⭐ 20 · 💤) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/marketcalls/vectorbt-backtesting-skills">VectorBT Backtesting Skills</a></b> (🥉4 ·  ⭐ 160 · 🐣) - Agentic coding skills for backtesting trading.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/senzenn/Solana-gRPC_indexer-Rust">Solana gRPC Indexer (Rust)</a></b> (🥉4 ·  ⭐ 120 · 💤) - command-line tool for real-time Solana blockchain.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/renee-jia/trading-bot">trading-bot</a></b> (🥉4 ·  ⭐ 100 · 🐣) - Multi-agent macro trading bot: multi-factor stock.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/EnceladusLin/Global-Affairs-Simulation-Platform">Global Affairs Simulation Platform</a></b> (🥉4 ·  ⭐ 30 · 🐣) - An international relations intelligence and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rohitsingh-iitd/robinhood-mcp-server">Robinhood MCP Server</a></b> (🥉4 ·  ⭐ 30 · 💤) - The Robinhood MCP Server provides a comprehensive.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nirholas/crypto-market-data-ts">crypto-market-data-ts</a></b> (🥉4 ·  ⭐ 22 · 🐣) - Comprehensive cryptocurrency market data service with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tokenomist-ai/tokenomist-cli">Tokenomist CLI</a></b> (🥉4 ·  ⭐ 22 · 🐣) - CLI for Tokenomist Tokenomics Intelligence platform. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/varshithkarkera/cryptofetch">CryptoFetch</a></b> (🥉3 ·  ⭐ 40 · 🐣) - CryptoFetch is a powerful command-line tool that.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/SerhiiVolianiuk/Crypto-Allocation-Analyzer">Crypto Allocation Analyzer</a></b> (🥉3 ·  ⭐ 37 · 💀) - A tool that helps users evaluate past and upcoming.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sumedhkumar/mt5-trading-mcp">mt5-trading-mcp</a></b> (🥉3 ·  ⭐ 29 · ➕) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ViktorVL584/Tokenomics-Simulator">Tokenomics Simulator</a></b> (🥉3 ·  ⭐ 25 · 💀) - A simulation tool for modeling token economies,.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/xmannii/nobitex-mcp-server">Nobitex MCP Server</a></b> (🥉3 ·  ⭐ 21 · 💀) - a Model Context Protocol (MCP) server that provides.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/degentic-tools/claude-code-trading-terminal">Claude Code Trading Terminal</a></b> (🥉3 ·  ⭐ 20 · 💤) - Agent-native trading terminal built on top of Claude.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/sumedhkumar/vardhan">Vardhan</a></b> (🥉3 ·  ⭐ 20 · 🐣) - Vardhan Real-time multi-chart trading terminal with.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/peikuo/china-stock-mcp-server">China Stock MCP Server</a></b> (🥉2 ·  ⭐ 22 · 💀) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/mphinance/momentum-mcp">Momentum MCP</a></b> (🥉2 ·  ⭐ 21 · 🐣) - Give your AI agent a Bloomberg terminal. MCP server.. <code>❗Unlicensed</code>
+

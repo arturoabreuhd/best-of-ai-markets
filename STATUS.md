@@ -2,25 +2,40 @@
 
 ## Fase actual
 
-**Fase 1 COMPLETA** — Scaffold + motor + seed verificado (75 → 73 tras recategorizar).
-**Fase 2 PENDIENTE (handoff abajo)** — Discovery enorme agéntico para llevar el mar a 300-600+ tools.
+**Fase 1 COMPLETA** — Scaffold + motor + seed verificado.
+**Fase 2 COMPLETA** — Discovery enorme agéntico: 75 → **645 tools** verificadas (+570).
+**Fase 3 PENDIENTE (handoff abajo)** — Cierre de marca: nombre final, repo remoto público + push, arranque de lista de popularidad + Emergence Picks.
 
 ## Estado del repo
 
-- Local: `~/best-of-markets-intelligence`, git inicializado, 1 commit. **NO** hay remoto aún (esperando OK de Arturo para crear repo público — acción irreversible).
-- `projects.yaml`: ~73 tools verificadas en 10 categorías.
-- `README.md`: generado y probado E2E. **OJO: está desincronizado** tras los 3 movimientos de recategorización del cierre de Fase 1 → **primera acción de Fase 2 = regenerar.**
+- Local: `~/best-of-markets-intelligence`, git inicializado. **NO** hay remoto aún (esperando OK de Arturo para crear repo público — acción irreversible).
+- `projects.yaml`: **645 tools** verificadas en 10 categorías (fuente de verdad).
+- `README.md`: regenerado E2E (2989 líneas), sincronizado con el yaml. Header/footer/teaser Emergence Picks intactos.
+- `_discovery/fase2-report.md`: reporte de provenance del barrido (nuevas por categoría + 223 descartes con motivo).
 - Workflow semanal listo (no corre hasta haber remoto).
 
 ## Evolution Log
 
+- **2026-06-26 — Fase 2 (discovery enorme).** Workflow multi-agente (98 agentes, 3.34M tokens, 565 tool-calls, ~34 min): loop-until-dry K=2 por categoría × modalidad (gh topic → keyword ES+EN → long-tail/código). 3 rondas (333→163→74 nuevas/ronda; nunca llegó a seco — queda cola-larga). Verificación dura por candidato vía `gh repo view`: existe · ≥20★ · no archivado · `pushedAt ≥ 2024-12-26`. **75 → 645** (+570), 0 dups de id/nombre, cada repo en UNA categoría. **onchain-analytics 2→48** (prioridad cumplida). Emerging respetadas: defi-tokenomics 6→17, macro-geopolitics 4→36 (reales, no infladas). 223 descartes registrados por motivo (190+ inactivos, 22 <20★, 5 off-domain, 3 archivados, 1 inexistente) — 0 truncados en silencio. README regenerado por Arturo vía `!` (el token `gh auth token` está en deny-list de seguridad, no pasa por Claude). Decisiones técnicas: nombres duplicados desambiguados con owner (4 casos); labels filtradas al set válido; bloque appendeado agrupado por categoría al final del yaml (el orden de archivo no afecta la salida — best-of agrupa por campo `category`).
 - **2026-06-26 — Fase 1.** Investigación de tooling (best-of-generator confirmado vivo ago-2025; update-action estancado 2022 pero funcional, listas insignia auto-actualizan en 2026). Capa de discovery mapeada y verificada viva (gh, ecosyste.ms, Sourcegraph, OSS Insight, SEART). Scaffold creado, seed de 75 tools verificadas vía `gh`, README generado E2E (543 líneas), workflow endurecido contra inyección (lo cazó un hook). Recategorización: peregrine + crypto-arbitrage-framework → crypto-trading; DeFiHackLabs → research-discovery. `onchain-analytics` quedó delgada (2 tools) — Fase 2 debe llenarla.
 
 ---
 
-## HANDOFF — Fase 2: Discovery enorme (correr en contexto limpio)
+## HANDOFF — Fase 3: Cierre de marca (pendiente, decisiones de Arturo)
 
-**Objetivo:** barrer exhaustivamente GitHub y llevar `projects.yaml` de ~73 a 300-600+ tools verificadas, bien categorizadas, sin duplicados, sin repos muertos/archivados. Arturo autorizó gastar lo necesario ("barrer absolutamente todo").
+Fase 2 quedó cerrada y commiteada. Lo que falta requiere decisiones de producto / acciones irreversibles:
+
+1. **Nombre final de marca** de la lista (el título actual es "best-of markets & world intelligence").
+2. **Crear repo remoto público + push** (irreversible — requiere OK explícito). Al haber remoto, el GitHub Action semanal empieza a correr (jueves 14h UTC).
+3. **Arrancar la lista de popularidad** (OSS Insight, feeder ya mapeado) y la **curada Emergence Picks** (el moat hand-curado; hoy solo enlazada como teaser).
+
+Notas para retomar discovery más adelante (la cola-larga NO está agotada): el loop-until-dry nunca llegó a seco en 3 rondas. Reusar el workflow `_discovery` o el script en `~/.claude/.../workflows/scripts/best-of-discovery-*.js` (embeber la lista `EXISTING_IDS` actualizada desde el yaml; `args` no se inyecta — hardcodear). Token: `gh auth token` está en deny-list; el regen del README lo corre Arturo vía `!` o el CI tras el push.
+
+---
+
+## HANDOFF — Fase 2: Discovery enorme (COMPLETADA — histórico)
+
+**Objetivo:** barrer exhaustivamente GitHub y llevar `projects.yaml` de ~73 a 300-600+ tools verificadas, bien categorizadas, sin duplicados, sin repos muertos/archivados. Arturo autorizó gastar lo necesario ("barrer absolutamente todo"). **Resultado: 645 tools.**
 
 ### Recomendación: SÍ, flujo agéntico (Workflow)
 
