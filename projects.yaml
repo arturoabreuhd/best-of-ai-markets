@@ -1,0 +1,2557 @@
+configuration:
+  min_stars: 20
+  require_github: True
+  max_trending_projects: 10
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  projects_history_folder: "history"
+
+categories:
+  - category: "crypto-trading"
+    title: "Crypto Trading Bots & Frameworks"
+    subtitle: "Open-source bots and frameworks for spot, futures, market-making and HFT on crypto venues."
+  - category: "backtesting-quant"
+    title: "Backtesting & Quant Frameworks"
+    subtitle: "Engines and libraries for strategy research, backtesting and systematic / algorithmic trading."
+  - category: "market-exchange-data"
+    title: "Market & Exchange Data"
+    subtitle: "Unified exchange connectors, tick / order-book data, price feeds and technical-analysis libraries."
+  - category: "defi-tokenomics"
+    title: "DeFi & Tokenomics Analytics"
+    subtitle: "Tooling for token unlocks/vesting, supply distribution, decentralization metrics and DeFi research. (Sparse domain — best-available, not exhaustive.)"
+  - category: "onchain-analytics"
+    title: "On-Chain & Wallet Analytics"
+    subtitle: "Querying and analyzing on-chain activity, wallets, flows and DEX data."
+  - category: "fundamentals-filings"
+    title: "Fundamentals & SEC Filings"
+    subtitle: "Access and parse SEC EDGAR filings (10-K/Q, 8-K, Form 3/4/5, 13F) and company fundamentals."
+  - category: "macro-geopolitics"
+    title: "Macro, Geopolitics & World Intelligence"
+    subtitle: "Macro-economic data, geopolitical-risk indices and OSINT / situational-awareness platforms. (Emerging domain — coverage is thin and honestly flagged.)"
+  - category: "ai-agents-skills"
+    title: "AI Agents, Skills & MCP for Markets"
+    subtitle: "LLM agent frameworks, Claude Code / agent skill collections and MCP servers relevant to markets and finance."
+  - category: "dashboards-data"
+    title: "Dashboards, Terminals & Financial Data"
+    subtitle: "Financial data platforms, research terminals and symbol/reference databases."
+  - category: "research-discovery"
+    title: "Research, Lists & Discovery"
+    subtitle: "Curated awesome-lists, learning resources and meta-tooling for finding more tools."
+
+labels:
+  - label: "mcp"
+    description: "Exposes a Model Context Protocol (MCP) server"
+  - label: "skill"
+    description: "Claude Code / agent skill collection"
+  - label: "awesome"
+    description: "Curated awesome-list or resource collection"
+  - label: "ai-native"
+    description: "LLM / agent-driven by design"
+  - label: "self-hosted"
+    description: "Designed to be self-hosted"
+
+projects:
+  # --- crypto-trading ---
+  - name: Freqtrade
+    github_id: freqtrade/freqtrade
+    category: crypto-trading
+  - name: Hummingbot
+    github_id: hummingbot/hummingbot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Jesse
+    github_id: jesse-ai/jesse
+    category: crypto-trading
+  - name: OctoBot
+    github_id: Drakkar-Software/OctoBot
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Superalgos
+    github_id: Superalgos/Superalgos
+    category: crypto-trading
+  - name: Freqtrade Strategies
+    github_id: freqtrade/freqtrade-strategies
+    category: crypto-trading
+  - name: binance-trading-bot
+    github_id: chrisleekr/binance-trading-bot
+    category: crypto-trading
+  - name: Crypto-Signal
+    github_id: CryptoSignal/Crypto-Signal
+    category: crypto-trading
+  - name: Krypto-trading-bot
+    github_id: ctubio/Krypto-trading-bot
+    category: crypto-trading
+  - name: Tribeca
+    github_id: michaelgrosner/tribeca
+    category: crypto-trading
+  - name: Gekko
+    github_id: askmike/gekko
+    category: crypto-trading
+  - name: crypto-trading-bot
+    github_id: Haehnchen/crypto-trading-bot
+    category: crypto-trading
+  - name: peregrine
+    github_id: wardbradt/peregrine
+    category: crypto-trading
+  - name: crypto-arbitrage-framework
+    github_id: hzjken/crypto-arbitrage-framework
+    category: crypto-trading
+
+  # --- backtesting-quant ---
+  - name: QuantConnect Lean
+    github_id: QuantConnect/Lean
+    category: backtesting-quant
+  - name: Qlib
+    github_id: microsoft/qlib
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Backtrader
+    github_id: mementum/backtrader
+    category: backtesting-quant
+  - name: Backtesting.py
+    github_id: kernc/backtesting.py
+    category: backtesting-quant
+  - name: vectorbt
+    github_id: polakowo/vectorbt
+    category: backtesting-quant
+  - name: NautilusTrader
+    github_id: nautechsystems/nautilus_trader
+    category: backtesting-quant
+  - name: hftbacktest
+    github_id: nkaz001/hftbacktest
+    category: backtesting-quant
+  - name: StockSharp
+    github_id: StockSharp/StockSharp
+    category: backtesting-quant
+  - name: RQAlpha
+    github_id: ricequant/rqalpha
+    category: backtesting-quant
+  - name: zvt
+    github_id: zvtvz/zvt
+    category: backtesting-quant
+  - name: QSTrader
+    github_id: mhallsmoore/qstrader
+    category: backtesting-quant
+  - name: finmarketpy
+    github_id: cuemacro/finmarketpy
+    category: backtesting-quant
+
+  # --- market-exchange-data ---
+  - name: CCXT
+    github_id: ccxt/ccxt
+    category: market-exchange-data
+  - name: TA-Lib (Python)
+    github_id: TA-Lib/ta-lib-python
+    category: market-exchange-data
+  - name: tardis-node
+    github_id: tardis-dev/tardis-node
+    category: market-exchange-data
+  - name: tardis-machine
+    github_id: tardis-dev/tardis-machine
+    category: market-exchange-data
+  - name: FinanceDatabase
+    github_id: JerBouma/FinanceDatabase
+    category: market-exchange-data
+  - name: ticker
+    github_id: achannarasappa/ticker
+    category: market-exchange-data
+  - name: trading-indicator
+    github_id: thanhnguyennguyen/trading-indicator
+    category: market-exchange-data
+
+  # --- defi-tokenomics ---
+  - name: Autonolas Tokenomics
+    github_id: valory-xyz/autonolas-tokenomics
+    category: defi-tokenomics
+  - name: token-vesting (6th Man Ventures)
+    github_id: 6th-Man-Ventures/token-vesting
+    category: defi-tokenomics
+  - name: tokenomics-decentralization
+    github_id: Blockchain-Technology-Lab/tokenomics-decentralization
+    category: defi-tokenomics
+  - name: reflexer-digital-twin
+    github_id: reflexer-labs/reflexer-digital-twin
+    category: defi-tokenomics
+  - name: awesome-decentralized-finance
+    github_id: ong/awesome-decentralized-finance
+    category: defi-tokenomics
+    labels: ["awesome"]
+  - name: ultimate-defi-research-base
+    github_id: OffcierCia/ultimate-defi-research-base
+    category: defi-tokenomics
+    labels: ["awesome"]
+
+  # --- onchain-analytics ---
+  - name: OnchainKit
+    github_id: coinbase/onchainkit
+    category: onchain-analytics
+  - name: dune-analytics-mcp
+    github_id: kukapay/dune-analytics-mcp
+    category: onchain-analytics
+    labels: ["mcp"]
+
+  # --- fundamentals-filings ---
+  - name: edgartools
+    github_id: dgunning/edgartools
+    category: fundamentals-filings
+  - name: sec-edgar
+    github_id: sec-edgar/sec-edgar
+    category: fundamentals-filings
+  - name: sec-edgar-downloader
+    github_id: jadchaar/sec-edgar-downloader
+    category: fundamentals-filings
+  - name: edgar-crawler
+    github_id: lefterisloukas/edgar-crawler
+    category: fundamentals-filings
+  - name: python-edgar
+    github_id: edgarminers/python-edgar
+    category: fundamentals-filings
+  - name: sec-edgar-mcp
+    github_id: stefanoamorelli/sec-edgar-mcp
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: sec-api-python
+    github_id: SEC-API-io/sec-api-python
+    category: fundamentals-filings
+
+  # --- macro-geopolitics ---
+  - name: WorldMonitor
+    github_id: koala73/worldmonitor
+    category: macro-geopolitics
+    labels: ["self-hosted", "ai-native"]
+  - name: geopolrisk-py
+    github_id: akoyamp/geopolrisk-py
+    category: macro-geopolitics
+  - name: DSGE.jl
+    github_id: FRBNY-DSGE/DSGE.jl
+    category: macro-geopolitics
+  - name: OpenSourcedMacroModels
+    github_id: dkgaraujo/OpenSourcedMacroModels
+    category: macro-geopolitics
+    labels: ["awesome"]
+
+  # --- ai-agents-skills ---
+  - name: TradingAgents
+    github_id: TauricResearch/TradingAgents
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Eliza
+    github_id: elizaOS/eliza
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: awesome-mcp-servers
+    github_id: punkpeye/awesome-mcp-servers
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-claude-skills (Composio)
+    github_id: ComposioHQ/awesome-claude-skills
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-agent-skills (VoltAgent)
+    github_id: VoltAgent/awesome-agent-skills
+    category: research-discovery
+    labels: ["awesome"]
+  - name: claude-skills (alirezarezvani)
+    github_id: alirezarezvani/claude-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Vibe-Trading
+    github_id: HKUDS/Vibe-Trading
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: LLMQuant Skills
+    github_id: LLMQuant/skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: surf-skills
+    github_id: asksurf-ai/surf-skills
+    category: market-exchange-data
+    labels: ["skill"]
+  - name: ValueCell
+    github_id: ValueCell-ai/valuecell
+    category: ai-agents-skills
+    labels: ["ai-native"]
+
+  # --- dashboards-data ---
+  - name: OpenBB
+    github_id: OpenBB-finance/OpenBB
+    category: dashboards-data
+    labels: ["ai-native"]
+  - name: Fincept Terminal
+    github_id: Fincept-Corporation/FinceptTerminal
+    category: dashboards-data
+  - name: TuShare
+    github_id: waditu/tushare
+    category: dashboards-data
+  - name: OpenStock
+    github_id: Open-Dev-Society/OpenStock
+    category: dashboards-data
+  - name: Stock-Prediction-Models
+    github_id: huseinzol05/Stock-Prediction-Models
+    category: dashboards-data
+    labels: ["ai-native"]
+
+  # --- research-discovery ---
+  - name: awesome-quant
+    github_id: wilsonfreitas/awesome-quant
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-systematic-trading (paperswithbacktest)
+    github_id: paperswithbacktest/awesome-systematic-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-systematic-trading (wangzhe3224)
+    github_id: wangzhe3224/awesome-systematic-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: financial-machine-learning
+    github_id: firmai/financial-machine-learning
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-ai-in-finance
+    github_id: georgezouq/awesome-ai-in-finance
+    category: research-discovery
+    labels: ["awesome", "ai-native"]
+  - name: machine-learning-for-trading
+    github_id: stefan-jansen/machine-learning-for-trading
+    category: research-discovery
+  - name: DeFi-Developer-Road-Map
+    github_id: OffcierCia/DeFi-Developer-Road-Map
+    category: research-discovery
+    labels: ["awesome"]
+  - name: DeFiHackLabs
+    github_id: SunWeb3Sec/DeFiHackLabs
+    category: research-discovery
+
+  # --- crypto-trading (Fase 2 discovery) ---
+  - name: nofx
+    github_id: NoFxAiOS/nofx
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: GoCryptoTrader
+    github_id: thrasher-corp/gocryptotrader
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: NOF0
+    github_id: wquguru/nof0
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: OpenTrader
+    github_id: Open-Trader/opentrader
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: ThetaGang
+    github_id: brndnmtthws/thetagang
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Blankly
+    github_id: blankly-finance/blankly
+    category: crypto-trading
+  - name: Barter
+    github_id: barter-rs/barter-rs
+    category: crypto-trading
+  - name: OpenAlgo
+    github_id: marketcalls/openalgo
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: PyCryptoBot
+    github_id: whittlem/pycryptobot
+    category: crypto-trading
+  - name: Passivbot
+    github_id: enarjord/passivbot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: NextTrade
+    github_id: austin-starks/NextTrade
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Intelligent Trading Bot
+    github_id: asavinov/intelligent-trading-bot
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: BBGO
+    github_id: c9s/bbgo
+    category: crypto-trading
+  - name: Ninjabot
+    github_id: rodrigo-brito/ninjabot
+    category: crypto-trading
+  - name: algotrading
+    github_id: ivopetiz/algotrading
+    category: crypto-trading
+  - name: poly-maker
+    github_id: warproxxx/poly-maker
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Investing Algorithm Framework
+    github_id: coding-kitties/investing-algorithm-framework
+    category: crypto-trading
+  - name: golang-crypto-trading-bot
+    github_id: saniales/golang-crypto-trading-bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: OsEngine
+    github_id: AlexWan/OsEngine
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Binance Grid Trader
+    github_id: 51bitquant/binance_grid_trader
+    category: crypto-trading
+  - name: Howtrader
+    github_id: 51bitquant/howtrader
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: OpenSQT Market Maker
+    github_id: dennisyang1986/opensqt_market_maker
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: polybot
+    github_id: ent0n29/polybot
+    category: crypto-trading
+  - name: "ADAMANT Trade & Market-Making Bot"
+    github_id: Adamant-im/adamant-tradebot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: nof1-tracker
+    github_id: terryso/nof1-tracker
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: alpha-rptr
+    github_id: TheFourGreatErrors/alpha-rptr
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: trade-frame
+    github_id: rburkholder/trade-frame
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Cassandre Trading Bot
+    github_id: cassandre-tech/cassandre-trading-bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Barbotine Arbitrage Bot
+    github_id: nelso0/barbotine-arbitrage-bot
+    category: crypto-trading
+  - name: AI Hedge Fund for Crypto
+    github_id: 51bitquant/ai-hedge-fund-crypto
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: outsmart-cli
+    github_id: outsmartchad/outsmart-cli
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: Banbot
+    github_id: banbox/banbot
+    category: crypto-trading
+  - name: Kalshi AI Trading Bot
+    github_id: ryanfrigo/kalshi-ai-trading-bot
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: ritmex-bot
+    github_id: discountry/ritmex-bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: CloddsBot
+    github_id: alsk1992/CloddsBot
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: rust-finance
+    github_id: Ashutosh0x/rust-finance
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: Godzilla
+    github_id: godzilla-foundation/godzilla-community
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: go-trader
+    github_id: richkuo/go-trader
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: sol-trade-sdk
+    github_id: 0xfnzero/sol-trade-sdk
+    category: crypto-trading
+  - name: HFTFramework
+    github_id: javifalces/HFTFramework
+    category: crypto-trading
+  - name: fintool
+    github_id: second-state/fintool
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: Moss Trade Bot
+    github_id: moss-site/moss-trade-bot-skills
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Solana-Trading-Bot
+    github_id: henrytirla/Solana-Trading-Bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: CryptoTradingAgents
+    github_id: Tomortec/CryptoTradingAgents
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: directionalscalper
+    github_id: donewiththedollar/directionalscalper
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: solana-trading-bot-pumpfun
+    github_id: neodotsol/solana-trading-bot-pumpfun
+    category: crypto-trading
+  - name: solana-trade-bot
+    github_id: YZYLAB/solana-trade-bot
+    category: crypto-trading
+  - name: bs-p
+    github_id: holypolyfoundation/bs-p
+    category: crypto-trading
+  - name: algorithmic_trading_bot
+    github_id: jimtin/algorithmic_trading_bot
+    category: crypto-trading
+  - name: MyCryptoBot
+    github_id: diogomatoschaves/MyCryptoBot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Grid Trading Bot
+    github_id: jordantete/grid_trading_bot
+    category: crypto-trading
+  - name: BinanceBot
+    github_id: codez0mb1e/BinanceBot
+    category: crypto-trading
+  - name: solana-sniper-trading-mev-bot
+    github_id: bigmacman1129/solana-sniper-trading-mev-bot
+    category: crypto-trading
+  - name: OpenTool
+    github_id: openpond/opentool
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: crypto-signal-agent
+    github_id: lauramyol13/crypto-signal-agent
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: AlphaSwarm
+    github_id: chain-ml/alphaswarm
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Trader
+    github_id: JorgeCandeias/Trader
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: future-trading-ai-agent
+    github_id: hotbridgeLab/future-trading-ai-agent
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: solana-twitter-token-trading-agent
+    github_id: tradinglabpremium/solana-twitter-token-trading-agent
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Hyperliquid-Trading-Bot
+    github_id: xlev-v/Hyperliquid-Trading-Bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: AI Memecoin Trading Bot
+    github_id: Jackhuang166/ai-memecoin-trading-bot
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+  - name: PolyTerminal
+    github_id: txbabaxyz/polyterminal
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: Hyperliquid Trading Bot
+    github_id: chainstacklabs/hyperliquid-trading-bot
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: solana-sniper-copy-trading-bot
+    github_id: bigmacman1129/solana-sniper-copy-trading-bot
+    category: crypto-trading
+  - name: PFund
+    github_id: PFund-Software-Ltd/pfund
+    category: crypto-trading
+  - name: Solie
+    github_id: cunarist/solie
+    category: crypto-trading
+    labels: ["self-hosted"]
+  - name: solana-trading-bot (coffellas-cto)
+    github_id: coffellas-cto/solana-trading-bot
+    category: crypto-trading
+  - name: DeFi Trading MCP
+    github_id: edkdev/defi-trading-mcp
+    category: crypto-trading
+    labels: ["mcp", "ai-native"]
+  - name: Binance MCP Server
+    github_id: AnalyticAce/binance-mcp-server
+    category: crypto-trading
+    labels: ["mcp"]
+  - name: crypto-trading-bot (Oakshen)
+    github_id: Oakshen/crypto-trading-bot
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: dPro Hyperliquid
+    github_id: dProLabs/dpro-hyperliquid
+    category: crypto-trading
+    labels: ["skill"]
+  - name: Aegis
+    github_id: Aetheris-Labs/Aegis
+    category: crypto-trading
+    labels: ["ai-native", "self-hosted"]
+
+  # --- backtesting-quant (Fase 2 discovery) ---
+  - name: vn.py
+    github_id: vnpy/vnpy
+    category: backtesting-quant
+  - name: Qbot
+    github_id: UFund-Me/Qbot
+    category: backtesting-quant
+    labels: ["ai-native", "self-hosted"]
+  - name: abu (阿布量化)
+    github_id: bbfamily/abu
+    category: backtesting-quant
+  - name: FinRL
+    github_id: AI4Finance-Foundation/FinRL
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: myhhub stock
+    github_id: myhhub/stock
+    category: backtesting-quant
+  - name: gs-quant
+    github_id: goldmansachs/gs-quant
+    category: backtesting-quant
+  - name: QUANTAXIS
+    github_id: yutiansut/QUANTAXIS
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: quant-trading
+    github_id: je-suis-tm/quant-trading
+    category: backtesting-quant
+  - name: QuantDinger
+    github_id: brokermr810/QuantDinger
+    category: backtesting-quant
+    labels: ["mcp", "ai-native"]
+  - name: QuantStats
+    github_id: ranaroussi/quantstats
+    category: backtesting-quant
+  - name: QuantLib
+    github_id: lballabio/QuantLib
+    category: backtesting-quant
+  - name: WonderTrader
+    github_id: wondertrader/wondertrader
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: ai_quant_trade
+    github_id: charliedream1/ai_quant_trade
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: PyPortfolioOpt
+    github_id: PyPortfolio/PyPortfolioOpt
+    category: backtesting-quant
+  - name: TF Quant Finance
+    github_id: google/tf-quant-finance
+    category: backtesting-quant
+  - name: czsc
+    github_id: waditu/czsc
+    category: backtesting-quant
+  - name: Technical Analysis Library (ta)
+    github_id: bukosabino/ta
+    category: backtesting-quant
+  - name: Riskfolio-Lib
+    github_id: dcajasn/Riskfolio-Lib
+    category: backtesting-quant
+  - name: PyBroker
+    github_id: edtechre/pybroker
+    category: backtesting-quant
+  - name: Hikyuu Quant Framework
+    github_id: fasiondog/hikyuu
+    category: backtesting-quant
+  - name: High-Frequency-Trading-Model-with-IB
+    github_id: jamesmawm/High-Frequency-Trading-Model-with-IB
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: TradeMaster
+    github_id: TradeMaster-NTU/TradeMaster
+    category: backtesting-quant
+  - name: MyTT
+    github_id: mpquant/MyTT
+    category: backtesting-quant
+  - name: QuantMuse
+    github_id: 0xemmkty/QuantMuse
+    category: backtesting-quant
+  - name: xalpha
+    github_id: refraction-ray/xalpha
+    category: backtesting-quant
+  - name: AlphaGPT
+    github_id: imbue-bit/AlphaGPT
+    category: backtesting-quant
+  - name: ta4j
+    github_id: ta4j/ta4j
+    category: backtesting-quant
+  - name: QuantEcon.py
+    github_id: QuantEcon/QuantEcon.py
+    category: backtesting-quant
+  - name: skfolio
+    github_id: skfolio/skfolio
+    category: backtesting-quant
+  - name: chan.py
+    github_id: Vespa314/chan.py
+    category: backtesting-quant
+  - name: AlphaPy
+    github_id: ScottfreeLLC/AlphaPy
+    category: backtesting-quant
+  - name: Lumibot
+    github_id: Lumiwealth/lumibot
+    category: backtesting-quant
+    labels: ["ai-native", "self-hosted"]
+  - name: TA-Lib
+    github_id: TA-Lib/ta-lib
+    category: backtesting-quant
+  - name: wtpy
+    github_id: wondertrader/wtpy
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: Cvxportfolio
+    github_id: cvxgrp/cvxportfolio
+    category: backtesting-quant
+  - name: Stock Indicators for .NET
+    github_id: facioquo/stock-indicators-dotnet
+    category: backtesting-quant
+  - name: Indicator (Go)
+    github_id: cinar/indicator
+    category: backtesting-quant
+  - name: alphagen
+    github_id: ICT-FinD-Lab/alphagen
+    category: backtesting-quant
+  - name: EigenLedger
+    github_id: santoshlite/EigenLedger
+    category: backtesting-quant
+  - name: Freqtrade technical
+    github_id: freqtrade/technical
+    category: backtesting-quant
+  - name: Prediction Market Backtesting
+    github_id: evan-kolberg/prediction-market-backtesting
+    category: backtesting-quant
+  - name: HyperView
+    github_id: TreborNamor/TradingView-Machine-Learning-GUI
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: trading-signals
+    github_id: bennycode/trading-signals
+    category: backtesting-quant
+  - name: QF-Lib
+    github_id: quarkfin/qf-lib
+    category: backtesting-quant
+  - name: go-talib
+    github_id: markcheno/go-talib
+    category: backtesting-quant
+  - name: techan
+    github_id: sdcoffey/techan
+    category: backtesting-quant
+  - name: Basana
+    github_id: gbeced/basana
+    category: backtesting-quant
+  - name: ai-trader
+    github_id: whchien/ai-trader
+    category: backtesting-quant
+    labels: ["mcp"]
+  - name: spectre
+    github_id: Heerozh/spectre
+    category: backtesting-quant
+  - name: alpaca-backtrader-api
+    github_id: alpacahq/alpaca-backtrader-api
+    category: backtesting-quant
+  - name: pyti
+    github_id: kylejusticemagnuson/pyti
+    category: backtesting-quant
+  - name: QuantInvestStrats (QIS)
+    github_id: ArturSepp/QuantInvestStrats
+    category: backtesting-quant
+  - name: fast-trade
+    github_id: jrmeier/fast-trade
+    category: backtesting-quant
+  - name: TuringTrader
+    github_id: fbertram/TuringTrader
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: cuFOLIO
+    github_id: NVIDIA-AI-Blueprints/cuFOLIO
+    category: backtesting-quant
+  - name: Pandas TA Classic
+    github_id: xgboosted/pandas-ta-classic
+    category: backtesting-quant
+  - name: FactorHub
+    github_id: cn-vhql/FactorHub
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: Algo.Py
+    github_id: himanshu2406/Algo.Py
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: riskparity.py
+    github_id: convexfi/riskparity.py
+    category: backtesting-quant
+  - name: NSE Stock Scanner
+    github_id: deshwalmahesh/NSE-Stock-Scanner
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: stock-bot
+    github_id: ryantcullen/stock-bot
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: fortitudo.tech
+    github_id: fortitudo-tech/fortitudo.tech
+    category: backtesting-quant
+  - name: FMZ backtest_python
+    github_id: fmzquant/backtest_python
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: Moonshot
+    github_id: quantrocket-llc/moonshot
+    category: backtesting-quant
+  - name: okama
+    github_id: mbk-dev/okama
+    category: backtesting-quant
+  - name: the0
+    github_id: alexanderwanyoike/the0
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: lo2cin4bt
+    github_id: lo2cin4/lo2cin4bt
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: ZenithTA
+    github_id: gregyjames/ZenithTA
+    category: backtesting-quant
+  - name: nodejs-order-book
+    github_id: fasenderos/nodejs-order-book
+    category: backtesting-quant
+  - name: poptimizer
+    github_id: WLM1ke/poptimizer
+    category: backtesting-quant
+  - name: VectorBT Backtesting Skills
+    github_id: marketcalls/vectorbt-backtesting-skills
+    category: backtesting-quant
+    labels: ["skill", "ai-native"]
+  - name: PineForge Engine
+    github_id: pineforge-4pass/pineforge-engine
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: Zack
+    github_id: zerotech-studio/zack
+    category: backtesting-quant
+  - name: jhTAlib
+    github_id: joosthoeks/jhTAlib
+    category: backtesting-quant
+  - name: DROP
+    github_id: lakshmiDRIP/DROP
+    category: backtesting-quant
+  - name: VisionQuant-Pro
+    github_id: panyisheng095-ux/VisionQuant-Pro
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: TradeMind
+    github_id: jialuechen/trademind
+    category: backtesting-quant
+  - name: TA-Lib.NETCore
+    github_id: hmG3/TA-Lib.NETCore
+    category: backtesting-quant
+  - name: quantconnect-mcp
+    github_id: taylorwilsdon/quantconnect-mcp
+    category: backtesting-quant
+    labels: ["mcp", "ai-native"]
+  - name: zigma
+    github_id: Thomvanoorschot/zigma
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: deepfolio
+    github_id: jialuechen/deepfolio
+    category: backtesting-quant
+  - name: rust_bt
+    github_id: jensnesten/rust_bt
+    category: backtesting-quant
+  - name: Rotala
+    github_id: calumrussell/rotala
+    category: backtesting-quant
+  - name: QuantFreedom
+    github_id: quantfreedom/QuantFreedom
+    category: backtesting-quant
+  - name: backtrader (AI algo platform)
+    github_id: faryhuo/backtrader
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: QuantFlow
+    github_id: quantmind/quantflow
+    category: backtesting-quant
+    labels: ["mcp"]
+  - name: OctoBot-Script
+    github_id: Drakkar-Software/OctoBot-Script
+    category: backtesting-quant
+  - name: PyIndicators
+    github_id: coding-kitties/PyIndicators
+    category: backtesting-quant
+  - name: quant-trade
+    github_id: colinsweany/quant-trade
+    category: backtesting-quant
+    labels: ["ai-native", "self-hosted"]
+  - name: OxiDiviner
+    github_id: rustic-ml/OxiDiviner
+    category: backtesting-quant
+  - name: Jinn
+    github_id: alexey-alanreys/jinn-core
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: Hexital
+    github_id: MerlinR/Hexital
+    category: backtesting-quant
+  - name: FMZ backtest_javascript
+    github_id: fmzquant/backtest_javascript
+    category: backtesting-quant
+  - name: FreeBack
+    github_id: LHanLi/FreeBack
+    category: backtesting-quant
+    labels: ["self-hosted"]
+  - name: talib-rs
+    github_id: 0xcjun/talib-rs
+    category: backtesting-quant
+
+  # --- market-exchange-data (Fase 2 discovery) ---
+  - name: yfinance
+    github_id: ranaroussi/yfinance
+    category: market-exchange-data
+  - name: AKShare
+    github_id: akfamily/akshare
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: python-binance
+    github_id: sammchardy/python-binance
+    category: market-exchange-data
+  - name: a-stock-data
+    github_id: simonlin1212/a-stock-data
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: alpha_vantage
+    github_id: RomelTorres/alpha_vantage
+    category: market-exchange-data
+  - name: AData
+    github_id: 1nchaos/adata
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: TQSDK Python
+    github_id: shinnytech/tqsdk-python
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: TradingView-API
+    github_id: Mathieu2301/TradingView-API
+    category: market-exchange-data
+  - name: efinance
+    github_id: Micro-sheep/efinance
+    category: market-exchange-data
+  - name: Ashare
+    github_id: mpquant/Ashare
+    category: market-exchange-data
+  - name: Binance Connector Python
+    github_id: binance/binance-connector-python
+    category: market-exchange-data
+  - name: cryptofeed
+    github_id: bmoscon/cryptofeed
+    category: market-exchange-data
+  - name: openctp
+    github_id: openctp/openctp
+    category: market-exchange-data
+  - name: FinMind
+    github_id: FinMind/FinMind
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: ArcticDB
+    github_id: man-group/ArcticDB
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: Binance Public Data
+    github_id: binance/binance-public-data
+    category: market-exchange-data
+  - name: robin_stocks
+    github_id: jmfernandes/robin_stocks
+    category: market-exchange-data
+  - name: findatapy
+    github_id: cuemacro/findatapy
+    category: market-exchange-data
+  - name: goex
+    github_id: nntaoli-project/goex
+    category: market-exchange-data
+  - name: PMXT
+    github_id: pmxt-dev/pmxt
+    category: market-exchange-data
+  - name: Korea Investment Open Trading API
+    github_id: koreainvestment/open-trading-api
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: stock-api
+    github_id: zhangxiangliang/stock-api
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: finvizfinance
+    github_id: lit26/finvizfinance
+    category: market-exchange-data
+  - name: alpaca-py
+    github_id: alpacahq/alpaca-py
+    category: market-exchange-data
+  - name: vnstock
+    github_id: thinh-vu/vnstock
+    category: market-exchange-data
+  - name: stock-sdk
+    github_id: chengzuopeng/stock-sdk
+    category: market-exchange-data
+  - name: Binance Futures Connector Python
+    github_id: binance/binance-futures-connector-python
+    category: market-exchange-data
+  - name: Binance.Net
+    github_id: JKorf/Binance.Net
+    category: market-exchange-data
+  - name: tvscreener
+    github_id: deepentropy/tvscreener
+    category: market-exchange-data
+  - name: TradingView-Screener
+    github_id: shner-elmo/TradingView-Screener
+    category: market-exchange-data
+  - name: node-talib
+    github_id: oransel/node-talib
+    category: market-exchange-data
+  - name: TradeCat
+    github_id: tradecatlabs/tradecat-public
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: global-stock-data
+    github_id: simonlin1212/global-stock-data
+    category: market-exchange-data
+    labels: ["skill", "ai-native", "self-hosted"]
+  - name: yahooquery
+    github_id: dpguthrie/yahooquery
+    category: market-exchange-data
+  - name: QuickFIX/Go
+    github_id: quickfixgo/quickfix
+    category: market-exchange-data
+  - name: xbbg
+    github_id: xbbg-org/xbbg
+    category: market-exchange-data
+  - name: dukascopy-node
+    github_id: Leo4815162342/dukascopy-node
+    category: market-exchange-data
+  - name: yahoo-finance2
+    github_id: gadicc/yahoo-finance2
+    category: market-exchange-data
+    labels: ["mcp", "skill"]
+  - name: twelvedata-python
+    github_id: twelvedata/twelvedata-python
+    category: market-exchange-data
+  - name: Binance Connector JS
+    github_id: binance/binance-connector-js
+    category: market-exchange-data
+  - name: ccapi
+    github_id: crypto-chassis/ccapi
+    category: market-exchange-data
+  - name: Screeni-py
+    github_id: pranjal-joshi/Screeni-py
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: defeatbeta-api
+    github_id: defeat-beta/defeatbeta-api
+    category: market-exchange-data
+  - name: FinanceMCP
+    github_id: guangxiangdebizi/FinanceMCP
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: borsa-mcp
+    github_id: saidsurucu/borsa-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: AllTick API
+    github_id: alltick/alltick-realtime-forex-crypto-stock-tick-finance-websocket-api
+    category: market-exchange-data
+  - name: Binance Connector Java
+    github_id: binance/binance-connector-java
+    category: market-exchange-data
+  - name: talipp
+    github_id: nardew/talipp
+    category: market-exchange-data
+  - name: API Bricks SDK (CoinAPI/FinFeedAPI)
+    github_id: api-bricks/api-bricks-sdk
+    category: market-exchange-data
+  - name: roq-api
+    github_id: roq-trading/roq-api
+    category: market-exchange-data
+  - name: TickDB
+    github_id: TickDB/tickdb-unified-realtime-marketdata-api
+    category: market-exchange-data
+    labels: ["mcp", "skill", "ai-native"]
+  - name: Shioaji
+    github_id: Sinotrade/Shioaji
+    category: market-exchange-data
+  - name: mcp-cn-a-stock
+    github_id: elsejj/mcp-cn-a-stock
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Hyperliquid TypeScript SDK
+    github_id: nktkas/hyperliquid
+    category: market-exchange-data
+  - name: mcp-aktools
+    github_id: aahl/mcp-aktools
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: yahoo-finance-mcp
+    github_id: Alex2Yang97/yahoo-finance-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: orderbook
+    github_id: bmoscon/orderbook
+    category: market-exchange-data
+  - name: cryptocurrency.cv
+    github_id: nirholas/cryptocurrency.cv
+    category: market-exchange-data
+    labels: ["mcp", "ai-native", "self-hosted"]
+  - name: binance_l3_est
+    github_id: OctopusTakopi/binance_l3_est
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: polyfill-rs
+    github_id: floor-licker/polyfill-rs
+    category: market-exchange-data
+  - name: akshare-one-mcp
+    github_id: zwldarren/akshare-one-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Massive client-go
+    github_id: massive-com/client-go
+    category: market-exchange-data
+  - name: eltdx
+    github_id: electkismet/eltdx
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Vybe Solana OHLC Candlestick Data API
+    github_id: vybenetwork/solana-ohlc-candlestick-data-api
+    category: market-exchange-data
+  - name: orderbooks
+    github_id: sieblyio/orderbooks
+    category: market-exchange-data
+  - name: yfinance-mcp
+    github_id: narumiruna/yfinance-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: stock-mcp
+    github_id: huweihua123/stock-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: korea-stock-mcp
+    github_id: jjlabsio/korea-stock-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: crypto (R CoinMarketCap)
+    github_id: JesseVent/crypto
+    category: market-exchange-data
+  - name: tardis-python
+    github_id: tardis-dev/tardis-python
+    category: market-exchange-data
+  - name: Financial Modeling Prep MCP Server
+    github_id: imbenrabi/Financial-Modeling-Prep-MCP-Server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: pytickersymbols
+    github_id: portfolioplus/pytickersymbols
+    category: market-exchange-data
+  - name: CoinGecko CLI
+    github_id: coingecko/coingecko-cli
+    category: market-exchange-data
+  - name: TWSE MCP Server
+    github_id: twjackysu/TWSEMCPServer
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: HiThink Financial API
+    github_id: HiThink-Tech/Financial-API
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: market_prices
+    github_id: maread99/market_prices
+    category: market-exchange-data
+  - name: vnstock-agent
+    github_id: mrgoonie/vnstock-agent
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Hyperliquid Data Layer API
+    github_id: moondevonyt/Hyperliquid-Data-Layer-API
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: coincap-mcp
+    github_id: QuantGeekDev/coincap-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Futu Stock MCP Server
+    github_id: shuizhengqi1/futu-stock-mcp-server
+    category: market-exchange-data
+    labels: ["mcp", "self-hosted"]
+  - name: Alpha Vantage MCP
+    github_id: calvernaz/alphavantage
+    category: market-exchange-data
+    labels: ["mcp", "self-hosted"]
+  - name: KOSPI/KOSDAQ Stock MCP Server
+    github_id: dragon1086/kospi-kosdaq-stock-server
+    category: market-exchange-data
+    labels: ["mcp", "self-hosted"]
+  - name: crypto2
+    github_id: sstoeckl/crypto2
+    category: market-exchange-data
+  - name: mcp-server-ccxt
+    github_id: Nayshins/mcp-server-ccxt
+    category: market-exchange-data
+    labels: ["mcp", "ai-native", "self-hosted"]
+  - name: Nasdaq Data Link MCP
+    github_id: stefanoamorelli/nasdaq-data-link-mcp
+    category: market-exchange-data
+    labels: ["mcp", "self-hosted"]
+  - name: yfinance MCP Server
+    github_id: Adity-star/mcp-yfinance-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: CME Market Data Handler
+    github_id: vincent212/CME-Market-Data-Handler
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: Korea Finance MCP
+    github_id: emceeKim/korea-finance-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: mexc-futures-sdk
+    github_id: oboshto/mexc-futures-sdk
+    category: market-exchange-data
+  - name: LLMQuant Data MCP
+    github_id: LLMQuant/data-mcp
+    category: market-exchange-data
+    labels: ["mcp", "ai-native"]
+  - name: Yahoo Finance MCP Server
+    github_id: AgentX-ai/yahoo-finance-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Tushare MCP
+    github_id: buuzzy/tushare_MCP
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: cryptoQuotes
+    github_id: serkor1/cryptoQuotes
+    category: market-exchange-data
+  - name: CryptoFetch
+    github_id: varshithkarkera/cryptofetch
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: PriceHub
+    github_id: eslazarev/pricehub
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: Hyperliquid Info MCP
+    github_id: kukapay/hyperliquid-info-mcp
+    category: market-exchange-data
+    labels: ["mcp", "ai-native"]
+  - name: ohlc-resample
+    github_id: adiled/ohlc-resample
+    category: market-exchange-data
+  - name: LSE Data
+    github_id: londonstrategicedge/lse-data
+    category: market-exchange-data
+  - name: yfinance-service
+    github_id: Vorckea/yfinance-service
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: crypto-market-data-ts
+    github_id: nirholas/crypto-market-data-ts
+    category: market-exchange-data
+    labels: ["self-hosted"]
+  - name: China Stock MCP Server
+    github_id: peikuo/china-stock-mcp-server
+    category: market-exchange-data
+    labels: ["mcp", "ai-native", "self-hosted"]
+  - name: Nobitex MCP Server
+    github_id: xmannii/nobitex-mcp-server
+    category: market-exchange-data
+    labels: ["mcp", "ai-native"]
+
+  # --- defi-tokenomics (Fase 2 discovery) ---
+  - name: uniswap-python
+    github_id: uniswap-python/uniswap-python
+    category: defi-tokenomics
+  - name: Superfluid Protocol Monorepo
+    github_id: superfluid-org/protocol-monorepo
+    category: defi-tokenomics
+    labels: ["self-hosted"]
+  - name: Streamflow JS SDK
+    github_id: streamflow-finance/js-sdk
+    category: defi-tokenomics
+  - name: radCAD
+    github_id: CADLabs/radCAD
+    category: defi-tokenomics
+    labels: ["self-hosted"]
+  - name: pump-fun-sdk
+    github_id: nirholas/pump-fun-sdk
+    category: defi-tokenomics
+    labels: ["mcp"]
+  - name: Fractal DeFi
+    github_id: Logarithm-Labs/fractal-defi
+    category: defi-tokenomics
+  - name: Crypto Allocation Analyzer
+    github_id: SerhiiVolianiuk/Crypto-Allocation-Analyzer
+    category: defi-tokenomics
+  - name: ActiveBlockference
+    github_id: ActiveInferenceInstitute/ActiveBlockference
+    category: defi-tokenomics
+  - name: Tokenomics Simulator
+    github_id: ViktorVL584/Tokenomics-Simulator
+    category: defi-tokenomics
+  - name: Tokenomist CLI
+    github_id: tokenomist-ai/tokenomist-cli
+    category: defi-tokenomics
+    labels: ["self-hosted"]
+  - name: PayDrip
+    github_id: shpak-vlad/PayDrip
+    category: defi-tokenomics
+
+  # --- onchain-analytics (Fase 2 discovery) ---
+  - name: Graph Node
+    github_id: graphprotocol/graph-node
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Ethereum ETL
+    github_id: blockchain-etl/ethereum-etl
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Mempool (mempool.space)
+    github_id: mempool/mempool
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: cryo
+    github_id: paradigmxyz/cryo
+    category: onchain-analytics
+  - name: electrs
+    github_id: romanz/electrs
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Subsquid (SQD) Squid SDK
+    github_id: subsquid/squid-sdk
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Yellowstone gRPC
+    github_id: rpcpool/yellowstone-grpc
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: rindexer
+    github_id: joshstevens19/rindexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Brontes
+    github_id: SorellaLabs/brontes
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Envio HyperIndex
+    github_id: enviodev/hyperindex
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Bitcoin ETL
+    github_id: blockchain-etl/bitcoin-etl
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Ethereum ETL Airflow
+    github_id: blockchain-etl/ethereum-etl-airflow
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: eth-labels
+    github_id: dawsbot/eth-labels
+    category: onchain-analytics
+  - name: DipDup
+    github_id: dipdup-io/dipdup
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Apibara DNA
+    github_id: apibara/dna
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: TzKT
+    github_id: baking-bad/tzkt
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Tycho
+    github_id: propeller-heads/tycho
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: OP Analytics
+    github_id: ethereum-optimism/op-analytics
+    category: onchain-analytics
+  - name: Moonstream API
+    github_id: moonstream-to/api
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Hemera Indexer
+    github_id: HemeraProtocol/hemera-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Kupo
+    github_id: CardanoSolutions/kupo
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: dcrdata
+    github_id: decred/dcrdata
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Anton
+    github_id: tonindexer/anton
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Golden Axe
+    github_id: indexsupply/golden-axe
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Solana gRPC Indexer (Rust)
+    github_id: senzenn/Solana-gRPC_indexer-Rust
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: DexScraper
+    github_id: vincentkoc/dexscraper
+    category: onchain-analytics
+  - name: TON Indexer
+    github_id: toncenter/ton-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Multichain Indexer
+    github_id: fystack/multichain-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Xatu
+    github_id: ethpandaops/xatu
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Solana Real-time Transaction Indexer
+    github_id: praptisharma28/Solana-Real-time-Transaction-Indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: evm-indexer
+    github_id: eabz/evm-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: ethereum-indexer
+    github_id: jolly-roger-eth/ethereum-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: thirdweb Insight
+    github_id: thirdweb-dev/insight
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: shinode
+    github_id: vicnaum/shinode
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Chaingraph
+    github_id: bitauth/chaingraph
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Chaindexing
+    github_id: chaindexing/chaindexing-rs
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Aleph Indexer Framework
+    github_id: aleph-im/aleph-indexer-framework
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: DexPaprika MCP
+    github_id: coinpaprika/dexpaprika-mcp
+    category: onchain-analytics
+    labels: ["mcp", "ai-native"]
+  - name: Cherry
+    github_id: steelcake/cherry
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Stellar ETL
+    github_id: stellar/stellar-etl
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: bitcoin-etl
+    github_id: taz4et/bitcoin-etl
+    category: onchain-analytics
+  - name: Rethix
+    github_id: gibz104/Rethix
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: growthepie Backend
+    github_id: growthepie/gtp-backend
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: BugChainIndexer
+    github_id: kismp123/BugChainIndexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Nova Wallet SubQuery History
+    github_id: novasamatech/subquery-history
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Aleph Indexer Library
+    github_id: aleph-im/aleph-indexer-library
+    category: onchain-analytics
+    labels: ["self-hosted"]
+
+  # --- fundamentals-filings (Fase 2 discovery) ---
+  - name: FinanceToolkit
+    github_id: JerBouma/FinanceToolkit
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: wallstreetlocal
+    github_id: leftmove/wallstreetlocal
+    category: fundamentals-filings
+    labels: ["self-hosted"]
+  - name: SEC EDGAR Dataset
+    github_id: datasets/edgar
+    category: fundamentals-filings
+  - name: sec-api-node
+    github_id: SEC-API-io/sec-api-node
+    category: fundamentals-filings
+  - name: sec-parser
+    github_id: alphanome-ai/sec-parser
+    category: fundamentals-filings
+  - name: python-xbrl
+    github_id: greedo/python-xbrl
+    category: fundamentals-filings
+  - name: Automated Fundamental Analysis
+    github_id: faizancodes/Automated-Fundamental-Analysis
+    category: fundamentals-filings
+  - name: fmpsdk
+    github_id: daxm/fmpsdk
+    category: fundamentals-filings
+  - name: DartLab
+    github_id: eddmpython/dartlab
+    category: fundamentals-filings
+    labels: ["mcp", "ai-native"]
+  - name: Equibles
+    github_id: daniel3303/Equibles
+    category: fundamentals-filings
+    labels: ["mcp", "self-hosted"]
+  - name: py-xbrl
+    github_id: manusimidt/py-xbrl
+    category: fundamentals-filings
+  - name: py-sec-edgar
+    github_id: ryansmccoy/py-sec-edgar
+    category: fundamentals-filings
+  - name: SEC-EDGAR-text
+    github_id: alions7000/SEC-EDGAR-text
+    category: fundamentals-filings
+  - name: GAAP Implementation Toolkit
+    github_id: zgu-usgaap-fr/GAAP-Implementation-Toolkit
+    category: fundamentals-filings
+  - name: pibou-filings
+    github_id: Pierre-Bouquet/pibou-filings
+    category: fundamentals-filings
+  - name: OpenInsider MCP
+    github_id: btopn/OpenInsider-MCP
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: Gepsio
+    github_id: JeffFerguson/gepsio
+    category: fundamentals-filings
+  - name: ixbrl-parse
+    github_id: kanedata/ixbrl-parse
+    category: fundamentals-filings
+  - name: sec-downloader
+    github_id: Elijas/sec-downloader
+    category: fundamentals-filings
+  - name: pyfmpcloud
+    github_id: razorhash/pyfmpcloud
+    category: fundamentals-filings
+  - name: edinet-tools
+    github_id: matthelmer/edinet-tools
+    category: fundamentals-filings
+  - name: 10-K Analysis
+    github_id: twCarllin/10k-analysis
+    category: fundamentals-filings
+    labels: ["ai-native"]
+  - name: FinancialModelingPrep.NET
+    github_id: MatthiWare/FinancialModelingPrep.NET
+    category: fundamentals-filings
+  - name: xbrl-parser (Go)
+    github_id: massive-com/xbrl-parser
+    category: fundamentals-filings
+  - name: sec-edgar-toolkit
+    github_id: stefanoamorelli/sec-edgar-toolkit
+    category: fundamentals-filings
+  - name: TIKR Statements Scraper
+    github_id: membaby/tikr-statements-scraper
+    category: fundamentals-filings
+  - name: fmp-data
+    github_id: MehdiZare/fmp-data
+    category: fundamentals-filings
+  - name: thaifin
+    github_id: ninyawee/thaifin
+    category: fundamentals-filings
+    labels: ["self-hosted"]
+  - name: litexbrl
+    github_id: tynmarket/litexbrl
+    category: fundamentals-filings
+  - name: sec-edgar-api
+    github_id: andyevers/sec-edgar-api
+    category: fundamentals-filings
+
+  # --- macro-geopolitics (Fase 2 discovery) ---
+  - name: Shadowbroker
+    github_id: BigBodyCobain/Shadowbroker
+    category: macro-geopolitics
+    labels: ["ai-native", "self-hosted"]
+  - name: fredapi
+    github_id: mortada/fredapi
+    category: macro-geopolitics
+  - name: Third-Eye
+    github_id: eli-labz/Third-Eye
+    category: macro-geopolitics
+    labels: ["ai-native", "self-hosted"]
+  - name: OpenSanctions
+    github_id: opensanctions/opensanctions
+    category: macro-geopolitics
+    labels: ["self-hosted"]
+  - name: Econ-ARK HARK
+    github_id: econ-ark/HARK
+    category: macro-geopolitics
+  - name: WDI
+    github_id: vincentarelbundock/WDI
+    category: macro-geopolitics
+  - name: gdelt-doc-api
+    github_id: alex9smith/gdelt-doc-api
+    category: macro-geopolitics
+  - name: wbdata
+    github_id: OliverSherouse/wbdata
+    category: macro-geopolitics
+  - name: yente (OpenSanctions API)
+    github_id: opensanctions/yente
+    category: macro-geopolitics
+    labels: ["self-hosted"]
+  - name: World Bank Data (Python)
+    github_id: mwouts/world_bank_data
+    category: macro-geopolitics
+  - name: MacroModelling.jl
+    github_id: thorek1/MacroModelling.jl
+    category: macro-geopolitics
+  - name: BeforeIT.jl
+    github_id: bancaditalia/BeforeIT.jl
+    category: macro-geopolitics
+  - name: FRED MCP Server
+    github_id: stefanoamorelli/fred-mcp-server
+    category: macro-geopolitics
+    labels: ["mcp"]
+  - name: SolveDSGE.jl
+    github_id: RJDennis/SolveDSGE.jl
+    category: macro-geopolitics
+  - name: gdeltr2
+    github_id: abresler/gdeltr2
+    category: macro-geopolitics
+  - name: FollowTheMoney
+    github_id: opensanctions/followthemoney
+    category: macro-geopolitics
+  - name: OpenEcon Data
+    github_id: hanlulong/openecon-data
+    category: macro-geopolitics
+    labels: ["mcp", "ai-native", "self-hosted"]
+  - name: IMFData
+    github_id: mingjerli/IMFData
+    category: macro-geopolitics
+  - name: World Bank MCP Server
+    github_id: anshumax/world_bank_mcp_server
+    category: macro-geopolitics
+    labels: ["mcp", "ai-native"]
+  - name: CentralBank-LLM
+    github_id: viczommers/CentralBank-LLM
+    category: macro-geopolitics
+    labels: ["ai-native"]
+  - name: gEconpy
+    github_id: jessegrabowski/gEconpy
+    category: macro-geopolitics
+  - name: agent-fecfile
+    github_id: hodgesmr/agent-fecfile
+    category: macro-geopolitics
+    labels: ["mcp", "skill"]
+  - name: Realpolitik
+    github_id: iamjameskeane/realpolitik
+    category: macro-geopolitics
+    labels: ["ai-native", "self-hosted"]
+  - name: RADAR
+    github_id: Syntax-Error-1337/radar
+    category: macro-geopolitics
+    labels: ["self-hosted"]
+  - name: gdeltnews
+    github_id: iandreafc/gdeltnews
+    category: macro-geopolitics
+  - name: tedata
+    github_id: HelloThereMatey/tedata
+    category: macro-geopolitics
+  - name: Global Affairs Simulation Platform
+    github_id: EnceladusLin/Global-Affairs-Simulation-Platform
+    category: macro-geopolitics
+    labels: ["ai-native"]
+  - name: OG-USA
+    github_id: PSLmodels/OG-USA
+    category: macro-geopolitics
+  - name: fed-dot-plot-scraper
+    github_id: palewire/fed-dot-plot-scraper
+    category: macro-geopolitics
+  - name: Bootleg Macro
+    github_id: HelloThereMatey/Bootleg_Macro
+    category: macro-geopolitics
+  - name: macropage
+    github_id: AFAN-LIFE/macropage
+    category: macro-geopolitics
+    labels: ["self-hosted"]
+  - name: ABCredit.jl
+    github_id: bancaditalia/ABCredit.jl
+    category: macro-geopolitics
+
+  # --- ai-agents-skills (Fase 2 discovery) ---
+  - name: ai-hedge-fund
+    github_id: virattt/ai-hedge-fund
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Daily Stock Analysis
+    github_id: ZhuLinsen/daily_stock_analysis
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: TradingAgents-CN
+    github_id: hsliuping/TradingAgents-CN
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: FinGPT
+    github_id: AI4Finance-Foundation/FinGPT
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: AI-Trader (HKUDS)
+    github_id: HKUDS/AI-Trader
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: FinRobot
+    github_id: AI4Finance-Foundation/FinRobot
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OpenAlice
+    github_id: TraderAlice/OpenAlice
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: TradingView MCP (tradesdontlie)
+    github_id: tradesdontlie/tradingview-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: AutoHedge
+    github_id: The-Swarm-Corporation/AutoHedge
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: TradingView MCP
+    github_id: atilaahmettaner/tradingview-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: ai-berkshire
+    github_id: xbtlin/ai-berkshire
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Awesome Finance Skills
+    github_id: RKiding/Awesome-finance-skills
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Financial Datasets MCP
+    github_id: financial-datasets/mcp-server
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: ATLAS (atlas-gic)
+    github_id: chrisworsey55/atlas-gic
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: AI Market Maker (AIMM)
+    github_id: olaxbt/ai-market-maker
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OpenNews MCP
+    github_id: 6551Team/opennews-mcp
+    category: research-discovery
+    labels: ["mcp"]
+  - name: Solana Agent Kit
+    github_id: sendaifun/solana-agent-kit
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: TradingAgents-astock
+    github_id: simonlin1212/TradingAgents-astock
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: LangAlpha
+    github_id: ginlix-ai/LangAlpha
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: TradeMemory Protocol
+    github_id: mnemox-ai/tradememory-protocol
+    category: ai-agents-skills
+    labels: ["mcp"]
+  - name: listen
+    github_id: piotrostr/listen
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: Alpaca MCP Server
+    github_id: alpacahq/alpaca-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: MAHORAGA
+    github_id: ygwyg/MAHORAGA
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Swapper Toolkit
+    github_id: swapperfinance/swapper-toolkit
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: Open nof1.ai
+    github_id: 195440/nof1.ai
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Prism Insight
+    github_id: dragon1086/prism-insight
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: TradingAgents-AShare
+    github_id: KylinMountain/TradingAgents-AShare
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: MaverickMCP
+    github_id: wshobson/maverick-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: MetaTrader MCP Server
+    github_id: ariadng/metatrader-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Polymarket MCP Server
+    github_id: caiovicentino/polymarket-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: AI Trading Agent (Hyperliquid)
+    github_id: Gajesh2007/ai-trading-agent
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: Wyckoff Trading Agent
+    github_id: YoungCan-Wang/WyckoffTradingAgent
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: 0xGasless AgentKit
+    github_id: 0xgasless/agentkit
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: OpenMobius Skill
+    github_id: MobiusQuant/OpenMobius-skill
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: LLM Agent Trader
+    github_id: jason8745/llm-agent-trader
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OpenThomas
+    github_id: realworkagent/openthomas
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: GMGN Skills
+    github_id: GMGNAI/gmgn-skills
+    category: crypto-trading
+    labels: ["skill"]
+  - name: Polymarket Paper Trader
+    github_id: agent-next/polymarket-paper-trader
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OKX Agent Trade Kit
+    github_id: okx/agent-trade-kit
+    category: market-exchange-data
+    labels: ["ai-native"]
+  - name: AI-Kline
+    github_id: QuantMLResearch/AI-Kline
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: FinRL-DeepSeek
+    github_id: benstaf/FinRL_DeepSeek
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: TradingAgents-MCPmode
+    github_id: guangxiangdebizi/TradingAgents-MCPmode
+    category: ai-agents-skills
+    labels: ["ai-native", "mcp"]
+  - name: LLM-TradeBot
+    github_id: EthanAlgoX/LLM-TradeBot
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Stock Scanner MCP
+    github_id: wbsu2003/stock-scanner-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Financial Chat
+    github_id: wshobson/financial-chat
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: AlpacaTradingAgent
+    github_id: huygiatrng/AlpacaTradingAgent
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Vibe Investing
+    github_id: gameworkerkim/vibe-investing
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: QMT-MCP
+    github_id: guangxiangdebizi/QMT-MCP
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Superior Skills
+    github_id: Superior-Trade/superior-skills
+    category: crypto-trading
+    labels: ["skill"]
+  - name: Armor Crypto MCP
+    github_id: armorwallet/armor-crypto-mcp
+    category: crypto-trading
+    labels: ["mcp"]
+  - name: a-share-skill
+    github_id: shouldnotappearcalm/a-share-skill
+    category: market-exchange-data
+    labels: ["skill"]
+  - name: AI Trading Agent (hkirat)
+    github_id: hkirat/ai-trading-agent
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: x2strategy
+    github_id: ALAGENT-HKU/x2strategy
+    category: backtesting-quant
+    labels: ["skill"]
+  - name: MCP MetaTrader 5 Server
+    github_id: Qoyyuum/mcp-metatrader5-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: AgentQuant
+    github_id: OnePunchMonk/AgentQuant
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: stock_datasource
+    github_id: Yourdaylight/stock_datasource
+    category: market-exchange-data
+  - name: OKX Agent Skills
+    github_id: okx/agent-skills
+    category: market-exchange-data
+    labels: ["skill"]
+  - name: finance_skills
+    github_id: JoelLewis/finance_skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: inAlpha
+    github_id: mirror29/inalpha
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Octagon MCP Server
+    github_id: OctagonAI/octagon-mcp-server
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: crypto-indicators-mcp
+    github_id: kukapay/crypto-indicators-mcp
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: AIBrokers
+    github_id: AI-Brokers/AIBrokers
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: freqtrade-mcp
+    github_id: kukapay/freqtrade-mcp
+    category: crypto-trading
+    labels: ["mcp"]
+  - name: "S&P 500 MCP Server"
+    github_id: zhensherlock/sp500-mcp-server
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: trading-bot
+    github_id: renee-jia/trading-bot
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Agentic Stock Research System
+    github_id: rooneyrulz/agentic-stock-research-system
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: stock-agent
+    github_id: 1517005260/stock-agent
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: okx-agent-trade-kit
+    github_id: dex-original/okx-agent-trade-kit
+    category: market-exchange-data
+    labels: ["ai-native"]
+  - name: TradingView Chart MCP
+    github_id: ertugrul59/tradingview-chart-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Senpi Skills
+    github_id: Senpi-ai/senpi-skills
+    category: crypto-trading
+    labels: ["skill"]
+  - name: MEXC Future Agent
+    github_id: Signal-Execution-Labs/mexc-future-agent
+    category: crypto-trading
+    labels: ["ai-native"]
+  - name: TradingAgents-Studio
+    github_id: wjhccc/TradingAgents-Studio
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Shuriken Skills
+    github_id: ShurikenTrade/shuriken-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: CCXT MCP
+    github_id: lazy-dinosaur/ccxt-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Solana Finance Claude Plugin
+    github_id: quicknode/solana-finance-claude-plugin
+    category: onchain-analytics
+    labels: ["skill"]
+  - name: Trading Skills
+    github_id: roman-rr/trading-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: AI Hedge Fund
+    github_id: chase-mew/ai-hedge-fund
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: QuantConnect MCP Server
+    github_id: QuantConnect/mcp-server
+    category: backtesting-quant
+    labels: ["mcp"]
+  - name: CC Equity Research
+    github_id: prof-little-bear/cc-equity-research
+    category: fundamentals-filings
+    labels: ["skill"]
+  - name: Trading MCP
+    github_id: netanelavr/trading-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: OpenProphet
+    github_id: JakeNesler/OpenProphet
+    category: ai-agents-skills
+    labels: ["ai-native", "mcp"]
+  - name: CryptoPanic MCP Server
+    github_id: kukapay/cryptopanic-mcp-server
+    category: research-discovery
+    labels: ["mcp"]
+  - name: Tushare Finance Skill for Claude Code
+    github_id: StanleyChanH/Tushare-Finance-Skill-for-Claude-Code
+    category: fundamentals-filings
+    labels: ["skill"]
+  - name: Claude Trading Skills
+    github_id: agiprolabs/claude-trading-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: TradingGoose
+    github_id: TradingGoose/TradingGoose.github.io
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Agenti
+    github_id: nirholas/agenti
+    category: onchain-analytics
+    labels: ["ai-native"]
+  - name: Trading Pal
+    github_id: United-Visions/Trading_Pal-main
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Finance Trading AI Agents MCP
+    github_id: aitrados/finance-trading-ai-agents-mcp
+    category: ai-agents-skills
+    labels: ["ai-native", "mcp"]
+  - name: Stock SDK MCP
+    github_id: chengzuopeng/stock-sdk-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: ClarityFinance
+    github_id: cooragent/ClarityFinance
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Korean DART MCP
+    github_id: chrisryugj/korean-dart-mcp
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: OpenFinClaw CLI
+    github_id: mirror29/openfinclaw-cli
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Trade It MCP
+    github_id: trade-it-inc/trade-it-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: CryptoAgent
+    github_id: The-Swarm-Corporation/CryptoAgent
+    category: research-discovery
+    labels: ["ai-native"]
+  - name: MoneyAtlas Claude Skill Agent
+    github_id: ElmatadorZ/MoneyAtlas-ClaudeSkill-Agent
+    category: macro-geopolitics
+    labels: ["skill"]
+  - name: FMP MCP Server
+    github_id: cdtait/fmp-mcp-server
+    category: fundamentals-filings
+    labels: ["mcp"]
+  - name: Crypto Sentiment MCP
+    github_id: kukapay/crypto-sentiment-mcp
+    category: research-discovery
+    labels: ["mcp"]
+  - name: TradingView MCP Server
+    github_id: lev-corrupted/TradingViewMCPServer
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Excel Analyst Pro Skill
+    github_id: jeremylongshore/excel-analyst-pro-skill-md
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: tradingview-mcp-server
+    github_id: fiale-plus/tradingview-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: MCP Crypto Price
+    github_id: truss44/mcp-crypto-price
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Universal Crypto MCP
+    github_id: nirholas/universal-crypto-mcp
+    category: defi-tokenomics
+    labels: ["mcp"]
+  - name: ai-crypto-claude
+    github_id: zubair-trabzada/ai-crypto-claude
+    category: onchain-analytics
+    labels: ["ai-native"]
+  - name: MCP OptionsFlow
+    github_id: twolven/mcp-optionsflow
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: UCAI (Universal Contract AI Interface)
+    github_id: nirholas/UCAI
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: Hyperliquid MCP Server
+    github_id: caiovicentino/hyperliquid-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: OpenTrade
+    github_id: brandononchain/opentrade
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: alpaca-mcp
+    github_id: laukikk/alpaca-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: BNB Chain MCP
+    github_id: nirholas/bnbchain-mcp
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: Binance MCP
+    github_id: nirholas/Binance-MCP
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: DeFi Agents
+    github_id: nirholas/defi-agents
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: SAM Framework
+    github_id: prfagit/sam-framework
+    category: onchain-analytics
+    labels: ["ai-native"]
+  - name: Robinhood MCP Server
+    github_id: rohitsingh-iitd/robinhood-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: mt5-trading-mcp
+    github_id: sumedhkumar/mt5-trading-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: MCP Yahoo Finance
+    github_id: maxscheijen/mcp-yahoo-finance
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: AI Trading Agent (Trader Dev MCP)
+    github_id: DaviddTech/ai-trading-agent
+    category: ai-agents-skills
+    labels: ["ai-native", "mcp"]
+  - name: alpaca-mcp-server
+    github_id: tedlikeskix/alpaca-mcp-server
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: TON Blockchain MCP
+    github_id: devonmojito/ton-blockchain-mcp
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: EODHD Claude Skills
+    github_id: EodHistoricalData/eodhd-claude-skills
+    category: fundamentals-filings
+    labels: ["skill"]
+  - name: CasualMarket
+    github_id: sacahan/CasualMarket
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Lore
+    github_id: LoreResearch/Lore
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: Nodit MCP Server
+    github_id: noditlabs/nodit-mcp-server
+    category: onchain-analytics
+    labels: ["mcp"]
+  - name: Binance.US MCP
+    github_id: nirholas/Binance-US-MCP
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: FlowLLM Finance MCP
+    github_id: FlowLLM-AI/finance-mcp
+    category: research-discovery
+    labels: ["mcp"]
+  - name: varrd
+    github_id: augiemazza/varrd
+    category: backtesting-quant
+    labels: ["mcp"]
+  - name: Momentum MCP
+    github_id: mphinance/momentum-mcp
+    category: market-exchange-data
+    labels: ["mcp"]
+  - name: Claude Code Trading Terminal
+    github_id: degentic-tools/claude-code-trading-terminal
+    category: crypto-trading
+    labels: ["ai-native"]
+
+  # --- dashboards-data (Fase 2 discovery) ---
+  - name: Lightweight Charts
+    github_id: tradingview/lightweight-charts
+    category: dashboards-data
+  - name: Ghostfolio
+    github_id: ghostfolio/ghostfolio
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: mop
+    github_id: mop-tracker/mop
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: tickrs
+    github_id: tarkah/tickrs
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Bloomberg Terminal (AI)
+    github_id: feremabraz/bloomberg-terminal
+    category: dashboards-data
+    labels: ["ai-native", "self-hosted"]
+  - name: Maestro
+    github_id: its-maestro-baby/maestro
+    category: dashboards-data
+    labels: ["ai-native"]
+  - name: VisualHFT
+    github_id: visualHFT/VisualHFT
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Shioaji Pro
+    github_id: Sinotrade/shioaji-pro-app
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: OpenBook
+    github_id: DegenSugarBoo/OpenBook
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: AI Stock Dashboard
+    github_id: ErikThiart/ai-stock-dashboard
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: QuantDash AI Stock
+    github_id: rancy777/quantdash-ai-stock
+    category: dashboards-data
+    labels: ["mcp", "ai-native", "self-hosted"]
+  - name: Astras Trading UI
+    github_id: alor-broker/Astras-Trading-UI
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Sibyl
+    github_id: nMaroulis/sibyl
+    category: dashboards-data
+    labels: ["ai-native", "self-hosted"]
+  - name: Indemos Terminal
+    github_id: Indemos/Terminal
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: OpenTerminalUI
+    github_id: Hitheshkaranth/OpenTerminalUI
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: TBT Paper Terminal
+    github_id: TheNewMikeMusic/tbt-paper-terminal
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Stonks
+    github_id: itskovacs/stonks
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: OpenTerminal
+    github_id: marketcalls/OpenTerminal
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Sentinel-Lite
+    github_id: pattty847/Sentinel-Lite
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: QuantumTerminal
+    github_id: RAYDENFLY/quantumterminal
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: Crypto Data Aggregator
+    github_id: nirholas/crypto-data-aggregator
+    category: dashboards-data
+    labels: ["self-hosted"]
+  - name: crypto-dashboard
+    github_id: ktwu01/crypto-dashboard
+    category: dashboards-data
+    labels: ["ai-native"]
+  - name: Vardhan
+    github_id: sumedhkumar/vardhan
+    category: dashboards-data
+    labels: ["self-hosted"]
+
+  # --- research-discovery (Fase 2 discovery) ---
+  - name: awesome-quant (China)
+    github_id: thuquant/awesome-quant
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Quant Machine Learning Trading
+    github_id: grananqvist/Awesome-Quant-Machine-Learning-Trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-crypto-trading-bots
+    github_id: botcrypto-io/awesome-crypto-trading-bots
+    category: research-discovery
+    labels: ["awesome"]
+  - name: FinnewsHunter
+    github_id: DemonDamon/FinnewsHunter
+    category: research-discovery
+    labels: ["ai-native"]
+  - name: Awesome-QuantDev-Learn
+    github_id: 0voice/Awesome-QuantDev-Learn
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Crypto (0xNav)
+    github_id: itgoyo/awesome-crypto
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-tradingview (Official)
+    github_id: tradingview/awesome-tradingview
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Web3 MCP Servers
+    github_id: demcp/awesome-web3-mcp-servers
+    category: research-discovery
+    labels: ["awesome", "mcp"]
+  - name: Awesome Prediction Market Tools
+    github_id: aarora4/Awesome-Prediction-Market-Tools
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Stock Trading
+    github_id: shi-rudo/awesome-stock-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Crypto Trackers
+    github_id: denisnazarov/awesome-crypto-trackers
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-quant-ai
+    github_id: leoncuhk/awesome-quant-ai
+    category: research-discovery
+    labels: ["awesome", "ai-native"]
+  - name: Awesome Fintech (7kfpun)
+    github_id: 7kfpun/awesome-fintech
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Fintech (moov-io)
+    github_id: moov-io/awesome-fintech
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-trading-agents
+    github_id: LLMQuant/awesome-trading-agents
+    category: research-discovery
+    labels: ["awesome"]
+  - name: best-of-algorithmic-trading
+    github_id: PlaceNL2026/best-of-algorithmic-trading
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Web3 Skills
+    github_id: fewwwww/awesome-web3-skills
+    category: research-discovery
+    labels: ["awesome", "skill", "ai-native"]
+  - name: Awesome Cryptocurrency
+    github_id: nntaoli/awesome-cryptocurrency
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-finance-mcp
+    github_id: BlockRunAI/awesome-finance-mcp
+    category: research-discovery
+    labels: ["awesome", "mcp"]
+  - name: awesome-crypto-mcp-servers
+    github_id: badkk/awesome-crypto-mcp-servers
+    category: research-discovery
+    labels: ["awesome", "mcp"]
+  - name: awesome-onchain-agents
+    github_id: sodofi/awesome-onchain-agents
+    category: research-discovery
+    labels: ["awesome", "ai-native"]
+  - name: "Awesome Investing Tools & Software Directory"
+    github_id: Jera-Value/awesome-investing-tools-and-software-directory
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Web3 (Footprint Analytics)
+    github_id: footprintanalytics/awesome-web3
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Investing
+    github_id: romainsimon/awesome-investing
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome EVM Indexer
+    github_id: o-az/awesome-evm-indexer
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Blockchain MCPs
+    github_id: royyannick/awesome-blockchain-mcps
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Finance
+    github_id: brandonhimpfen/awesome-finance
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-sec-filings
+    github_id: vibeyclaw/awesome-sec-filings
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Investing Tools
+    github_id: chromale/awesome-investing-tools
+    category: research-discovery
+    labels: ["awesome"]
+  - name: AwesomeCryptocurrency
+    github_id: BaseMax/AwesomeCryptocurrency
+    category: research-discovery
+    labels: ["awesome"]
+  - name: awesome-defi
+    github_id: brandonhimpfen/awesome-defi
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome Stock Exchange Info
+    github_id: kuangtu/awesome-stock-exchange-info
+    category: research-discovery
+    labels: ["awesome"]
+
+  # --- Fase 2b: research-driven (Grok cross-check, verificado) ---
+  - name: Claude Trading Skills (tradermonty)
+    github_id: tradermonty/claude-trading-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Options Trading Advisor (staskh)
+    github_id: staskh/trading_skills
+    category: market-exchange-data
+    labels: ["skill"]
+  - name: Uniswap AI
+    github_id: Uniswap/uniswap-ai
+    category: defi-tokenomics
+    labels: ["ai-native"]
+  - name: CBT Framework
+    github_id: Trade-With-Claude/cbt-framework
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Uniswap Trader MCP
+    github_id: kukapay/uniswap-trader-mcp
+    category: defi-tokenomics
+    labels: ["mcp"]
+  - name: DefiLlama Adapters
+    github_id: DefiLlama/DefiLlama-Adapters
+    category: defi-tokenomics
+  - name: DefiLlama App
+    github_id: DefiLlama/defillama-app
+    category: dashboards-data
+  - name: DefiLlama SDK
+    github_id: DefiLlama/defillama-sdk
+    category: market-exchange-data
+  - name: Kukapay MCP Servers
+    github_id: kukapay/kukapay-mcp-servers
+    category: ai-agents-skills
+    labels: ["mcp"]
+  - name: awesome-alpha-arena
+    github_id: kukapay/awesome-alpha-arena
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Crypto Skills (kukapay)
+    github_id: kukapay/crypto-skills
+    category: ai-agents-skills
+    labels: ["skill"]
+  - name: Jupiter MCP
+    github_id: kukapay/jupiter-mcp
+    category: defi-tokenomics
+    labels: ["mcp"]
+
+  # --- Fase 2c: perps SDKs (Grok cross-check, verificado vivo jun-2026) ---
+  - name: Hyperliquid Python SDK
+    github_id: hyperliquid-dex/hyperliquid-python-sdk
+    category: market-exchange-data
+  - name: Drift Protocol v2
+    github_id: velocity-exchange/protocol-v2
+    category: market-exchange-data
+  - name: dYdX v4 Clients
+    github_id: dydxprotocol/v4-clients
+    category: market-exchange-data
+  - name: Paradex Python SDK
+    github_id: tradeparadex/paradex-py
+    category: market-exchange-data
+  - name: Vertex Python SDK
+    github_id: vertex-protocol/vertex-python-sdk
+    category: market-exchange-data
+
+  # --- Fase 2d: org-by-org sweep (gh repo list, verificado vivo jun-2026) ---
+  - name: D-Tale
+    github_id: man-group/dtale
+    category: dashboards-data
+  - name: FinRL-X
+    github_id: AI4Finance-Foundation/FinRL-Trading
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: FinRL-Meta
+    github_id: AI4Finance-Foundation/FinRL-Meta
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: FinRL Crypto
+    github_id: AI4Finance-Foundation/FinRL_Crypto
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Awesome AI4Finance
+    github_id: AI4Finance-Foundation/Awesome_AI4Finance
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome OpenBB
+    github_id: OpenBB-finance/awesome-openbb
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Agents for OpenBB
+    github_id: OpenBB-finance/agents-for-openbb
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OpenBB AI SDK
+    github_id: OpenBB-finance/openbb-ai
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Spice (Dune client)
+    github_id: paradigmxyz/spice
+    category: onchain-analytics
+  - name: Dune Spellbook
+    github_id: duneanalytics/spellbook
+    category: onchain-analytics
+  - name: Dune Python Client
+    github_id: duneanalytics/dune-client
+    category: onchain-analytics
+  - name: Messari Subgraphs
+    github_id: messari/subgraphs
+    category: onchain-analytics
+
+  # --- Fase 2e: sub-repos de orgs flagship (Grok cross-check, verificado vivo jun-2026) ---
+  - name: Nautilus Agents
+    github_id: nautechsystems/nautilus_agents
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: FreqUI
+    github_id: freqtrade/frequi
+    category: dashboards-data
+  - name: Hummingbot Quants Lab
+    github_id: hummingbot/quants-lab
+    category: backtesting-quant
+  - name: Condor
+    github_id: hummingbot/condor
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Hummingbot Gateway
+    github_id: hummingbot/gateway
+    category: market-exchange-data
+  - name: OWID Grapher
+    github_id: owid/owid-grapher
+    category: macro-geopolitics

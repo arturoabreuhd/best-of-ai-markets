@@ -1,0 +1,86 @@
+# Based on https://github.com/best-of-lists/best-of-update-action/blob/v0.8.5/workflows/update-best-of-list.yml
+# Regenerates README.md from projects.yaml every week, opens a PR + draft release.
+name: update-best-of-list
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version to use for this update"
+        required: false
+  schedule:
+    - cron: "0 14 * * 4" # Every Thursday at 2pm UTC
+
+env:
+  BRANCH_PREFIX: "update/"
+  DEFAULT_BRANCH: "main"
+
+jobs:
+  update-best-of-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - if: ${{ github.event.inputs != null && github.event.inputs.version != null }}
+        name: set-version-from-input
+        env:
+          INPUT_VERSION: ${{ github.event.inputs.version }}
+        run: echo "VERSION=$INPUT_VERSION" >> "$GITHUB_ENV"
+      - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
+        name: set-version-via-date
+        run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
+      - uses: actions/checkout@v4
+      - name: check-version-tag
+        shell: bash
+        run: |
+          git fetch --tags --force
+          git show-ref --tags --verify --quiet -- "refs/tags/$VERSION" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> "$GITHUB_ENV" || exit 0
+      - name: create-update-branch
+        uses: peterjgrainger/action-create-branch@v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: "${{ env.BRANCH_PREFIX }}${{ env.VERSION }}"
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: update-best-of-list
+        uses: best-of-lists/best-of-update-action@v0.8.5
+        with:
+          github_key: ${{ secrets.GITHUB_TOKEN }}
+          # libraries_key is OPTIONAL — only needed for pypi/npm download stats.
+          # Add a libraries.io API key as the LIBRARIES_KEY secret to enable it.
+          libraries_key: ${{ secrets.LIBRARIES_KEY }}
+      - name: push-update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
+          commit_user_name: best-of update
+          commit_user_email: actions@github.com
+          commit_message: Update best-of list for version ${{ env.VERSION }}
+          tagging_message: ${{ env.VERSION }}
+          skip_dirty_check: true
+          commit_options: "--allow-empty"
+      - name: create-pull-request
+        shell: bash
+        run: |
+          gh pr create -B "${{ env.DEFAULT_BRANCH }}" -H "${{ env.BRANCH_PREFIX }}${{ env.VERSION }}" \
+            --title "Best-of update: ${{ env.VERSION }}" \
+            --body "To finish this update: merge this PR, then publish the created draft release in the [releases section](../releases)." || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: create-release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.VERSION }}
+          name: "Update: ${{ env.VERSION }}"
+          body_path: "latest-changes.md"
+          draft: true
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,16 @@
+# discovery scratch — not part of the published list
+_discovery/sample-projects.yaml
+_discovery/*.sqlite
+_discovery/*.db
+.DS_Store
+__pycache__/
+*.pyc
+
+# internal project tracking & process notes — local only, never published
+CLAUDE.md
+STATUS.md
+DECISIONS.md
+docs/daily-logs/
+_discovery/fase2-report.md
+_discovery/d8-reclassification.tsv
+.ledger/
