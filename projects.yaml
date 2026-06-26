@@ -2472,3 +2472,87 @@ projects:
     github_id: kukapay/jupiter-mcp
     category: ai-agents-skills
     labels: ["mcp"]
+
+  # --- Fase 2c: perps SDKs (Grok cross-check, verificado vivo jun-2026) ---
+  - name: Hyperliquid Python SDK
+    github_id: hyperliquid-dex/hyperliquid-python-sdk
+    category: market-exchange-data
+  - name: Drift Protocol v2
+    github_id: velocity-exchange/protocol-v2
+    category: market-exchange-data
+  - name: dYdX v4 Clients
+    github_id: dydxprotocol/v4-clients
+    category: market-exchange-data
+  - name: Paradex Python SDK
+    github_id: tradeparadex/paradex-py
+    category: market-exchange-data
+  - name: Vertex Python SDK
+    github_id: vertex-protocol/vertex-python-sdk
+    category: market-exchange-data
+
+  # --- Fase 2d: org-by-org sweep (gh repo list, verificado vivo jun-2026) ---
+  - name: D-Tale
+    github_id: man-group/dtale
+    category: dashboards-data
+  - name: FinRL-X
+    github_id: AI4Finance-Foundation/FinRL-Trading
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: FinRL-Meta
+    github_id: AI4Finance-Foundation/FinRL-Meta
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: FinRL Crypto
+    github_id: AI4Finance-Foundation/FinRL_Crypto
+    category: backtesting-quant
+    labels: ["ai-native"]
+  - name: Awesome AI4Finance
+    github_id: AI4Finance-Foundation/Awesome_AI4Finance
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Awesome OpenBB
+    github_id: OpenBB-finance/awesome-openbb
+    category: research-discovery
+    labels: ["awesome"]
+  - name: Agents for OpenBB
+    github_id: OpenBB-finance/agents-for-openbb
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: OpenBB AI SDK
+    github_id: OpenBB-finance/openbb-ai
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Spice (Dune client)
+    github_id: paradigmxyz/spice
+    category: onchain-analytics
+  - name: Dune Spellbook
+    github_id: duneanalytics/spellbook
+    category: onchain-analytics
+  - name: Dune Python Client
+    github_id: duneanalytics/dune-client
+    category: onchain-analytics
+  - name: Messari Subgraphs
+    github_id: messari/subgraphs
+    category: onchain-analytics
+
+  # --- Fase 2e: sub-repos de orgs flagship (Grok cross-check, verificado vivo jun-2026) ---
+  - name: Nautilus Agents
+    github_id: nautechsystems/nautilus_agents
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: FreqUI
+    github_id: freqtrade/frequi
+    category: dashboards-data
+  - name: Hummingbot Quants Lab
+    github_id: hummingbot/quants-lab
+    category: backtesting-quant
+  - name: Condor
+    github_id: hummingbot/condor
+    category: ai-agents-skills
+    labels: ["ai-native"]
+  - name: Hummingbot Gateway
+    github_id: hummingbot/gateway
+    category: market-exchange-data
+  - name: OWID Grapher
+    github_id: owid/owid-grapher
+    category: macro-geopolitics

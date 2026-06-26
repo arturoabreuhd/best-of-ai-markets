@@ -31,3 +31,15 @@
 ## D6 — Discovery agéntico para Fase 2 (Workflow)
 - **Qué:** Barrido enorme vía Workflow multi-agente (fan-out por categoría×modalidad, dedup, loop-until-dry, verify, append, regen).
 - **Por qué:** Arturo autorizó gasto alto para exhaustividad; es fan-out independiente clásico. Modalidades múltiples (topic + keyword + ecosyste.ms + Sourcegraph) cubren lo que una sola búsqueda pierde.
+
+## D7 — Adiciones research-driven + exclusiones por honestidad de dominio (Fase 2c/2d/2e)
+- **Qué:** +23 tools (657→680) vía cross-check con Grok + barrido org-by-org. Excluidos pese a stars enormes: sherlock (85k★, OSINT username), spiderfoot (19k★, threat-intel), modelcontextprotocol/* (87k★, infra MCP genérica), foundry-rs/foundry (10k★, dev-toolkit Solidity), paradigmxyz/reth (5.6k★, nodo Ethereum), langchain/langgraph (35k★, framework agentes genérico).
+- **Por qué:** La marca es "anti-humo": cada entrada debe SER lo que dice. Tools que no leen mercados/mundo (OSINT de personas, infra de protocolo, nodos, dev-frameworks) diluyen justo el diferenciador. Meter 100k+ estrellas daría tráfico pero rompería la promesa de dominio.
+- **Invalidaría:** si decidimos que la lista es "todo AI tooling" en vez de "leer mercados/mundo con IA" — entonces MCP SDKs y agent frameworks entrarían. Hoy el scope es el dominio, no la forma.
+- **Evidencia del valor:** Grok nunca inventó nombres (0 fantasmas en 4 rondas) pero sí sobrevende relevancia/métricas — exactamente el ruido que la lista filtra con verificación `gh repo view`.
+
+## D8 — Regla de asignación dominio×forma (reorg pre-launch)
+- **Qué:** Un tool va a su categoría de **DOMINIO** (crypto-trading, onchain-analytics, macro-geopolitics, etc.); `mcp`/`skill`/`ai-native` son SIEMPRE labels, nunca el criterio de categoría. `ai-agents-skills` queda SOLO para frameworks de agentes sin dominio propio (genéricos). Ej.: un MCP de datos on-chain → onchain-analytics [mcp], NO ai-agents-skills.
+- **Por qué:** Hoy "agentes/skills/MCP" está doble-codificado (categoría ai-agents-skills=149 + labels mcp/skill). Eso crea ambigüedad: un MCP de trading puede caer en crypto-trading[mcp] o ai-agents-skills[mcp]. Fijar la regla vuelve el cruce dominio×forma predecible para un LLM que busca "un MCP para X".
+- **Alcance:** mueve ~80-100 entradas de ai-agents-skills hacia sus dominios. Solo yaml, reversible, no toca verificación. Hacer ANTES de promocionar; regenerar README después.
+- **Invalidaría:** si los usuarios buscan primero por forma ("dame todos los MCP") más que por dominio — entonces ai-agents-skills como hub tendría sentido. Apuesta: buscan por dominio + filtran por label.
