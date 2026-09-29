@@ -84,14 +84,8 @@ projects:
   - name: Tribeca
     github_id: michaelgrosner/tribeca
     category: crypto-trading
-  - name: Gekko
-    github_id: askmike/gekko
-    category: crypto-trading
   - name: crypto-trading-bot
     github_id: Haehnchen/crypto-trading-bot
-    category: crypto-trading
-  - name: peregrine
-    github_id: wardbradt/peregrine
     category: crypto-trading
   - name: crypto-arbitrage-framework
     github_id: hzjken/crypto-arbitrage-framework
@@ -182,9 +176,6 @@ projects:
     labels: ["awesome"]
 
   # --- onchain-analytics ---
-  - name: OnchainKit
-    github_id: coinbase/onchainkit
-    category: onchain-analytics
   - name: dune-analytics-mcp
     github_id: kukapay/dune-analytics-mcp
     category: onchain-analytics
@@ -286,10 +277,6 @@ projects:
   - name: OpenStock
     github_id: Open-Dev-Society/OpenStock
     category: dashboards-data
-  - name: Stock-Prediction-Models
-    github_id: huseinzol05/Stock-Prediction-Models
-    category: dashboards-data
-    labels: ["ai-native"]
 
   # --- research-discovery ---
   - name: awesome-quant
@@ -428,7 +415,7 @@ projects:
     category: crypto-trading
     labels: ["self-hosted"]
   - name: Barbotine Arbitrage Bot
-    github_id: nelso0/barbotine-arbitrage-bot
+    github_id: rexonelo/barbotine-arbitrage-bot
     category: crypto-trading
   - name: AI Hedge Fund for Crypto
     github_id: 51bitquant/ai-hedge-fund-crypto
@@ -491,9 +478,6 @@ projects:
     github_id: donewiththedollar/directionalscalper
     category: crypto-trading
     labels: ["self-hosted"]
-  - name: solana-trading-bot-pumpfun
-    github_id: neodotsol/solana-trading-bot-pumpfun
-    category: crypto-trading
   - name: solana-trade-bot
     github_id: YZYLAB/solana-trade-bot
     category: crypto-trading
@@ -540,18 +524,6 @@ projects:
     github_id: tradinglabpremium/solana-twitter-token-trading-agent
     category: crypto-trading
     labels: ["ai-native"]
-  - name: Hyperliquid-Trading-Bot
-    github_id: xlev-v/Hyperliquid-Trading-Bot
-    category: crypto-trading
-    labels: ["self-hosted"]
-  - name: AI Memecoin Trading Bot
-    github_id: Jackhuang166/ai-memecoin-trading-bot
-    category: crypto-trading
-    labels: ["ai-native", "self-hosted"]
-  - name: PolyTerminal
-    github_id: txbabaxyz/polyterminal
-    category: crypto-trading
-    labels: ["self-hosted"]
   - name: Hyperliquid Trading Bot
     github_id: chainstacklabs/hyperliquid-trading-bot
     category: crypto-trading
@@ -619,7 +591,7 @@ projects:
     github_id: je-suis-tm/quant-trading
     category: backtesting-quant
   - name: QuantDinger
-    github_id: brokermr810/QuantDinger
+    github_id: OpenByteInc/QuantDinger
     category: backtesting-quant
     labels: ["mcp", "ai-native"]
   - name: QuantStats
@@ -765,8 +737,8 @@ projects:
     github_id: fbertram/TuringTrader
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: cuFOLIO
-    github_id: NVIDIA-AI-Blueprints/cuFOLIO
+  - name: Portfolio Optimization (NVIDIA cuOpt)
+    github_id: NVIDIA-AI-Blueprints/portfolio-optimization
     category: backtesting-quant
   - name: Pandas TA Classic
     github_id: xgboosted/pandas-ta-classic
@@ -881,10 +853,6 @@ projects:
   - name: PyIndicators
     github_id: coding-kitties/PyIndicators
     category: backtesting-quant
-  - name: quant-trade
-    github_id: colinsweany/quant-trade
-    category: backtesting-quant
-    labels: ["ai-native", "self-hosted"]
   - name: OxiDiviner
     github_id: rustic-ml/OxiDiviner
     category: backtesting-quant
@@ -1023,7 +991,7 @@ projects:
     github_id: quickfixgo/quickfix
     category: market-exchange-data
   - name: xbbg
-    github_id: xbbg-org/xbbg
+    github_id: underloam/xbbg
     category: market-exchange-data
   - name: dukascopy-node
     github_id: Leo4815162342/dukascopy-node
@@ -1057,7 +1025,7 @@ projects:
     category: market-exchange-data
     labels: ["mcp"]
   - name: AllTick API
-    github_id: alltick/alltick-realtime-forex-crypto-stock-tick-finance-websocket-api
+    github_id: AllTick-Official/alltick-realtime-forex-crypto-stock-tick-finance-websocket-api
     category: market-exchange-data
   - name: Binance Connector Java
     github_id: binance/binance-connector-java
@@ -1105,7 +1073,7 @@ projects:
     category: market-exchange-data
     labels: ["self-hosted"]
   - name: polyfill-rs
-    github_id: floor-licker/polyfill-rs
+    github_id: jtranq/polyfill-rs
     category: market-exchange-data
   - name: akshare-one-mcp
     github_id: zwldarren/akshare-one-mcp
@@ -1119,7 +1087,7 @@ projects:
     category: market-exchange-data
     labels: ["mcp"]
   - name: Vybe Solana OHLC Candlestick Data API
-    github_id: vybenetwork/solana-ohlc-candlestick-data-api
+    github_id: vybenetwork/solana-ohlc-api
     category: market-exchange-data
   - name: orderbooks
     github_id: sieblyio/orderbooks
@@ -1285,14 +1253,8 @@ projects:
   - name: Fractal DeFi
     github_id: Logarithm-Labs/fractal-defi
     category: defi-tokenomics
-  - name: Crypto Allocation Analyzer
-    github_id: SerhiiVolianiuk/Crypto-Allocation-Analyzer
-    category: defi-tokenomics
   - name: ActiveBlockference
     github_id: ActiveInferenceInstitute/ActiveBlockference
-    category: defi-tokenomics
-  - name: Tokenomics Simulator
-    github_id: ViktorVL584/Tokenomics-Simulator
     category: defi-tokenomics
   - name: Tokenomist CLI
     github_id: tokenomist-ai/tokenomist-cli
@@ -1423,12 +1385,8 @@ projects:
     github_id: eabz/evm-indexer
     category: onchain-analytics
     labels: ["self-hosted"]
-  - name: ethereum-indexer
-    github_id: jolly-roger-eth/ethereum-indexer
-    category: onchain-analytics
-    labels: ["self-hosted"]
-  - name: thirdweb Insight
-    github_id: thirdweb-dev/insight
+  - name: etherfold
+    github_id: wighawag/etherfold
     category: onchain-analytics
     labels: ["self-hosted"]
   - name: shinode
@@ -1459,9 +1417,6 @@ projects:
     github_id: stellar/stellar-etl
     category: onchain-analytics
     labels: ["self-hosted"]
-  - name: bitcoin-etl
-    github_id: taz4et/bitcoin-etl
-    category: onchain-analytics
   - name: Rethix
     github_id: gibz104/Rethix
     category: onchain-analytics
@@ -1834,10 +1789,6 @@ projects:
     github_id: jason8745/llm-agent-trader
     category: ai-agents-skills
     labels: ["ai-native"]
-  - name: OpenThomas
-    github_id: realworkagent/openthomas
-    category: ai-agents-skills
-    labels: ["ai-native"]
   - name: GMGN Skills
     github_id: GMGNAI/gmgn-skills
     category: crypto-trading
@@ -1862,8 +1813,8 @@ projects:
     github_id: guangxiangdebizi/TradingAgents-MCPmode
     category: ai-agents-skills
     labels: ["ai-native", "mcp"]
-  - name: LLM-TradeBot
-    github_id: EthanAlgoX/LLM-TradeBot
+  - name: AI Stock
+    github_id: EthanAlgoX/AIStock
     category: ai-agents-skills
     labels: ["ai-native"]
   - name: Stock Scanner MCP
@@ -1935,7 +1886,7 @@ projects:
     labels: ["mcp"]
   - name: crypto-indicators-mcp
     github_id: kukapay/crypto-indicators-mcp
-    category: onchain-analytics
+    category: market-exchange-data
     labels: ["mcp"]
   - name: AIBrokers
     github_id: AI-Brokers/AIBrokers
@@ -1976,10 +1927,6 @@ projects:
   - name: MEXC Future Agent
     github_id: Signal-Execution-Labs/mexc-future-agent
     category: crypto-trading
-    labels: ["ai-native"]
-  - name: TradingAgents-Studio
-    github_id: wjhccc/TradingAgents-Studio
-    category: ai-agents-skills
     labels: ["ai-native"]
   - name: Shuriken Skills
     github_id: ShurikenTrade/shuriken-skills
@@ -2082,7 +2029,7 @@ projects:
     category: research-discovery
     labels: ["mcp"]
   - name: TradingView MCP Server
-    github_id: lev-corrupted/TradingViewMCPServer
+    github_id: Spoofkapoof/TradingViewMCPServer
     category: market-exchange-data
     labels: ["mcp"]
   - name: Excel Analyst Pro Skill
@@ -2190,7 +2137,7 @@ projects:
     category: research-discovery
     labels: ["mcp"]
   - name: varrd
-    github_id: augiemazza/varrd
+    github_id: varrdinc/varrd
     category: backtesting-quant
     labels: ["mcp"]
   - name: Momentum MCP
@@ -2356,10 +2303,6 @@ projects:
     github_id: LLMQuant/awesome-trading-agents
     category: research-discovery
     labels: ["awesome"]
-  - name: best-of-algorithmic-trading
-    github_id: PlaceNL2026/best-of-algorithmic-trading
-    category: research-discovery
-    labels: ["awesome"]
   - name: Awesome Web3 Skills
     github_id: fewwwww/awesome-web3-skills
     category: research-discovery
@@ -2444,14 +2387,11 @@ projects:
     labels: ["ai-native"]
   - name: Uniswap Trader MCP
     github_id: kukapay/uniswap-trader-mcp
-    category: defi-tokenomics
+    category: crypto-trading
     labels: ["mcp"]
   - name: DefiLlama Adapters
     github_id: DefiLlama/DefiLlama-Adapters
     category: defi-tokenomics
-  - name: DefiLlama App
-    github_id: DefiLlama/defillama-app
-    category: dashboards-data
   - name: DefiLlama SDK
     github_id: DefiLlama/defillama-sdk
     category: market-exchange-data
@@ -2469,15 +2409,12 @@ projects:
     labels: ["skill"]
   - name: Jupiter MCP
     github_id: kukapay/jupiter-mcp
-    category: defi-tokenomics
+    category: crypto-trading
     labels: ["mcp"]
 
   # --- Fase 2c: perps SDKs (Grok cross-check, verificado vivo jun-2026) ---
   - name: Hyperliquid Python SDK
     github_id: hyperliquid-dex/hyperliquid-python-sdk
-    category: market-exchange-data
-  - name: Drift Protocol v2
-    github_id: velocity-exchange/protocol-v2
     category: market-exchange-data
   - name: dYdX v4 Clients
     github_id: dydxprotocol/v4-clients
@@ -2541,7 +2478,7 @@ projects:
     labels: ["ai-native"]
   - name: FreqUI
     github_id: freqtrade/frequi
-    category: dashboards-data
+    category: crypto-trading
   - name: Hummingbot Quants Lab
     github_id: hummingbot/quants-lab
     category: backtesting-quant
@@ -2555,3 +2492,41 @@ projects:
   - name: OWID Grapher
     github_id: owid/owid-grapher
     category: macro-geopolitics
+
+  # --- fase 3 (29-sep-2026) ---
+  - name: DefiLlama Dimension Adapters
+    github_id: DefiLlama/dimension-adapters
+    category: defi-tokenomics
+  - name: L2BEAT
+    github_id: l2beat/l2beat
+    category: defi-tokenomics
+  - name: DefiLlama Pegged Assets Server
+    github_id: DefiLlama/peggedassets-server
+    category: defi-tokenomics
+  - name: Celenium Celestia Indexer
+    github_id: celenium-io/celestia-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Simply Kaspa Indexer
+    github_id: supertypo/simply-kaspa-indexer
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: Clio (XRPL)
+    github_id: XRPLF/clio
+    category: onchain-analytics
+    labels: ["self-hosted"]
+  - name: DefiLlama Bridges Server
+    github_id: DefiLlama/bridges-server
+    category: onchain-analytics
+  - name: Open Dev Data
+    github_id: electric-capital/open-dev-data
+    category: dashboards-data
+  - name: OSS Directory
+    github_id: opensource-observer/oss-directory
+    category: dashboards-data
+  - name: Trust Wallet Assets
+    github_id: trustwallet/assets
+    category: dashboards-data
+  - name: Coin Metrics Data
+    github_id: coinmetrics/data
+    category: dashboards-data
