@@ -1,0 +1,33 @@
+# Checks every pull request that touches projects.yaml before a human merges it:
+# valid YAML, known categories/labels, no duplicates, and that new repos exist
+# on GitHub, are not archived and use their current name.
+name: validate-projects
+
+on:
+  pull_request:
+    paths:
+      - "projects.yaml"
+      - ".github/scripts/validar_projects.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+      - name: validate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          pip install --quiet pyyaml
+          git show "origin/$BASE_REF:projects.yaml" > "$RUNNER_TEMP/base.yaml" || true
+          python .github/scripts/validar_projects.py projects.yaml "$RUNNER_TEMP/base.yaml"

@@ -1,0 +1,37 @@
+name: Suggest a tool
+description: Propose an open-source tool for the list (no pull request needed).
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      description: The repo in owner/repo form or its full URL.
+      placeholder: owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - crypto-trading
+        - backtesting-quant
+        - market-exchange-data
+        - defi-tokenomics
+        - onchain-analytics
+        - fundamentals-filings
+        - macro-geopolitics
+        - ai-agents-skills
+        - dashboards-data
+        - research-discovery
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: What it does that the listed tools do not, or why it is a better-maintained alternative.
+    validations:
+      required: true

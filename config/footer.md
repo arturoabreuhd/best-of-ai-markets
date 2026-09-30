@@ -6,6 +6,7 @@ Contributions are encouraged and always welcome! 🙏
 
 - To add a tool, open a pull request that edits **`projects.yaml`** — add an entry with at least a `github_id` and a `category`. Do **not** edit `README.md` directly; it is generated automatically.
 - To report a stale, dead, or miscategorized project, open an issue.
+- No pull request needed: [suggest a tool](https://github.com/arturoabreuhd/best-of-ai-markets/issues/new?template=suggest-tool.yml) with the issue form.
 - To flag something for the curated **Emergence Picks** shortlist, label your PR `emergence-candidate`.
 
 A project is judged on its open-source merit, activity, and usefulness — not popularity alone. Low-star but genuinely useful tools in sparse domains (tokenomics, geopolitical risk) are included on purpose and clearly framed.

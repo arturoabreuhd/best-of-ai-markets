@@ -12,7 +12,9 @@ This list is **generated** from [`projects.yaml`](./projects.yaml). Never edit `
      category: crypto-trading   # must match a category id below
      labels: ["mcp"]            # optional
    ```
-3. Open a pull request. The weekly job (or a maintainer running it) regenerates the README.
+3. Open a pull request. An automatic check validates it (known category and labels, no duplicates, the repo exists, is not archived and uses its current name). The weekly job regenerates the README after merge.
+
+Not comfortable with pull requests? [Suggest a tool](https://github.com/arturoabreuhd/best-of-ai-markets/issues/new?template=suggest-tool.yml) with an issue instead.
 
 ### Category ids
 
@@ -32,8 +34,14 @@ To nominate a tool for the hand-curated, epistemically-vetted shortlist, label y
 
 ## Regenerating locally (maintainers)
 
+`best-of` 0.8.5 has not been maintained since 2022, and GitHub now rejects one field of its query
+(`stargazers { totalCount }`), which leaves every project without data. The weekly workflow applies a
+one-field patch; do the same locally:
+
 ```bash
-pip install best-of
+python3 -m venv .venv && . .venv/bin/activate
+pip install best-of==0.8.5
+python .github/scripts/parche_best_of.py
 export GITHUB_API_KEY=$(gh auth token)
 best-of generate projects.yaml
 ```
