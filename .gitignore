@@ -16,5 +16,5 @@ _discovery/d8-reclassification.tsv
 .ledger/
 
 # local automation fallback (GitHub Actions disabled) — never published
-scripts/
+/scripts/
 .local-update.log

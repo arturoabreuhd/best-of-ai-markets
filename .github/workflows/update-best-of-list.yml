@@ -54,13 +54,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@ee4e7b88df0e3538d496eab82fe5b4e613c999ef # v0.8.5
+      # best-of 0.8.5 is unmaintained since 2022 and GitHub now rejects its
+      # `stargazers { totalCount }` GraphQL field, which blanks every project.
+      # We run the same generator with a one-field patch (.github/scripts/parche_best_of.py).
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
-          github_key: ${{ secrets.GITHUB_TOKEN }}
-          # libraries_key is OPTIONAL — only needed for pypi/npm download stats.
-          # Add a libraries.io API key as the LIBRARIES_KEY secret to enable it.
-          libraries_key: ${{ secrets.LIBRARIES_KEY }}
+          python-version: "3.9"
+      - name: update-best-of-list
+        env:
+          GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install --quiet best-of==0.8.5
+          python .github/scripts/parche_best_of.py
+          best-of generate projects.yaml
+      - name: check-generated-data
+        # Fail before opening a PR if GitHub data came back empty again.
+        run: |
+          python - <<'PY'
+          import csv, glob, sys
+          f = sorted(glob.glob("history/*_projects.csv"))[-1]
+          rows = list(csv.DictReader(open(f)))
+          ok = sum(1 for r in rows if r.get("star_count"))
+          print(f"{f}: {ok}/{len(rows)} projects with GitHub data")
+          sys.exit(0 if rows and ok / len(rows) >= 0.9 else 1)
+          PY
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
         with:
