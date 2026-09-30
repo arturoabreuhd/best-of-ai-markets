@@ -2530,3 +2530,11 @@ projects:
   - name: Coin Metrics Data
     github_id: coinmetrics/data
     category: dashboards-data
+  # --- fase 5 (30-sep-2026) ---
+  - name: ecosyste.ms Commits
+    github_id: ecosyste-ms/commits
+    category: dashboards-data
+  - name: Kaspa REST Server
+    github_id: kaspa-ng/kaspa-rest-server
+    category: onchain-analytics
+    labels: ["self-hosted"]
