@@ -2585,7 +2585,7 @@ projects:
     github_id: andresilvasantos/bitprophet
     category: crypto-trading
     labels: ["self-hosted"]
-  - name: "ATS"
+  - name: "ATS (anouarac)"
     github_id: anouarac/ATS
     category: crypto-trading
   - name: "funding-rate-arbitrage"
@@ -2599,14 +2599,14 @@ projects:
     github_id: asidko/grid-trading-bot
     category: crypto-trading
     labels: ["self-hosted"]
-  - name: "ATS"
+  - name: "ATS (ats-sys)"
     github_id: ats-sys/ats
     category: crypto-trading
     labels: ["self-hosted"]
   - name: "CryptoBot"
     github_id: Azulinho/cryptobot
     category: crypto-trading
-  - name: "Orbit"
+  - name: "Orbit (B-Lens)"
     github_id: B-Lens/Orbit
     category: crypto-trading
     labels: ["self-hosted"]
@@ -2862,7 +2862,7 @@ projects:
     github_id: hoox-sh/hoox
     category: crypto-trading
     labels: ["self-hosted"]
-  - name: "goCryptoBot"
+  - name: "goCryptoBot (hubov)"
     github_id: hubov/gocryptobot
     category: crypto-trading
     labels: ["self-hosted"]
@@ -3350,7 +3350,7 @@ projects:
     github_id: ValtteriL/harjus
     category: crypto-trading
     labels: ["self-hosted"]
-  - name: "gocryptobot"
+  - name: "gocryptobot (vanillaiice)"
     github_id: vanillaiice/gocryptobot
     category: crypto-trading
   - name: "vnpy_binance"
@@ -3424,7 +3424,7 @@ projects:
     github_id: ztrade/ztrade
     category: crypto-trading
   # fase 6 · backtesting-quant
-  - name: "QuantDesk"
+  - name: "QuantDesk (0xbet-ai)"
     github_id: 0xbet-ai/QuantDesk
     category: backtesting-quant
     labels: ["ai-native", "self-hosted"]
@@ -3447,7 +3447,7 @@ projects:
     github_id: 1634594707/QuantHub
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "Trading Gym"
+  - name: "Trading Gym (6-Billionaires)"
     github_id: 6-Billionaires/trading-gym
     category: backtesting-quant
   - name: "MMR"
@@ -3500,7 +3500,7 @@ projects:
   - name: "TradingView Assistant"
     github_id: akumidv/tradingview-assistant-chrome-extension
     category: backtesting-quant
-  - name: "EasyQuant"
+  - name: "EasyQuant (AlanFokCo)"
     github_id: AlanFokCo/EasyQuant
     category: backtesting-quant
   - name: "garchmodels"
@@ -3605,7 +3605,7 @@ projects:
   - name: "Fynance"
     github_id: ArthurBernard/Fynance
     category: backtesting-quant
-  - name: "DQuant"
+  - name: "DQuant (artrdon)"
     github_id: artrdon/dquant
     category: backtesting-quant
   - name: "factorlasso"
@@ -3932,7 +3932,7 @@ projects:
   - name: "quant-research-framework"
     github_id: DaruFinance/quant-research-framework
     category: backtesting-quant
-  - name: "DQuant"
+  - name: "DQuant (datacruiser)"
     github_id: datacruiser/dquant
     category: backtesting-quant
   - name: "bt-ccxt-store"
@@ -4082,7 +4082,7 @@ projects:
     github_id: elitekaycy/qkt
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "pybacktest"
+  - name: "pybacktest (ematvey)"
     github_id: ematvey/pybacktest
     category: backtesting-quant
   - name: "Py-vAllocation"
@@ -4458,7 +4458,7 @@ projects:
     github_id: Jaxsonb04/weather_edge
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "pyrb"
+  - name: "pyrb (jcrichard)"
     github_id: jcrichard/pyrb
     category: backtesting-quant
   - name: "basanos"
@@ -4538,7 +4538,7 @@ projects:
     github_id: joseprupi/quantra
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "Quantra"
+  - name: "Quantra Server"
     github_id: joseprupi/quantraserver
     category: backtesting-quant
     labels: ["self-hosted"]
@@ -4635,7 +4635,7 @@ projects:
   - name: "traderl"
     github_id: komo135/trade-rl
     category: backtesting-quant
-  - name: "fixedincome"
+  - name: "fixedincome (konimarti)"
     github_id: konimarti/fixedincome
     category: backtesting-quant
   - name: "algorithmic-trading-utilities"
@@ -4675,7 +4675,7 @@ projects:
     github_id: Leo-luxy/GP_ANA
     category: backtesting-quant
     labels: ["ai-native", "self-hosted"]
-  - name: "QuantDesk"
+  - name: "QuantDesk (leohux)"
     github_id: leohux/quantdesk-oss
     category: backtesting-quant
     labels: ["self-hosted"]
@@ -4810,7 +4810,7 @@ projects:
   - name: "ml-backtest"
     github_id: MaxwellMendenhall/ml_backtest
     category: backtesting-quant
-  - name: "backtesting-engine"
+  - name: "backtesting-engine (mccaffers)"
     github_id: mccaffers/backtesting-engine
     category: backtesting-quant
   - name: "backtesting-engine-cpp"
@@ -4845,7 +4845,7 @@ projects:
   - name: "JS Algorithmic Backtesting Engine"
     github_id: miftahul001/js-algorithmic-backtesting-engine
     category: backtesting-quant
-  - name: "pyrb"
+  - name: "pyrb (mingi3314)"
     github_id: mingi3314/PyRb
     category: backtesting-quant
   - name: "minibt"
@@ -4952,7 +4952,7 @@ projects:
   - name: "roboquant"
     github_id: neurallayer/roboquant
     category: backtesting-quant
-  - name: "roboquant"
+  - name: "roboquant.py"
     github_id: neurallayer/roboquant.py
     category: backtesting-quant
   - name: "Neutryx Core"
@@ -4961,7 +4961,7 @@ projects:
   - name: "polars-trading"
     github_id: ngriffiths13/polars-trading
     category: backtesting-quant
-  - name: "backtesting-engine"
+  - name: "backtesting-engine (nieledran)"
     github_id: nieledran/backtesting-engine
     category: backtesting-quant
   - name: "PolarBT"
@@ -5018,7 +5018,7 @@ projects:
   - name: "Open Source Risk Engine (ORE)"
     github_id: OpenSourceRisk/Engine
     category: backtesting-quant
-  - name: "OpenTrader"
+  - name: "OpenTrader (OpenTrading)"
     github_id: OpenTrading/OpenTrader
     category: backtesting-quant
   - name: "OptiPie"
@@ -5206,7 +5206,7 @@ projects:
   - name: "QuantFinLib"
     github_id: quantfinlib/quantfinlib
     category: backtesting-quant
-  - name: "QuantForge"
+  - name: "QuantForge (quantforge-rs)"
     github_id: quantforge-rs/quantforge
     category: backtesting-quant
   - name: "quantform"
@@ -5255,7 +5255,7 @@ projects:
   - name: "prediction-market-backtester"
     github_id: Quentin-Piot/prediction-market-backtester
     category: backtesting-quant
-  - name: "QuantMind"
+  - name: "QuantMind (qusong0627)"
     github_id: qusong0627/QuantMind
     category: backtesting-quant
     labels: ["ai-native", "self-hosted"]
@@ -5306,10 +5306,10 @@ projects:
     github_id: rgaveiga/optionlab
     category: backtesting-quant
     labels: ["skill"]
-  - name: "limit-order-book"
+  - name: "limit-order-book (rhodey)"
     github_id: rhodey/limit-order-book
     category: backtesting-quant
-  - name: "hermes-quant"
+  - name: "hermes-quant (Rhymer-Lcy)"
     github_id: Rhymer-Lcy/hermes-quant
     category: backtesting-quant
   - name: "plutus-quant"
@@ -5359,7 +5359,7 @@ projects:
     github_id: rsandx/AlphaSuite
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "Lobster"
+  - name: "Lobster (rubik)"
     github_id: rubik/lobster
     category: backtesting-quant
   - name: "stochastic-rs"
@@ -5413,7 +5413,7 @@ projects:
   - name: "qteasy"
     github_id: shepherdpp/qteasy
     category: backtesting-quant
-  - name: "easyquant"
+  - name: "easyquant (shidenggui)"
     github_id: shidenggui/easyquant
     category: backtesting-quant
   - name: "easytrader"
@@ -5466,7 +5466,7 @@ projects:
   - name: "QuantCore"
     github_id: SLMolenaar/QuantCore
     category: backtesting-quant
-  - name: "pyBacktest"
+  - name: "pyBacktest (slowpoke111)"
     github_id: slowpoke111/pyBacktest
     category: backtesting-quant
   - name: "tgtrader"
@@ -5500,7 +5500,7 @@ projects:
   - name: "HybridMonteCarlo"
     github_id: sschlenkrich/HybridMonteCarlo
     category: backtesting-quant
-  - name: "StockMonitor"
+  - name: "StockMonitor (StarChaserLH)"
     github_id: StarChaserLH/stock_monitor
     category: backtesting-quant
     labels: ["self-hosted"]
@@ -5528,7 +5528,7 @@ projects:
   - name: "factor-zoo"
     github_id: superkush06/factor-zoo
     category: backtesting-quant
-  - name: "lobster"
+  - name: "lobster (superkush06)"
     github_id: superkush06/lobster
     category: backtesting-quant
   - name: "PythonMatchingEngine"
@@ -5567,10 +5567,10 @@ projects:
   - name: "Stock-Prediction"
     github_id: thatguuyG/Stock-Prediction
     category: backtesting-quant
-  - name: "Trading Gym"
+  - name: "Trading Gym (thedimlebowski)"
     github_id: thedimlebowski/Trading-Gym
     category: backtesting-quant
-  - name: "QuantForge"
+  - name: "QuantForge (theNeuralHorizon)"
     github_id: theNeuralHorizon/quantforge
     category: backtesting-quant
     labels: ["self-hosted"]
@@ -5626,7 +5626,7 @@ projects:
     github_id: TradeJS-Dev/TradeJS
     category: backtesting-quant
     labels: ["self-hosted"]
-  - name: "PiXiu"
+  - name: "PiXiu (tradepython)"
     github_id: tradepython/pixiu
     category: backtesting-quant
   - name: "TradeStream"
@@ -5781,10 +5781,10 @@ projects:
     github_id: WilliamGeek/WissenQuant
     category: backtesting-quant
     labels: ["ai-native", "self-hosted"]
-  - name: "bizdays"
+  - name: "bizdays (Python)"
     github_id: wilsonfreitas/python-bizdays
     category: backtesting-quant
-  - name: "fixedincome"
+  - name: "fixedincome (wilsonfreitas)"
     github_id: wilsonfreitas/R-fixedincome
     category: backtesting-quant
   - name: "GoAT"
@@ -6037,7 +6037,7 @@ projects:
   - name: "Stonks.jl"
     github_id: alinski29/Stonks.jl
     category: market-exchange-data
-  - name: "alpaca-java"
+  - name: "alpaca-java (alpacahq)"
     github_id: alpacahq/alpaca-java
     category: market-exchange-data
   - name: "Alpaca.Markets"
@@ -6089,7 +6089,7 @@ projects:
   - name: "technicalindicators"
     github_id: anandanand84/technicalindicators
     category: market-exchange-data
-  - name: "Orderflow"
+  - name: "Orderflow (AndreaFerrante)"
     github_id: AndreaFerrante/Orderflow
     category: market-exchange-data
   - name: "Sierra Chart Zorro Plugin"
@@ -6097,9 +6097,6 @@ projects:
     category: market-exchange-data
   - name: "sharewatch"
     github_id: anjulgarg/sharewatch
-    category: market-exchange-data
-  - name: "binance-downloader"
-    github_id: anson-vandoren/binance-downloader
     category: market-exchange-data
   - name: "tradestation-rs"
     github_id: antonio-hickey/tradestation-rs
@@ -7063,7 +7060,7 @@ projects:
   - name: "Kash Protocol SDK (Python)"
     github_id: KashDAO/protocol-sdk-python
     category: market-exchange-data
-  - name: "limit-order-book"
+  - name: "limit-order-book (Kautenja)"
     github_id: Kautenja/limit-order-book
     category: market-exchange-data
   - name: "SimTradeData"
@@ -7163,7 +7160,7 @@ projects:
   - name: "nautilus-futu"
     github_id: loadstarCN/nautilus-futu
     category: market-exchange-data
-  - name: "go-hyperliquid"
+  - name: "go-hyperliquid (Logarithm-Labs)"
     github_id: Logarithm-Labs/go-hyperliquid
     category: market-exchange-data
   - name: "Longbridge MCP"
@@ -7517,13 +7514,13 @@ projects:
   - name: "Helix"
     github_id: penberg/helix
     category: market-exchange-data
-  - name: "polymarket-tui"
+  - name: "polymarket-tui (penso)"
     github_id: penso/polymarket-tui
     category: market-exchange-data
   - name: "@perps/hip4"
     github_id: perps-studio/hip-4
     category: market-exchange-data
-  - name: "alpaca-java"
+  - name: "alpaca-java (Petersoj)"
     github_id: Petersoj/alpaca-java
     category: market-exchange-data
   - name: "IQFeed4j"
@@ -7751,7 +7748,7 @@ projects:
   - name: "ExFIX"
     github_id: santif/ex_fix
     category: market-exchange-data
-  - name: "tossinvest-mcp"
+  - name: "tossinvest-mcp (scjang01)"
     github_id: scjang01/tossinvest-mcp
     category: market-exchange-data
     labels: ["mcp"]
@@ -7863,7 +7860,7 @@ projects:
   - name: "asynchuobi"
     github_id: sometastycake/asynchuobi
     category: market-exchange-data
-  - name: "go-hyperliquid"
+  - name: "go-hyperliquid (sonirico)"
     github_id: sonirico/go-hyperliquid
     category: market-exchange-data
   - name: "Binance (.NET)"
@@ -7944,7 +7941,7 @@ projects:
   - name: "GCT-TA"
     github_id: thrasher-corp/gct-ta
     category: market-exchange-data
-  - name: "orderflow"
+  - name: "orderflow (tiagosiebler)"
     github_id: tiagosiebler/orderflow
     category: market-exchange-data
     labels: ["self-hosted"]
@@ -7962,7 +7959,7 @@ projects:
   - name: "bybit-go"
     github_id: tigusigalpa/bybit-go
     category: market-exchange-data
-  - name: "bybit-php"
+  - name: "bybit-php (tigusigalpa)"
     github_id: tigusigalpa/bybit-php
     category: market-exchange-data
   - name: "qstock"
@@ -8136,7 +8133,7 @@ projects:
     github_id: wildsurfer/cnn-fear-and-greed-parse
     category: market-exchange-data
     labels: ["mcp"]
-  - name: "bizdays"
+  - name: "bizdays (R)"
     github_id: wilsonfreitas/R-bizdays
     category: market-exchange-data
   - name: "alpaca-rust"
@@ -8238,7 +8235,7 @@ projects:
   - name: "binance-php"
     github_id: zhouaini528/binance-php
     category: market-exchange-data
-  - name: "bybit-php"
+  - name: "bybit-php (zhouaini528)"
     github_id: zhouaini528/bybit-php
     category: market-exchange-data
   - name: "exchanges-php"
@@ -8457,7 +8454,7 @@ projects:
   - name: "Polymarket Subgraph"
     github_id: Polymarket/polymarket-subgraph
     category: onchain-analytics
-  - name: "Orbit"
+  - name: "Orbit (s0md3v)"
     github_id: s0md3v/Orbit
     category: onchain-analytics
   - name: "Polymarket Sports Analytics"
@@ -8639,7 +8636,7 @@ projects:
     category: fundamentals-filings
     labels: ["mcp", "self-hosted"]
   # fase 6 · macro-geopolitics
-  - name: "forexfactory-scraper"
+  - name: "forexfactory-scraper (abbasi0abolfazl)"
     github_id: abbasi0abolfazl/forexfactory-scraper
     category: macro-geopolitics
   - name: "AFOS Analytics"
@@ -8676,7 +8673,7 @@ projects:
   - name: "MAKRO"
     github_id: DREAM-DK/MAKRO
     category: macro-geopolitics
-  - name: "forexfactory-scraper"
+  - name: "forexfactory-scraper (ehsanrs2)"
     github_id: ehsanrs2/forexfactory-scraper
     category: macro-geopolitics
   - name: "swiss-finance-data"
@@ -8812,7 +8809,7 @@ projects:
     github_id: aaronjmars/web3-research-mcp
     category: ai-agents-skills
     labels: ["mcp"]
-  - name: "bitcoin-mcp"
+  - name: "bitcoin-mcp (AbdelStark)"
     github_id: AbdelStark/bitcoin-mcp
     category: ai-agents-skills
     labels: ["mcp"]
@@ -8864,7 +8861,7 @@ projects:
     github_id: alphaply/crypto-agent
     category: ai-agents-skills
     labels: ["ai-native", "self-hosted"]
-  - name: "Alpha Vantage MCP"
+  - name: "Alpha Vantage MCP (alphavantage)"
     github_id: alphavantage/alpha_vantage_mcp
     category: ai-agents-skills
     labels: ["mcp", "skill"]
@@ -8920,7 +8917,7 @@ projects:
     github_id: Awu12277/dsh-stock-watch
     category: ai-agents-skills
     labels: ["skill", "ai-native"]
-  - name: "hermes-quant"
+  - name: "hermes-quant (baladithyab)"
     github_id: baladithyab/hermes-quant
     category: ai-agents-skills
     labels: ["ai-native"]
@@ -8952,7 +8949,7 @@ projects:
     github_id: bobashopcashier/kalshi-cli
     category: ai-agents-skills
     labels: ["skill", "ai-native"]
-  - name: "bitcoin-mcp"
+  - name: "bitcoin-mcp (Bortlesboat)"
     github_id: Bortlesboat/bitcoin-mcp
     category: ai-agents-skills
     labels: ["mcp", "self-hosted"]
@@ -9028,7 +9025,7 @@ projects:
     github_id: cryptobriefing-labs/gloria-mcp
     category: ai-agents-skills
     labels: ["mcp"]
-  - name: "PolyBot"
+  - name: "PolyBot (cryptuon)"
     github_id: cryptuon/polybot
     category: ai-agents-skills
     labels: ["mcp", "skill", "ai-native", "self-hosted"]
@@ -9104,7 +9101,7 @@ projects:
     github_id: emlai/defi-native-skill
     category: ai-agents-skills
     labels: ["skill", "ai-native"]
-  - name: "TradeAgent"
+  - name: "TradeAgent (enving)"
     github_id: enving/TradeAgent
     category: ai-agents-skills
     labels: ["ai-native"]
@@ -9340,7 +9337,7 @@ projects:
     github_id: JeongSeongMok/tossinvest-openapi-mcp
     category: ai-agents-skills
     labels: ["mcp"]
-  - name: "tossinvest-mcp"
+  - name: "tossinvest-mcp (Jeric1223)"
     github_id: Jeric1223/tossinvest-mcp
     category: ai-agents-skills
     labels: ["mcp"]
@@ -9356,7 +9353,7 @@ projects:
     github_id: JoaquinMulet/mcp-cmf-chile
     category: ai-agents-skills
     labels: ["mcp"]
-  - name: "QMT-MCP"
+  - name: "QMT-MCP (juju-w)"
     github_id: juju-w/qmt-mcp
     category: ai-agents-skills
     labels: ["mcp", "skill", "ai-native", "self-hosted"]
@@ -9436,7 +9433,7 @@ projects:
     github_id: Liu-Ming-Yu/alpha-forge
     category: ai-agents-skills
     labels: ["ai-native", "self-hosted"]
-  - name: "QuantMind"
+  - name: "QuantMind (LLMQuant)"
     github_id: LLMQuant/quant-mind
     category: ai-agents-skills
     labels: ["ai-native", "skill"]
@@ -9460,7 +9457,7 @@ projects:
     github_id: maghdam/chatgpt-trading-strategy-assistant
     category: ai-agents-skills
     labels: ["ai-native", "self-hosted"]
-  - name: "TradeAgent"
+  - name: "TradeAgent (maghdam)"
     github_id: maghdam/GenAI-MultiAgent-TradingSystem
     category: ai-agents-skills
     labels: ["ai-native", "self-hosted"]
@@ -9619,11 +9616,11 @@ projects:
     github_id: OSOJDJD/deeplook
     category: ai-agents-skills
     labels: ["mcp", "ai-native", "self-hosted"]
-  - name: "polymarket-mcp"
+  - name: "polymarket-mcp (ozgureyilmaz)"
     github_id: ozgureyilmaz/polymarket-mcp
     category: ai-agents-skills
     labels: ["mcp"]
-  - name: "polymarket-mcp"
+  - name: "polymarket-mcp (pab1it0)"
     github_id: pab1it0/polymarket-mcp
     category: ai-agents-skills
     labels: ["mcp"]
@@ -9871,7 +9868,7 @@ projects:
     github_id: ThaiTrevor/gold-mcp
     category: ai-agents-skills
     labels: ["mcp", "ai-native"]
-  - name: "PIXIU"
+  - name: "PIXIU (The-FinAI)"
     github_id: The-FinAI/PIXIU
     category: ai-agents-skills
   - name: "AI Trader Team"
@@ -10136,7 +10133,7 @@ projects:
   - name: "LightweightCharts.jl"
     github_id: bhftbootcamp/LightweightCharts.jl
     category: dashboards-data
-  - name: "polymarket-tui"
+  - name: "polymarket-tui (byronxlg)"
     github_id: byronxlg/polymarket-tui
     category: dashboards-data
   - name: "mns (Money Never Sleeps)"
@@ -10296,7 +10293,7 @@ projects:
   - name: "Star"
     github_id: hustcer/star
     category: dashboards-data
-  - name: "KlineChart"
+  - name: "KlineChart (icechao)"
     github_id: icechao/KlineChart
     category: dashboards-data
   - name: "PrincekinKlineFrame"
@@ -10343,7 +10340,7 @@ projects:
   - name: "Data Curator"
     github_id: KaxaNuk/Data-Curator
     category: dashboards-data
-  - name: "KLineChart"
+  - name: "KLineChart (klinecharts)"
     github_id: klinecharts/KLineChart
     category: dashboards-data
   - name: "investments"
@@ -10685,7 +10682,7 @@ projects:
   - name: "YYKline"
     github_id: WillkYang/YYKline
     category: dashboards-data
-  - name: "StockMonitor"
+  - name: "StockMonitor (woodwen)"
     github_id: woodwen/StockMonitor
     category: dashboards-data
   - name: "Stock Screener"
