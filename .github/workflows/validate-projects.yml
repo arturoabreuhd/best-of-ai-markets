@@ -8,6 +8,7 @@ on:
     paths:
       - "projects.yaml"
       - ".github/scripts/validar_projects.py"
+      - ".github/scripts/github_api.py"
 
 permissions:
   contents: read
@@ -15,7 +16,7 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:

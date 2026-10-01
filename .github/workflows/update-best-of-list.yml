@@ -57,6 +57,9 @@ jobs:
       # best-of 0.8.5 is unmaintained since 2022 and GitHub now rejects its
       # `stargazers { totalCount }` GraphQL field, which blanks every project.
       # We run the same generator with a one-field patch (.github/scripts/parche_best_of.py).
+      # generar.py feeds it GitHub data fetched in batches: asking one project at a
+      # time does not fit GITHUB_TOKEN's 1,000 points/requests per hour with
+      # thousands of projects (see the docstring there).
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: "3.9"
@@ -66,7 +69,7 @@ jobs:
         run: |
           pip install --quiet best-of==0.8.5
           python .github/scripts/parche_best_of.py
-          best-of generate projects.yaml
+          python .github/scripts/generar.py projects.yaml
       - name: check-generated-data
         # Fail before opening a PR if GitHub data came back empty again.
         run: |
