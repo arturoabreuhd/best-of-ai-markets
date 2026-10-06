@@ -10962,3 +10962,6 @@ projects:
   - name: "prediction-market-pricing"
     github_id: YichengYang-Ethan/prediction-market-pricing
     category: research-discovery
+  - name: "HostDeFi"
+    github_id: verixiaapps/nexus-dex
+    category: onchain-analytics
