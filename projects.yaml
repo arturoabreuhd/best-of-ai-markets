@@ -1092,6 +1092,18 @@ projects:
   - name: orderbooks
     github_id: sieblyio/orderbooks
     category: market-exchange-data
+  - name: Gate JavaScript SDK
+    github_id: sieblyio/gateio-api
+    category: crypto-trading
+  - name: Coinbase JavaScript SDK
+    github_id: sieblyio/coinbase-api
+    category: crypto-trading
+  - name: Kraken JavaScript SDK
+    github_id: sieblyio/kraken-api
+    category: crypto-trading
+  - name: Hyperliquid JavaScript SDK
+    github_id: sieblyio/hyperliquid-api
+    category: crypto-trading
   - name: yfinance-mcp
     github_id: narumiruna/yfinance-mcp
     category: market-exchange-data
