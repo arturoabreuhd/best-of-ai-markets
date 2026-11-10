@@ -1104,18 +1104,6 @@ projects:
   - name: Hyperliquid JavaScript SDK
     github_id: sieblyio/hyperliquid-api
     category: crypto-trading
-
-
-
-
-
-
-
-
-
-
-
-
   - name: yfinance-mcp
     github_id: narumiruna/yfinance-mcp
     category: market-exchange-data
